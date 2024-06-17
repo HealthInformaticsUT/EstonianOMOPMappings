@@ -117,7 +117,7 @@ Contributions are welcome! Please create a pull request or open an issue to disc
 
 ## License
 
-This repository is licensed under the CC BY-NC-SA 4.0 License. See the [LICENSE](https://creativecommons.org/licenses/by-nc-sa/4.0/) for more details.
+Estonian OMOP Mappings © 2024 by Health Informatics Lab, University of Tartu is licensed under CC BY-NC-SA 4.0. See the [LICENSE](LICENSE.txt) for more details.
 
 ## Publications
 Marek Oja, Sirli Tamm, Kerli Mooses, Maarja Pajusalu, Harry-Anton Talvik, Anne Ott, Marianna Laht, Maria Malk, Marcus Lõo, Johannes Holm, Markus Haug, Hendrik Šuvalov, Dage Särg, Jaak Vilo, Sven Laur, Raivo Kolde, Sulev Reisberg, Transforming Estonian health data to the Observational Medical Outcomes Partnership (OMOP) Common Data Model: lessons learned, JAMIA Open, Volume 6, Issue 4, December 2023, ooad100, https://doi.org/10.1093/jamiaopen/ooad100

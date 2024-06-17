@@ -63,4 +63,4 @@ Each CSV file contains the following columns:
 Contributions are welcome! Please create a pull request or open an issue to discuss any changes or additions.
 
 ## License
-This repository is licensed under the CC BY-NC-SA 4.0 License. See the [LICENSE](https://creativecommons.org/licenses/by-nc-sa/4.0/) for more details.
+Estonian OMOP Mappings © 2024 by Health Informatics Lab, University of Tartu is licensed under CC BY-NC-SA 4.0. See the [LICENSE](../LICENSE.txt) for more details.
