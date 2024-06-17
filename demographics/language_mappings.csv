@@ -1,0 +1,507 @@
+source_code,source_concept_id,source_vocabulary_id,source_code_type,source_code_description,source_name_eng,target_concept_name,target_concept_code,target_concept_id,target_vocabulary_id,target_domain,target_concept_class_id,updated_date,valid_end_date
+aar,0,None,language,Afari,Afar,Main spoken language Afar,698652007,44784496,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+abk,0,None,language,Abhaasi,Abkhazian,Main spoken language Abkhazian,698651000,44784495,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ace,0,None,language,Atšehi,Achinese,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ach,0,None,language,Atšoli,Acoli,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ada,0,None,language,Adangme,Adangme,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ady,0,None,language,Adõgee,Adyghe; Adygei,,No matching concept,0,None,,,2024-06-04,2099-12-31
+afa,0,None,language,Afroaasia keeled,Afro-Asiatic languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+afh,0,None,language,Afrihili,Afrihili,,No matching concept,0,None,,,2024-06-04,2099-12-31
+afr,0,None,language,Afrikaani,Afrikaans,Main spoken language Afrikaans,698653002,44784497,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+agx,0,None,language,Aguli,Aghul,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ain,0,None,language,Ainu,Ainu,,No matching concept,0,None,,,2024-06-04,2099-12-31
+aka,0,None,language,Akani,Akan,Main spoken language Akan,408525000,4256745,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+akk,0,None,language,Akadi,Akkadian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+alb,0,None,language,Albaania,Albanian,Main spoken language Albanian,407648002,4233048,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ale,0,None,language,Aleuudi,Aleut,,No matching concept,0,None,,,2024-06-04,2099-12-31
+alg,0,None,language,Algonkini keeled,Algonquian languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+alt,0,None,language,Altai,Southern Altai,,No matching concept,0,None,,,2024-06-04,2099-12-31
+amh,0,None,language,Amhara,Amharic,Main spoken language Amharic,408507007,4235403,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ang,0,None,language,Vanainglise (u 450–1100),"English, Old (ca. 450-1100)",,No matching concept,0,None,,,2024-06-04,2099-12-31
+anp,0,None,language,Angika,Angika,,No matching concept,0,None,,,2024-06-04,2099-12-31
+apa,0,None,language,Apatši keeled,Apache languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ara,0,None,language,Araabia,Arabic,Main spoken language Arabic,315566006,4153313,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+arc,0,None,language,Aramea,Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE),,No matching concept,0,None,,,2024-06-04,2099-12-31
+arg,0,None,language,Aragoni,Aragonese,Main spoken language Aragonese,809341000000106,44805848,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+arm,0,None,language,Armeenia,Armenian,Main spoken language Armenian,698885002,44782878,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+arn,0,None,language,Mapudunguni,Mapudungun; Mapuche,,No matching concept,0,None,,,2024-06-04,2099-12-31
+arp,0,None,language,Arapaho,Arapaho,,No matching concept,0,None,,,2024-06-04,2099-12-31
+art,0,None,language,Tehiskeeled,Artificial languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+arw,0,None,language,Aravaki,Arawak,,No matching concept,0,None,,,2024-06-04,2099-12-31
+asm,0,None,language,Assami,Assamese,Main spoken language Assamese,698886001,44784344,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ast,0,None,language,Astuuria,Asturian; Bable; Leonese; Asturleonese,,No matching concept,0,None,,,2024-06-04,2099-12-31
+aze,0,None,language,Aserbaidžaani,Azerbaijani,Main spoken language Azerbaijani,698888000,44782880,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ath,0,None,language,Atapaski keeled,Athapascan languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+aus,0,None,language,Austraalia keeled,Australian languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ava,0,None,language,Avaari,Avaric,Main spoken language Avaric,970441000000105,46285397,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ave,0,None,language,Avesta,Avestan,Main spoken language Avestan,970451000000108,46285398,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+awa,0,None,language,Avadhi,Awadhi,,No matching concept,0,None,,,2024-06-04,2099-12-31
+aym,0,None,language,Aimaraa,Aymara,Main spoken language Aymara,698887005,44782879,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+bad,0,None,language,Banda keeled,Banda languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bai,0,None,language,Bamileke keeled,Bamileke languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bak,0,None,language,Baškiiri,Bashkir,Main spoken language Bashkir,698889008,44784436,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+bal,0,None,language,Belutši,Baluchi,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bam,0,None,language,Bambara,Bambara,Main spoken language Bambara,970461000000106,46285399,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ban,0,None,language,Bali,Balinese,,No matching concept,0,None,,,2024-06-04,2099-12-31
+baq,0,None,language,Baski,Basque,Main spoken language Basque,698654008,44784498,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+bas,0,None,language,Basaa,Basa,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bat,0,None,language,Balti keeled,Baltic languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bej,0,None,language,Bedža,Beja; Bedawiyet,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bel,0,None,language,Valgevene,Belarusian,Main spoken language Belarusian,698655009,44784499,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+bem,0,None,language,Bemba,Bemba,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ben,0,None,language,Bengali,Bengali,Main spoken language Bengali,315567002,4153314,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ber,0,None,language,Berberi keeled,Berber languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bho,0,None,language,Bhodžpuri,Bhojpuri,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bih,0,None,language,Bihaari keeled,Bihari languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bik,0,None,language,Bikoli,Bikol,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bin,0,None,language,Edo,Bini; Edo,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bis,0,None,language,Bislama,Bislama,Main spoken language Bislama,698890004,44782881,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+bla,0,None,language,Mustjalaindiaani,Siksika,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bnt,0,None,language,Bantu keeled,Bantu languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bos,0,None,language,Bosnia,Bosnian,Main spoken language Bosnian,970471000000104,46287222,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+bra,0,None,language,Bradži,Braj,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bre,0,None,language,Bretooni,Breton,Main spoken language Breton,698657001,44784500,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+btk,0,None,language,Bataki keeled,Batak languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bua,0,None,language,Burjaadi,Buriat,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bug,0,None,language,Bugi,Buginese,,No matching concept,0,None,,,2024-06-04,2099-12-31
+bul,0,None,language,Bulgaaria,Bulgarian,Main spoken language Bulgarian,699945003,44783940,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+bur,0,None,language,Birma,Burmese,Main spoken language Burmese,698891000,44782882,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+byn,0,None,language,Bilini,Blin; Bilin,,No matching concept,0,None,,,2024-06-04,2099-12-31
+cad,0,None,language,Kado,Caddo,,No matching concept,0,None,,,2024-06-04,2099-12-31
+cai,0,None,language,Kesk-Ameerika indiaani keeled,Central American Indian languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+car,0,None,language,Kariibi,Galibi Carib,,No matching concept,0,None,,,2024-06-04,2099-12-31
+cat,0,None,language,Katalaani,Catalan; Valencian,Main spoken language Catalan,698892007,44784437,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+cau,0,None,language,Kaukaasia keeled,Caucasian languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ceb,0,None,language,Sebu,Cebuano,,No matching concept,0,None,,,2024-06-04,2099-12-31
+cel,0,None,language,Keldi keeled,Celtic languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+cha,0,None,language,Tšamorro,Chamorro,Main spoken language Chamorro,970481000000102,46285400,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+chb,0,None,language,Tšibtša,Chibcha,,No matching concept,0,None,,,2024-06-04,2099-12-31
+che,0,None,language,Tšetšeeni,Chechen,Main spoken language Chechen,970491000000100,46287100,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+chg,0,None,language,Tšagatai,Chagatai,,No matching concept,0,None,,,2024-06-04,2099-12-31
+chi,0,None,language,Hiina,Chinese,Main spoken language Chinese,970501000000106,46285401,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+chk,0,None,language,Tšuugi,Chuukese,,No matching concept,0,None,,,2024-06-04,2099-12-31
+chm,0,None,language,Mari,Mari,,No matching concept,0,None,,,2024-06-04,2099-12-31
+chn,0,None,language,Tšinuki žargoon,Chinook jargon,,No matching concept,0,None,,,2024-06-04,2099-12-31
+cho,0,None,language,Tšokto,Choctaw,,No matching concept,0,None,,,2024-06-04,2099-12-31
+chp,0,None,language,Dene,Chipewyan; Dene Suline,,No matching concept,0,None,,,2024-06-04,2099-12-31
+chr,0,None,language,Tšerokii,Cherokee,,No matching concept,0,None,,,2024-06-04,2099-12-31
+chu,0,None,language,Kirikuslaavi,Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic,Main spoken language Church Slavic,970511000000108,46285402,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+chv,0,None,language,Tšuvaši,Chuvash,Main spoken language Chuvash,970521000000102,46287223,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+chy,0,None,language,Šaieeni,Cheyenne,,No matching concept,0,None,,,2024-06-04,2099-12-31
+cmc,0,None,language,Tšaami keeled,Chamic languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+cnr,0,None,language,Montenegro,Montenegrin,,No matching concept,0,None,,,2024-06-04,2099-12-31
+cop,0,None,language,Kopti,Coptic,,No matching concept,0,None,,,2024-06-04,2099-12-31
+cor,0,None,language,Korni,Cornish,Main spoken language Cornish,970531000000100,46285403,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+cos,0,None,language,Korsika,Corsican,Main spoken language Corsican,698658006,44784501,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+cpe,0,None,language,Inglispõhjalised kreool- ja pidžinkeeled,"Creoles and pidgins, English based",,No matching concept,0,None,,,2024-06-04,2099-12-31
+cpf,0,None,language,Prantsuspõhjalised kreool- ja pidžinkeeled,"Creoles and pidgins, French-based",Main spoken language French Créole,408521009,4256744,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+cpp,0,None,language,Portugalipõhjalised kreool- ja pidžinkeeled,"Creoles and pidgins, Portuguese-based",,No matching concept,0,None,,,2024-06-04,2099-12-31
+cre,0,None,language,Krii,Cree,Main spoken language Cree,970541000000109,46285404,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+crh,0,None,language,Krimmitatari,Crimean Tatar; Crimean Turkish,,No matching concept,0,None,,,2024-06-04,2099-12-31
+crp,0,None,language,Kreool- ja pidžinkeeled,Creoles and pidgins,,No matching concept,0,None,,,2024-06-04,2099-12-31
+csb,0,None,language,Kašuubi,Kashubian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+cze,0,None,language,Tšehhi,Czech,Main spoken language Czech,315569004,4153316,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+cus,0,None,language,Kuši keeled,Cushitic languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+dak,0,None,language,Dakota,Dakota,,No matching concept,0,None,,,2024-06-04,2099-12-31
+dan,0,None,language,Taani,Danish,Main spoken language Danish,698894008,44782884,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+dar,0,None,language,Dargi,Dargwa,,No matching concept,0,None,,,2024-06-04,2099-12-31
+day,0,None,language,Sisemaadajaki keeled,Land Dayak languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+del,0,None,language,Delavari,Delaware,,No matching concept,0,None,,,2024-06-04,2099-12-31
+den,0,None,language,Sleivi,Slave (Athapascan),,No matching concept,0,None,,,2024-06-04,2099-12-31
+dgr,0,None,language,Dogribi,Dogrib,,No matching concept,0,None,,,2024-06-04,2099-12-31
+din,0,None,language,Dinka,Dinka,,No matching concept,0,None,,,2024-06-04,2099-12-31
+div,0,None,language,Maldiivi,Divehi; Dhivehi; Maldivian,Main spoken language Dhivehi,970551000000107,46285405,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+doi,0,None,language,Dogri,Dogri,,No matching concept,0,None,,,2024-06-04,2099-12-31
+dra,0,None,language,Draviidi keeled,Dravidian languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+dsb,0,None,language,Alamsorbi,Lower Sorbian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+dzo,0,None,language,Dzongkha,Dzongkha,Main spoken language Jonkha,698895009,44784529,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+dua,0,None,language,Duala,Duala,,No matching concept,0,None,,,2024-06-04,2099-12-31
+dum,0,None,language,Keskhollandi (u 1050–1350),"Dutch, Middle (ca.1050-1350)",,No matching concept,0,None,,,2024-06-04,2099-12-31
+dut,0,None,language,Hollandi,Dutch; Flemish,Main spoken language Dutch,408528003,4235407,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+dyu,0,None,language,Djula,Dyula,,No matching concept,0,None,,,2024-06-04,2099-12-31
+efi,0,None,language,Efiki,Efik,,No matching concept,0,None,,,2024-06-04,2099-12-31
+egy,0,None,language,Egiptuse,Egyptian (Ancient),,No matching concept,0,None,,,2024-06-04,2099-12-31
+eka,0,None,language,Ekadžuki,Ekajuk,,No matching concept,0,None,,,2024-06-04,2099-12-31
+elx,0,None,language,Eelami,Elamite,,No matching concept,0,None,,,2024-06-04,2099-12-31
+eng,0,None,language,Inglise,English,Main spoken language English,315570003,4151757,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+enm,0,None,language,Keskinglise (1100–1500),"English, Middle (1100-1500)",,No matching concept,0,None,,,2024-06-04,2099-12-31
+epo,0,None,language,Esperanto,Esperanto,Main spoken language Esperanto,698896005,44782885,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+eso,0,None,language,Eesti viipekeel,Estonian Sign Language,Estonian sign language,704547004,45767210,SNOMED,Language,Qualifier Value,2024-06-04,2099-12-31
+eso,0,None,language,Eesti viipekeel,Estonian Sign Language,Main spoken language Estonian,698659003,44784502,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+est,0,None,language,Eesti,Estonian,Main spoken language Estonian,698659003,44784502,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ewe,0,None,language,Eve,Ewe,Main spoken language Ewe,970561000000105,46285406,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ewo,0,None,language,Evondo,Ewondo,,No matching concept,0,None,,,2024-06-04,2099-12-31
+fan,0,None,language,Fangi,Fang,,No matching concept,0,None,,,2024-06-04,2099-12-31
+fao,0,None,language,Fääri,Faroese,Main spoken language Faroese,698660008,44782487,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+fat,0,None,language,Fanti,Fanti,,No matching concept,0,None,,,2024-06-04,2099-12-31
+fij,0,None,language,Fidži,Fijian,Main spoken language Fijian,698897001,44782886,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+fil,0,None,language,Filipiini,Filipino; Pilipino,Main spoken language Filipino,503511000000100,44802637,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+fin,0,None,language,Soome,Finnish,Main spoken language Finnish,414640006,4189332,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+fiu,0,None,language,Soome-ugri keeled,Finno-Ugrian languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+fon,0,None,language,Foni,Fon,,No matching concept,0,None,,,2024-06-04,2099-12-31
+fre,0,None,language,Prantsuse,French,Main spoken language French,315571004,4153317,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+frm,0,None,language,Keskprantsuse (1400–1600),"French, Middle (ca.1400-1600)",,No matching concept,0,None,,,2024-06-04,2099-12-31
+fro,0,None,language,Vanaprantsuse (842 – u 1400),"French, Old (842-ca.1400)",,No matching concept,0,None,,,2024-06-04,2099-12-31
+frr,0,None,language,Põhjafriisi,Northern Frisian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+frs,0,None,language,Idafriisi,Eastern Frisian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+fry,0,None,language,Friisi,Western Frisian,Main spoken language Western Frisian,971041000000105,46285433,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ful,0,None,language,Fula,Fulah,Main spoken language Fulani,729051000000103,44803535,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+fur,0,None,language,Friuuli,Friulian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+gaa,0,None,language,Gaa,Ga,,No matching concept,0,None,,,2024-06-04,2099-12-31
+gag,0,None,language,Gagauusi,Gagauz,,No matching concept,0,None,,,2024-06-04,2099-12-31
+gay,0,None,language,Gajo,Gayo,,No matching concept,0,None,,,2024-06-04,2099-12-31
+gba,0,None,language,Gbaja,Gbaya,,No matching concept,0,None,,,2024-06-04,2099-12-31
+gem,0,None,language,Germaani keeled,Germanic languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+geo,0,None,language,Gruusia,Georgian,Main spoken language Georgian,698898006,44782887,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ger,0,None,language,Saksa,German,Main spoken language German,407643006,4253310,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+gez,0,None,language,Geezi,Geez,,No matching concept,0,None,,,2024-06-04,2099-12-31
+gil,0,None,language,Kiribati,Gilbertese,,No matching concept,0,None,,,2024-06-04,2099-12-31
+gla,0,None,language,Gaeli,Gaelic; Scottish Gaelic,Main spoken language Scottish Gaelic,970941000000103,46285426,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+gle,0,None,language,Iiri,Irish,Main spoken language Irish,698667006,44784507,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+glg,0,None,language,Galeegi,Galician,Main spoken language Galician,698662000,44782488,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+glv,0,None,language,Mänksi,Manx,Main spoken language Manx,970741000000100,46287102,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+gmh,0,None,language,Keskülemsaksa (u 1050–1500),"German, Middle High (ca.1050-1500)",,No matching concept,0,None,,,2024-06-04,2099-12-31
+goh,0,None,language,Vanaülemsaksa (u 750–1050),"German, Old High (ca.750-1050)",,No matching concept,0,None,,,2024-06-04,2099-12-31
+gon,0,None,language,Gondi,Gondi,,No matching concept,0,None,,,2024-06-04,2099-12-31
+gor,0,None,language,Gorontalo,Gorontalo,,No matching concept,0,None,,,2024-06-04,2099-12-31
+got,0,None,language,Gooti,Gothic,,No matching concept,0,None,,,2024-06-04,2099-12-31
+grb,0,None,language,Grebo,Grebo,,No matching concept,0,None,,,2024-06-04,2099-12-31
+grc,0,None,language,Vanakreeka (1453. a-ni),"Greek, Ancient (to 1453)",,No matching concept,0,None,,,2024-06-04,2099-12-31
+gre,0,None,language,Kreeka (pärast 1453. a),"Greek, Modern (1453-)",Main spoken language Greek,407652002,4253312,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+grn,0,None,language,Guaranii,Guarani,Main spoken language Guarani,698899003,44784530,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+gsw,0,None,language,Alemanni,Swiss German; Alemannic; Alsatian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+guj,0,None,language,Gudžarati,Gujarati,Main spoken language Gujerati,315572006,4152248,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+gwi,0,None,language,Gvitšini,Gwich'in,,No matching concept,0,None,,,2024-06-04,2099-12-31
+hai,0,None,language,Haida,Haida,,No matching concept,0,None,,,2024-06-04,2099-12-31
+hat,0,None,language,Haiti,Haitian; Haitian Creole,Main spoken language Haitian,970601000000105,46287224,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+hau,0,None,language,Hausa,Hausa,Main spoken language Hausa,315574007,4152249,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+haw,0,None,language,Havai,Hawaiian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+hbo,0,None,language,Vanaheebrea keel,Ancient Hebrew,,No matching concept,0,None,,,2024-06-04,2099-12-31
+hbs,0,None,language,Serbia-horvaadi,Serbo-Croatian,Main spoken language Serbian,408535006,4256749,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+heb,0,None,language,Heebrea,Hebrew,Main spoken language Hebrew,408524001,4235406,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+her,0,None,language,Herero,Herero,Main spoken language Herero,970611000000107,46285407,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+hil,0,None,language,Hiligainoni,Hiligaynon,,No matching concept,0,None,,,2024-06-04,2099-12-31
+him,0,None,language,Himatšali keeled,Himachali languages; Western Pahari languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+hin,0,None,language,Hindi,Hindi,Main spoken language Hindi,315575008,4154081,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+hit,0,None,language,Heti,Hittite,,No matching concept,0,None,,,2024-06-04,2099-12-31
+hmn,0,None,language,Hmongi,Hmong; Mong,,No matching concept,0,None,,,2024-06-04,2099-12-31
+hmo,0,None,language,Hirimotu,Hiri Motu,Main spoken language Hiri Motu,970621000000101,46285408,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+hrv,0,None,language,Horvaadi,Croatian,Main spoken language Croatian,407650005,4250123,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+hsb,0,None,language,Ülemsorbi,Upper Sorbian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+hun,0,None,language,Ungari,Hungarian,Main spoken language Hungarian,698900008,44782888,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+hup,0,None,language,Hupa,Hupa,,No matching concept,0,None,,,2024-06-04,2099-12-31
+iba,0,None,language,Ibani,Iban,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ibo,0,None,language,Ibo,Igbo,Main spoken language Igbo,408514009,4256642,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ice,0,None,language,Islandi,Icelandic,Main spoken language Icelandic,698663005,44784504,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ido,0,None,language,Ido,Ido,Main spoken language Ido,970631000000104,46287101,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+iii,0,None,language,Nuosu,Sichuan Yi; Nuosu,Main spoken language Nuosu,970961000000102,46285427,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ijo,0,None,language,Idžo keeled,Ijo languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+iku,0,None,language,Inuktituti,Inuktitut,Main spoken language Inuktitut,698665003,44782489,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ile,0,None,language,Interlingue,Interlingue; Occidental,Main spoken language Occidental,698902000,44782890,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ilo,0,None,language,Iloko,Iloko,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ils,0,None,language,Rahvusvaheline viipekeel,International Sign Language,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ina,0,None,language,Interlingua,Interlingua (International Auxiliary Language Association),Main spoken language Interlingua,698664004,44784505,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+inc,0,None,language,India keeled,Indic languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ind,0,None,language,Indoneesia,Indonesian,Main spoken language Indonesian,698901007,44782889,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ine,0,None,language,Indoeuroopa keeled,Indo-European languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+inh,0,None,language,Inguši,Ingush,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ipk,0,None,language,Injupiaki,Inupiaq,Main spoken language Inupiaq,698666002,44784506,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ira,0,None,language,Iraani keeled,Iranian languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+iro,0,None,language,Irokeesi keeled,Iroquoian languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+izh,0,None,language,Isuri,Ingrian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ita,0,None,language,Itaalia,Italian,Main spoken language Italian,407642001,4233047,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+jav,0,None,language,Jaava,Javanese,Main spoken language Javanese,698903005,44782891,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+jbo,0,None,language,Ložban,Lojban,,No matching concept,0,None,,,2024-06-04,2099-12-31
+jpn,0,None,language,Jaapani,Japanese,Main spoken language Japanese,407654001,4236302,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+jpr,0,None,language,Juudipärsia,Judeo-Persian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+jrb,0,None,language,Juudiaraabia,Judeo-Arabic,,No matching concept,0,None,,,2024-06-04,2099-12-31
+kaa,0,None,language,Karakalpaki,Kara-Kalpak,,No matching concept,0,None,,,2024-06-04,2099-12-31
+kab,0,None,language,Kabiili,Kabyle,,No matching concept,0,None,,,2024-06-04,2099-12-31
+kac,0,None,language,Katšini,Kachin; Jingpho,,No matching concept,0,None,,,2024-06-04,2099-12-31
+kal,0,None,language,Grööni,Kalaallisut; Greenlandic,Main spoken language Kalaallisut,698904004,44782902,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+kam,0,None,language,Kamba,Kamba,,No matching concept,0,None,,,2024-06-04,2099-12-31
+kan,0,None,language,Kannada,Kannada,Main spoken language Kanarese,698905003,44782892,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+kar,0,None,language,Kareni keeled,Karen languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+kas,0,None,language,Kašmiiri,Kashmiri,Main spoken language Kashmiri,698906002,44782893,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+kaz,0,None,language,Kasahhi,Kazakh,Main spoken language Kazakh,698668001,44784508,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+kau,0,None,language,Kanuri,Kanuri,Main spoken language Kanuri,970641000000108,46285409,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+kaw,0,None,language,Kaavi,Kawi,,No matching concept,0,None,,,2024-06-04,2099-12-31
+kbd,0,None,language,Kabardi-tšerkessi,Kabardian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+kha,0,None,language,Khasi,Khasi,,No matching concept,0,None,,,2024-06-04,2099-12-31
+khi,0,None,language,Khoisani keeled,Khoisan languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+khm,0,None,language,Khmeeri,Central Khmer,Main spoken language Central Khmer,698893002,44782883,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+kho,0,None,language,Saka,Khotanese; Sakan,,No matching concept,0,None,,,2024-06-04,2099-12-31
+kik,0,None,language,Kikuju,Kikuyu; Gikuyu,Main spoken language Kikuyu,729061000000100,44803536,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+kin,0,None,language,Ruanda,Kinyarwanda,Main spoken language Ruanda,698907006,44782894,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+kir,0,None,language,Kirgiisi,Kirghiz; Kyrgyz,Main spoken language Kirgiz,698908001,44782903,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+kjh,0,None,language,Hakassi,Khakas,,No matching concept,0,None,,,2024-06-04,2099-12-31
+kmb,0,None,language,Mbundu,Kimbundu,,No matching concept,0,None,,,2024-06-04,2099-12-31
+koi,0,None,language,Permikomi,Komi-Permyak,,No matching concept,0,None,,,2024-06-04,2099-12-31
+kok,0,None,language,Konkani,Konkani,Main spoken language Konkani,609094002,43531382,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+kom,0,None,language,Komi,Komi,Main spoken language Komi,970651000000106,46285410,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+kon,0,None,language,Kongo,Kongo,Main spoken language Kongo,970661000000109,46287225,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+kor,0,None,language,Korea,Korean,Main spoken language Korean,407655000,4250124,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+kos,0,None,language,Kosrae,Kosraean,,No matching concept,0,None,,,2024-06-04,2099-12-31
+kpe,0,None,language,Kpelle,Kpelle,,No matching concept,0,None,,,2024-06-04,2099-12-31
+krc,0,None,language,Karatšai-balkaari,Karachay-Balkar,,No matching concept,0,None,,,2024-06-04,2099-12-31
+krl,0,None,language,Karjala,Karelian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+kro,0,None,language,Kruu keeled,Kru languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+kru,0,None,language,Kuruhhi,Kurukh,,No matching concept,0,None,,,2024-06-04,2099-12-31
+kua,0,None,language,Kvanjama,Kuanyama; Kwanyama,Main spoken language Kuanyama,970681000000100,46285411,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+kum,0,None,language,Kumõki,Kumyk,,No matching concept,0,None,,,2024-06-04,2099-12-31
+kur,0,None,language,Kurdi,Kurdish,Main spoken language Kurdish,395109004,4216336,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+kut,0,None,language,Kutenai,Kutenai,,No matching concept,0,None,,,2024-06-04,2099-12-31
+lad,0,None,language,Ladiino,Ladino,,No matching concept,0,None,,,2024-06-04,2099-12-31
+lah,0,None,language,Lahnda,Lahnda,,No matching concept,0,None,,,2024-06-04,2099-12-31
+lam,0,None,language,Lamba,Lamba,,No matching concept,0,None,,,2024-06-04,2099-12-31
+lao,0,None,language,Lao,Lao,Main spoken language Lao,698669009,44782511,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+lat,0,None,language,Ladina,Latin,Main spoken language Latin,970691000000103,46285412,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+lav,0,None,language,Läti,Latvian,Main spoken language Latvian,698909009,44782895,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+lbe,0,None,language,Laki,Lak,,No matching concept,0,None,,,2024-06-04,2099-12-31
+lez,0,None,language,Lesgi,Lezghian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+lim,0,None,language,Limburgi,Limburgan; Limburger; Limburgish,Main spoken language Limburgan,970701000000103,46285413,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+lin,0,None,language,Lingala,Lingala,Main spoken language Lingala,408526004,4256746,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+lit,0,None,language,Leedu,Lithuanian,Main spoken language Lithuanian,407656004,4253313,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+liv,0,None,language,Liivi,Livonian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+lol,0,None,language,Mongo,Mongo,,No matching concept,0,None,,,2024-06-04,2099-12-31
+loz,0,None,language,Lozi,Lozi,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ltz,0,None,language,Letseburgi,Luxembourgish; Letzeburgesch,Main spoken language Luxembourgish,970721000000107,46285414,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+lua,0,None,language,Kasai luba,Luba-Lulua,,No matching concept,0,None,,,2024-06-04,2099-12-31
+lub,0,None,language,Katanga luba,Luba-Katanga,Main spoken language Luba-Katanga,970711000000101,46287226,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+lug,0,None,language,Ganda,Ganda,Main spoken language Luganda,408527008,4248659,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+lui,0,None,language,Luisenjo,Luiseno,,No matching concept,0,None,,,2024-06-04,2099-12-31
+lun,0,None,language,Lunda,Lunda,,No matching concept,0,None,,,2024-06-04,2099-12-31
+luo,0,None,language,Luo,Luo (Kenya and Tanzania),,No matching concept,0,None,,,2024-06-04,2099-12-31
+lus,0,None,language,Mizo,Lushai,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mac,0,None,language,Makedoonia,Macedonian,Main spoken language Macedonian,698670005,44784509,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+mad,0,None,language,Madura,Madurese,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mag,0,None,language,Magahi,Magahi,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mah,0,None,language,Maršalli,Marshallese,Main spoken language Marshallese,970751000000102,46285415,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+mai,0,None,language,Maithili,Maithili,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mak,0,None,language,Makassari,Makasar,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mal,0,None,language,Malajalami,Malayalam,Main spoken language Malayalam,408529006,4256747,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+man,0,None,language,Malinke,Mandingo,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mao,0,None,language,Maoori,Maori,Main spoken language Māori,698673007,44784511,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+map,0,None,language,Austroneesia keeled,Austronesian languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mar,0,None,language,Marathi,Marathi,Main spoken language Marathi,698674001,44782513,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+mas,0,None,language,Maasai,Masai,,No matching concept,0,None,,,2024-06-04,2099-12-31
+may,0,None,language,Malai,Malay,Main spoken language Malay,698672002,44784510,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+mdf,0,None,language,Mokša,Moksha,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mdr,0,None,language,Mandari,Mandar,,No matching concept,0,None,,,2024-06-04,2099-12-31
+men,0,None,language,Mende,Mende,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mfe,0,None,language,Mauritiuse kreoolkeel,Mauritius Creole French; Maurysen; Mauritian Creole; Morisyen,Main spoken language French Créole,408521009,4256744,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+mga,0,None,language,Keskiiri (900–1200),"Irish, Middle (900-1200)",,No matching concept,0,None,,,2024-06-04,2099-12-31
+mic,0,None,language,Mikmaki,Mi'kmaq; Micmac,,No matching concept,0,None,,,2024-06-04,2099-12-31
+min,0,None,language,Minangkabau,Minangkabau,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mis,0,None,language,Kodeerimata keeled,Uncoded languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mkh,0,None,language,Moni-khmeeri keeled,Mon-Khmer languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mlg,0,None,language,Malagassi,Malagasy,Main spoken language Malagasy,698671009,44782512,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+mlt,0,None,language,Malta,Maltese,Main spoken language Maltese,698910004,44782896,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+mnc,0,None,language,Mandžu,Manchu,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mni,0,None,language,Manipuri,Manipuri,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mno,0,None,language,Manobo keeled,Manobo languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+moh,0,None,language,Mohoogi,Mohawk,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mol,0,None,language,Moldova,Moldavian,Main spoken language Moldavian,698911000,44782897,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+mon,0,None,language,Mongoli,Mongolian,Main spoken language Mongolian,698675000,44784512,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+mos,0,None,language,Moore,Mossi,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mul,0,None,language,Mitu keelt,Multiple languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mun,0,None,language,Munda keeled,Munda languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mus,0,None,language,Maskogi,Creek,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mwl,0,None,language,Miranda,Mirandese,,No matching concept,0,None,,,2024-06-04,2099-12-31
+mwr,0,None,language,Maarvari,Marwari,,No matching concept,0,None,,,2024-06-04,2099-12-31
+myn,0,None,language,Maaja keeled,Mayan languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+myv,0,None,language,Ersa,Erzya,,No matching concept,0,None,,,2024-06-04,2099-12-31
+nah,0,None,language,Asteegi keeled,Nahuatl languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+nai,0,None,language,Põhja-Ameerika indiaani keeled,North American Indian languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+nap,0,None,language,Napoli,Neapolitan,,No matching concept,0,None,,,2024-06-04,2099-12-31
+nau,0,None,language,Nauru,Nauru,Main spoken language Nauruan,698912007,44782898,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+nav,0,None,language,Navaho,Navajo; Navaho,Main spoken language Navajo,970771000000106,46285416,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+nbl,0,None,language,Lõunandebele,"Ndebele, South; South Ndebele",Main spoken language South Ndebele,970971000000109,46285428,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+nde,0,None,language,Ndebele,"Ndebele, North; North Ndebele",Main spoken language Northern Ndebele,970801000000109,46285417,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ndo,0,None,language,Ndonga,Ndonga,Main spoken language Ndonga,970781000000108,46287227,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+nds,0,None,language,Alamsaksa,"Low German; Low Saxon; German, Low; Saxon, Low",,No matching concept,0,None,,,2024-06-04,2099-12-31
+nep,0,None,language,Nepali,Nepali,Main spoken language Nepali,698676004,44784513,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+new,0,None,language,Nevari,Nepal Bhasa; Newari,,No matching concept,0,None,,,2024-06-04,2099-12-31
+nia,0,None,language,Niasi,Nias,,No matching concept,0,None,,,2024-06-04,2099-12-31
+nic,0,None,language,Nigeri-Kordofani keeled,Niger-Kordofanian languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+niu,0,None,language,Niue,Niuean,,No matching concept,0,None,,,2024-06-04,2099-12-31
+nno,0,None,language,Uusnorra,"Norwegian Nynorsk; Nynorsk, Norwegian",Main spoken language Norwegian Nynorsk,970831000000103,46285420,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+nob,0,None,language,Norra bokmål,"Bokmål, Norwegian; Norwegian Bokmål",Main spoken language Norwegian Bokmal,970821000000100,46285419,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+nog,0,None,language,Nogai,Nogai,,No matching concept,0,None,,,2024-06-04,2099-12-31
+non,0,None,language,Vanapõhja,"Norse, Old",,No matching concept,0,None,,,2024-06-04,2099-12-31
+nor,0,None,language,Norra,Norwegian,Main spoken language Norwegian,408530001,4252380,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+nqo,0,None,language,Nkoo,N'Ko,,No matching concept,0,None,,,2024-06-04,2099-12-31
+nso,0,None,language,Pedi,Pedi; Sepedi; Northern Sotho,,No matching concept,0,None,,,2024-06-04,2099-12-31
+nzi,0,None,language,Nzima,Nzima,,No matching concept,0,None,,,2024-06-04,2099-12-31
+nub,0,None,language,Nuubia keeled,Nubian languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+nwc,0,None,language,Vananevari,Classical Newari; Old Newari; Classical Nepal Bhasa,,No matching concept,0,None,,,2024-06-04,2099-12-31
+nya,0,None,language,Njandža,Chichewa; Chewa; Nyanja,Main spoken language Nyanja,729041000000101,44803534,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+nym,0,None,language,Njamvesi,Nyamwezi,,No matching concept,0,None,,,2024-06-04,2099-12-31
+nyn,0,None,language,Njankole,Nyankole,,No matching concept,0,None,,,2024-06-04,2099-12-31
+nyo,0,None,language,Njoro,Nyoro,,No matching concept,0,None,,,2024-06-04,2099-12-31
+oci,0,None,language,Oksitaani,Occitan (post 1500),Main spoken language Occitan,698914008,44783616,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+oji,0,None,language,Odžibvei,Ojibwa,Main spoken language Ojibwa,970851000000105,46285421,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ori,0,None,language,Oria,Oriya,Main spoken language Oriya,698915009,44782900,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+orm,0,None,language,Oromo,Oromo,Main spoken language Oromo,698916005,44782901,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+osa,0,None,language,Oseidži,Osage,,No matching concept,0,None,,,2024-06-04,2099-12-31
+oss,0,None,language,Osseedi,Ossetian; Ossetic,Main spoken language Ossetian,970871000000101,46285422,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ota,0,None,language,Osmanitürgi,"Turkish, Ottoman (1500-1928)",,No matching concept,0,None,,,2024-06-04,2099-12-31
+oto,0,None,language,Otomi keeled,Otomian languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+paa,0,None,language,Paapua keeled,Papuan languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+pag,0,None,language,Pangasinani,Pangasinan,,No matching concept,0,None,,,2024-06-04,2099-12-31
+pal,0,None,language,Pahlavi,Pahlavi,,No matching concept,0,None,,,2024-06-04,2099-12-31
+pam,0,None,language,Pampanga,Pampanga; Kapampangan,,No matching concept,0,None,,,2024-06-04,2099-12-31
+pan,0,None,language,Pandžabi,Panjabi; Punjabi,Main spoken language Punjabi,315581000,4154083,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+pap,0,None,language,Papiamento,Papiamento,,No matching concept,0,None,,,2024-06-04,2099-12-31
+pau,0,None,language,Belau,Palauan,,No matching concept,0,None,,,2024-06-04,2099-12-31
+peo,0,None,language,Vanapärsia,"Persian, Old (ca. 600-400 B.C.)",,No matching concept,0,None,,,2024-06-04,2099-12-31
+per,0,None,language,Pärsia,Persian,Main spoken language Farsi,395108007,4191849,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+phi,0,None,language,Filipiini keeled,Philippine languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+phn,0,None,language,Foiniikia,Phoenician,,No matching concept,0,None,,,2024-06-04,2099-12-31
+pli,0,None,language,Paali,Pali,Main spoken language Pali,970881000000104,46285423,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+pol,0,None,language,Poola,Polish,Main spoken language Polish,315579002,4153319,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+pon,0,None,language,Poonpei,Pohnpeian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+por,0,None,language,Portugali,Portuguese,Main spoken language Portuguese,315580004,4152251,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+pra,0,None,language,Praakriti keeled,Prakrit languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+pro,0,None,language,Vanaprovansi (1500. a-ni),"Provençal, Old (to 1500);Occitan, Old (to 1500)",,No matching concept,0,None,,,2024-06-04,2099-12-31
+pus,0,None,language,Puštu,Pushto; Pashto,Main spoken language Pushto,970911000000104,46287103,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+que,0,None,language,Ketšua,Quechua,Main spoken language Quechua,698677008,44782514,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+raj,0,None,language,Radžastani,Rajasthani,,No matching concept,0,None,,,2024-06-04,2099-12-31
+rap,0,None,language,Rapanui,Rapanui,,No matching concept,0,None,,,2024-06-04,2099-12-31
+rar,0,None,language,Rarotonga,Rarotongan; Cook Islands Maori,,No matching concept,0,None,,,2024-06-04,2099-12-31
+roa,0,None,language,Romaani keeled,Romance languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+roh,0,None,language,Romanši,Romansh,Main spoken language Romansh,698917001,44782904,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+rom,0,None,language,Mustlaskeel,Romany,Main spoken language Romany,718512007,36713602,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+rsl,0,None,language,Vene viipekeel,Russian Sign Language,Main spoken language Russian,315582007,4151758,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+rsl,0,None,language,Vene viipekeel,Russian Sign Language,Russian sign language,704569006,45771444,SNOMED,Language,Qualifier Value,2024-06-04,2099-12-31
+rum,0,None,language,Rumeenia,Romanian; Moldavian; Moldovan,Main spoken language Romanian,698678003,44784514,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+run,0,None,language,Rundi,Rundi,Main spoken language Rundi,698679006,44784515,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+rup,0,None,language,Aromuuni,Aromanian; Arumanian; Macedo-Romanian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+rus,0,None,language,Vene,Russian,Main spoken language Russian,315582007,4151758,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+rut,0,None,language,Rutuli,Rutul,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sad,0,None,language,Sandave,Sandawe,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sag,0,None,language,Sango,Sango,Main spoken language Sango,698918006,44782905,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+sah,0,None,language,Jakuudi,Yakut,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sai,0,None,language,Lõuna-Ameerika indiaani keeled,South American Indian languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sal,0,None,language,Sališi keeled,Salishan languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sam,0,None,language,Samaaria aramea,Samaritan Aramaic,,No matching concept,0,None,,,2024-06-04,2099-12-31
+san,0,None,language,Sanskriti,Sanskrit,Main spoken language Sanskrit,970921000000105,46285424,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+sas,0,None,language,Sasaki,Sasak,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sat,0,None,language,Santali,Santali,,No matching concept,0,None,,,2024-06-04,2099-12-31
+scn,0,None,language,Sitsiilia,Sicilian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sco,0,None,language,Šoti,Scots,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sel,0,None,language,Sölkupi,Selkup,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sem,0,None,language,Semi keeled,Semitic languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sga,0,None,language,Vanaiiri (900. a-ni),"Irish, Old (to 900)",,No matching concept,0,None,,,2024-06-04,2099-12-31
+sgn,0,None,language,Viipekeeled,Sign Languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+shn,0,None,language,Šani,Shan,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sid,0,None,language,Sidamo,Sidamo,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sin,0,None,language,Singali,Sinhala; Sinhalese,Main spoken language Sinhala,408518007,4252377,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+sio,0,None,language,Siuu keeled,Siouan languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sit,0,None,language,Hiina-Tiibeti keeled,Sino-Tibetan languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sla,0,None,language,Slaavi keeled,Slavic languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+slo,0,None,language,Slovaki,Slovak,Main spoken language Slovak,698920009,44782907,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+slv,0,None,language,Sloveeni,Slovenian,Main spoken language Slovenian,698921008,44782908,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+sma,0,None,language,Lõunasaami,Southern Sami,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sme,0,None,language,Põhjasaami,Northern Sami,Main spoken language Northern Sami,970811000000106,46285418,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+smi,0,None,language,Saami keeled,Sami languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+smj,0,None,language,Lule Saami,Lule Sami,,No matching concept,0,None,,,2024-06-04,2099-12-31
+smn,0,None,language,Inari Saami,Inari Sami,,No matching concept,0,None,,,2024-06-04,2099-12-31
+smo,0,None,language,Samoa,Samoan,Main spoken language Samoan,698680009,44784516,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+sms,0,None,language,Koltasaami,Skolt Sami,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sna,0,None,language,Šona,Shona,Main spoken language Shona,395110009,4216337,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+snd,0,None,language,Sindhi,Sindhi,Main spoken language Sindhi,698919003,44782906,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+snk,0,None,language,Soninke,Soninke,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sog,0,None,language,Sogdi,Sogdian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+som,0,None,language,Somaali,Somali,Main spoken language Somali,315583002,4151759,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+son,0,None,language,Songai keeled,Songhai languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sot,0,None,language,Sotho,"Sotho, Southern",Main spoken language Southern Sotho,698922001,44782909,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+spa,0,None,language,Hispaania,Spanish; Castilian,Main spoken language Spanish,315584008,4152252,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+srd,0,None,language,Sardi,Sardinian,Main spoken language Sardinian,970931000000107,46285425,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+srn,0,None,language,Sranani,Sranan Tongo,,No matching concept,0,None,,,2024-06-04,2099-12-31
+srp,0,None,language,Serbia,Serbian,Main spoken language Serbian,408535006,4256749,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+srr,0,None,language,Sereri,Serer,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ssa,0,None,language,Niiluse-Sahara keeled,Nilo-Saharan languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ssw,0,None,language,Svaasi,Swati,Main spoken language Swazi,698923006,44782910,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+suk,0,None,language,Sukuma,Sukuma,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sun,0,None,language,Sunda,Sundanese,Main spoken language Sundanese,698681008,44784517,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+sus,0,None,language,Susu,Susu,,No matching concept,0,None,,,2024-06-04,2099-12-31
+sux,0,None,language,Sumeri,Sumerian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+swa,0,None,language,Suahiili,Swahili,Main spoken language Swahili,315585009,4152253,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+swe,0,None,language,Rootsi,Swedish,Main spoken language Swedish,408516006,4235405,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+syc,0,None,language,Vanasüüria,Classical Syriac,,No matching concept,0,None,,,2024-06-04,2099-12-31
+syr,0,None,language,Süüria,Syriac,,No matching concept,0,None,,,2024-06-04,2099-12-31
+zap,0,None,language,Sapoteegi,Zapotec,,No matching concept,0,None,,,2024-06-04,2099-12-31
+zbl,0,None,language,Blissi sümbolid,Blissymbols; Blissymbolics; Bliss,,No matching concept,0,None,,,2024-06-04,2099-12-31
+zen,0,None,language,Zenaga,Zenaga,,No matching concept,0,None,,,2024-06-04,2099-12-31
+zgh,0,None,language,Maroko Tamasikti kirjakeel,Standard Moroccan Tamazight,,No matching concept,0,None,,,2024-06-04,2099-12-31
+zha,0,None,language,Tšuangi,Zhuang; Chuang,Main spoken language Chuang,698935005,44782922,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+znd,0,None,language,Zande keeled,Zande languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+zza,0,None,language,Zaza,Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki,,No matching concept,0,None,,,2024-06-04,2099-12-31
+zul,0,None,language,Suulu,Zulu,Main spoken language Zulu,698936006,44782923,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+zun,0,None,language,Sunji,Zuni,,No matching concept,0,None,,,2024-06-04,2099-12-31
+zxx,0,None,language,Keelelise sisuta; ei ole rakendatav,No linguistic content; Not applicable,,No matching concept,0,None,,,2024-06-04,2099-12-31
+tah,0,None,language,Tahiti,Tahitian,Main spoken language Tahitian,970991000000108,46285429,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+tai,0,None,language,Kami-Tai keeled,Tai languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+tam,0,None,language,Tamili,Tamil,Main spoken language Tamil,315587001,4152379,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+tat,0,None,language,Tatari,Tatar,Main spoken language Tatar,698924000,44782911,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+tcy,0,None,language,Tulu,Tulu,,No matching concept,0,None,,,2024-06-04,2099-12-31
+tel,0,None,language,Telugu,Telugu,Main spoken language Telugu,698925004,44782912,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+tem,0,None,language,Temne,Timne,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ter,0,None,language,Terena,Tereno,,No matching concept,0,None,,,2024-06-04,2099-12-31
+tet,0,None,language,Tetumi,Tetum,Main spoken language Tetum,609095001,43531383,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+tgk,0,None,language,Tadžiki,Tajik,Main spoken language Tajik,698682001,44784518,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+tgl,0,None,language,Tagalogi,Tagalog,Main spoken language Tagalog,408517002,4248657,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+tha,0,None,language,Tai,Thai,Main spoken language Thai,408519004,4248658,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+tib,0,None,language,Tiibeti,Tibetan,Main spoken language Tibetan,698926003,44782913,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+tig,0,None,language,Tigree,Tigre,,No matching concept,0,None,,,2024-06-04,2099-12-31
+tir,0,None,language,Tigrinja,Tigrinya,Main spoken language Tigrinya,408533004,4235408,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+tiv,0,None,language,Tivi,Tiv,,No matching concept,0,None,,,2024-06-04,2099-12-31
+tkl,0,None,language,Tokelau,Tokelau,,No matching concept,0,None,,,2024-06-04,2099-12-31
+tlh,0,None,language,Klingoni,Klingon; tlhIngan-Hol,,No matching concept,0,None,,,2024-06-04,2099-12-31
+tli,0,None,language,Tlingiti,Tlingit,,No matching concept,0,None,,,2024-06-04,2099-12-31
+tmh,0,None,language,Tamašeki,Tamashek,,No matching concept,0,None,,,2024-06-04,2099-12-31
+tog,0,None,language,Tonga (Malawis),Tonga (Nyasa),Main spoken language Tongan,698927007,44782914,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ton,0,None,language,Tonga (Okeaanias),Tonga (Tonga Islands),Main spoken language Tongan,698927007,44782914,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+tpi,0,None,language,Tok-Pisini,Tok Pisin,,No matching concept,0,None,,,2024-06-04,2099-12-31
+tsi,0,None,language,Tsimši keeled,Tsimshian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+tsn,0,None,language,Tsvana,Tswana,Main spoken language Tswana,698684000,44784519,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+tso,0,None,language,Tsonga,Tsonga,Main spoken language Tsonga,698683006,44782515,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+tuk,0,None,language,Türkmeeni,Turkmen,Main spoken language Turkmen,698928002,44782915,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+tum,0,None,language,Tumbuka,Tumbuka,,No matching concept,0,None,,,2024-06-04,2099-12-31
+tup,0,None,language,Tupii keeled,Tupi languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+tur,0,None,language,Türgi,Turkish,Main spoken language Turkish,407657008,4233052,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+tut,0,None,language,Altai keeled,Altaic languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+tvl,0,None,language,Tuvalu,Tuvalu,,No matching concept,0,None,,,2024-06-04,2099-12-31
+twi,0,None,language,Tvii,Twi,Main spoken language Twi,698685004,44784520,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+tyv,0,None,language,Tõva,Tuvinian,,No matching concept,0,None,,,2024-06-04,2099-12-31
+udm,0,None,language,Udmurdi,Udmurt,,No matching concept,0,None,,,2024-06-04,2099-12-31
+uga,0,None,language,Ugariti,Ugaritic,,No matching concept,0,None,,,2024-06-04,2099-12-31
+uig,0,None,language,Uiguuri,Uighur; Uyghur,Main spoken language Uigur,698929005,44782916,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ukr,0,None,language,Ukraina,Ukrainian,Main spoken language Ukrainian,407659006,4233053,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+umb,0,None,language,Umbundu,Umbundu,,No matching concept,0,None,,,2024-06-04,2099-12-31
+und,0,None,language,Määratlemata keeled,Undetermined,,No matching concept,0,None,,,2024-06-04,2099-12-31
+urd,0,None,language,Urdu,Urdu,Main spoken language Urdu,315588006,4154084,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+uzb,0,None,language,Usbeki,Uzbek,Main spoken language Uzbek,698930000,44782917,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+vai,0,None,language,Vai,Vai,,No matching concept,0,None,,,2024-06-04,2099-12-31
+ven,0,None,language,Venda,Venda,Main spoken language Venda,971011000000109,46285430,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+vep,0,None,language,Vepsa,Veps,,No matching concept,0,None,,,2024-06-04,2099-12-31
+vie,0,None,language,Vietnami,Vietnamese,Main spoken language Vietnamese,407661002,4236304,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+vol,0,None,language,Volapük,Volapük,Main spoken language Volapük,971021000000103,46285431,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+vot,0,None,language,Vadja,Votic,,No matching concept,0,None,,,2024-06-04,2099-12-31
+wak,0,None,language,Vakaši keeled,Wakashan languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+wal,0,None,language,Volaita,Wolaitta; Wolaytta,,No matching concept,0,None,,,2024-06-04,2099-12-31
+war,0,None,language,Varai,Waray,,No matching concept,0,None,,,2024-06-04,2099-12-31
+was,0,None,language,Vašo,Washo,,No matching concept,0,None,,,2024-06-04,2099-12-31
+wel,0,None,language,Kõmri; Uelsi,Welsh,Main spoken language Welsh,408532009,4256748,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+wen,0,None,language,Sorbi keeled,Sorbian languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+wln,0,None,language,Vallooni,Walloon,Main spoken language Walloon,971031000000101,46285432,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+wol,0,None,language,Volofi,Wolof,Main spoken language Wolof,698932008,44782919,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+xal,0,None,language,Kalmõki,Kalmyk; Oirat,,No matching concept,0,None,,,2024-06-04,2099-12-31
+xho,0,None,language,Koosa,Xhosa,Main spoken language Xhosa,698933003,44782920,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+yao,0,None,language,Jao,Yao,,No matching concept,0,None,,,2024-06-04,2099-12-31
+yap,0,None,language,Japi,Yapese,,No matching concept,0,None,,,2024-06-04,2099-12-31
+yid,0,None,language,Jidiš,Yiddish,Main spoken language Yiddish,698934009,44782921,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+yor,0,None,language,Joruba,Yoruba,Main spoken language Yoruba,315589003,4154085,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
+ypk,0,None,language,Jupiki keeled,Yupik languages,,No matching concept,0,None,,,2024-06-04,2099-12-31
+yrk,0,None,language,Neenetsi,Nenets,,No matching concept,0,None,,,2024-06-04,2099-12-31

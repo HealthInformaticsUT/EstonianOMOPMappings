@@ -1,0 +1,42 @@
+source_code,source_concept_id,source_vocabulary_id,source_code_type,source_code_description,target_concept_name,target_concept_code,target_concept_id,target_vocabulary_id,target_domain,target_concept_class_id,updated_date,valid_end_date
+ebatavaline veritsus,0,None,side_effects,ebatavaline veritsus,Bleeding,131148009,437312,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+fantoomvalu,0,None,side_effects,fantoomvalu,Phantom pain,710110008,46271848,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+hambavalu,0,None,side_effects,hambavalu,Toothache,27355003,4099176,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+hemoerraagia,0,None,side_effects,hemoerraagia,Bleeding,131148009,437312,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+infarkt,0,None,side_effects,infarkt,Necrosis of anatomical site,609410002,43530876,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+insult,0,None,side_effects,insult,Cerebral infarction,432504007,443454,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+jalavalu,0,None,side_effects,jalavalu,Pain in lower limb,10601006,4024561,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+kaelavalu,0,None,side_effects,kaelavalu,Neck pain,81680005,24134,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+krooniline valu,0,None,side_effects,krooniline valu,Chronic pain,82423001,436096,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+kurguvalu,0,None,side_effects,kurguvalu,Pain in throat,162397003,259153,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+kõhuvalu,0,None,side_effects,kõhuvalu,Abdominal pain,21522001,200219,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+kõrvavalu,0,None,side_effects,kõrvavalu,Otalgia,16001004,380733,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+käevalu,0,None,side_effects,käevalu,Pain in upper limb,102556003,4009890,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+lihasvalu,0,None,side_effects,lihasvalu,Muscle pain,68962001,442752,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+liigestevalu,0,None,side_effects,liigestevalu,Joint pain,57676002,77074,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+müofastsiaalne valu,0,None,side_effects,müofastsiaalne valu,Myofascial pain,279062009,4150759,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+neuropaatiline valu,0,None,side_effects,neuropaatiline valu,Neuropathic pain,247398009,4090564,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+ninavalu,0,None,side_effects,ninavalu,Pain of nose,225564006,4021669,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+notsitseptiivne valu,0,None,side_effects,notsitseptiivne valu,Chronic nociceptive pain,735644008,42536695,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+närvivalu,0,None,side_effects,närvivalu,Neuralgia,16269008,373852,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+peavalu,0,None,side_effects,peavalu,Headache,25064002,378253,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+psühhogeenne valu,0,None,side_effects,psühhogeenne valu,Psychalgia,8971008,439790,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+puusavalu,0,None,side_effects,puusavalu,Hip pain,49218002,4170554,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+põlvevalu,0,None,side_effects,põlvevalu,Pain of knee region,1003722009,604801,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+radikulaarne valu,0,None,side_effects,radikulaarne valu,Radicular pain,11679003,4024243,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+rinnakuvalu,0,None,side_effects,rinnakuvalu,Chest pain,29857009,77670,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+seljavalu,0,None,side_effects,seljavalu,Backache,161891005,134736,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+silmavalu,0,None,side_effects,silmavalu,Pain in eye,41652007,379031,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+südameinfarkt,0,None,side_effects,südameinfarkt,Myocardial infarction,22298006,4329847,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+traumajärgne valu,0,None,side_effects,traumajärgne valu,Chronic pain following trauma,762451005,42538687,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+tromb,0,None,side_effects,tromb,Thrombosis,439127006,4231363,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+trombolüüs kui protseduur,0,None,side_effects,trombolüüs kui protseduur,Thrombolytic therapy,426347000,4145042,SNOMED,Procedure,Procedure,2024-06-03,2099-12-31
+vereeritus,0,None,side_effects,vereeritus,Bleeding,131148009,437312,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+verejooks,0,None,side_effects,verejooks,Bleeding,131148009,437312,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+verekaotus,0,None,side_effects,verekaotus,Bleeding,131148009,437312,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+veriköha,0,None,side_effects,veriköha,Hemoptysis,66857006,261687,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+veri roojas,0,None,side_effects,veri roojas,Hematochezia,405729008,443530,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+veritsus,0,None,side_effects,veritsus,Bleeding,131148009,437312,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+veri uriinis,0,None,side_effects,veri uriinis,Blood in urine,34436003,437038,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+vähivalu,0,None,side_effects,vähivalu,Chronic pain due to malignant neoplastic disease,735935009,42536908,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31
+õlavalu,0,None,side_effects,õlavalu,Shoulder pain,45326000,4166666,SNOMED,Condition,Clinical Finding,2024-06-03,2099-12-31

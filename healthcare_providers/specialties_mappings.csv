@@ -1,0 +1,86 @@
+source_code,source_concept_id,source_vocabulary_id,source_code_type,source_code_description,target_concept_name,target_concept_code,target_concept_id,target_vocabulary_id,target_domain,target_concept_class_id,updated_date,valid_end_date
+E100,0,None,specialties,anestesioloogia,Anesthesiology,5,38004450,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E110,0,None,specialties,dermatoveneroloogia,Dermatology,7,38004452,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E120,0,None,specialties,endokrinoloogia,Endocrinology,46,38004485,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E130,0,None,specialties,erakorraline meditsiin,Emergency Medicine,93,38004510,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E140,0,None,specialties,gastroenteroloogia,Gastroenterology,10,38004455,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E150,0,None,specialties,hematoloogia,Hematology,82,38004501,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E160,0,None,specialties,infektsioonhaigused,Infectious Disease,44,38004484,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E170,0,None,specialties,kardioloogia,Cardiology,6,38004451,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E180,0,None,specialties,kardiovaskulaarkirurgia,Cardiac Surgery,78,38004497,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E190,0,None,specialties,laborimeditsiin,Clinical Laboratory,69,38004692,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E200,0,None,specialties,lastekirurgia,General Surgery,2,38004447,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E210,0,None,specialties,nefroloogia,Nephrology,39,38004479,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E220,0,None,specialties,neurokirurgia,Neurosurgery,14,38004459,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E230,0,None,specialties,neuroloogia,Neurology,13,38004458,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E240,0,None,specialties,oftalmoloogia,Ophthalmology,18,38004463,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E250,0,None,specialties,onkoloogia (kiiritus- ja keemiaravi tähenduses),Radiation Oncology,92,38004509,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E260,0,None,specialties,ortopeedia,Orthopaedic Trauma Surgery,207XX0801X,38003915,NUCC,Provider,Physician Specialty,2024-06-04,2099-12-31
+E270,0,None,specialties,otorinolarüngoloogia,Otolaryngology,4,38004449,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E280,0,None,specialties,patoloogia,Pathology,22,38004466,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E290,0,None,specialties,pediaatria,Pediatric Medicine,37,38004477,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E300,0,None,specialties,peremeditsiin,Family Medicine,207Q00000X,38003851,NUCC,Provider,Physician Specialty,2024-06-04,2099-12-31
+E310,0,None,specialties,plastika- ja rekonstruktiivkirurgia,Plastic And Reconstructive Surgery,24,38004467,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E320,0,None,specialties,psühhiaatria,Psychiatry,26,38004469,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E330,0,None,specialties,pulmonoloogia,Pulmonary Disease,29,38004472,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E340,0,None,specialties,radioloogia,Physician / Diagnostic Radiology,30,38004675,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E350,0,None,specialties,reumatoloogia,Rheumatology,66,38004491,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E360,0,None,specialties,sisehaigused,Internal Medicine,11,38004456,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E370,0,None,specialties,sünnitusabi ja günekoloogia,Obstetrics / Gynecology,16,38004461,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E380,0,None,specialties,taastusravi ja füsiaatria,Physical Rehabilitation Occupational Therapist,225XP0019X,38004086,NUCC,Provider,Provider,2024-06-04,2099-12-31
+E390,0,None,specialties,torakaalkirurgia,Thoracic Surgery,33,38004473,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E400,0,None,specialties,töötervishoid,Occupational Therapy,67,38004492,Medicare Specialty,Provider,Provider,2024-06-04,2099-12-31
+E410,0,None,specialties,uroloogia,Urology,34,38004474,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E420,0,None,specialties,üldkirurgia,General Surgery,2,38004447,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E430,0,None,specialties,hambaarst,General Dentistry,1223G0001X,38003675,NUCC,Provider,Physician Specialty,2024-06-04,2099-12-31
+E440,0,None,specialties,"suu-, näo- ja lõualuukirurgia",Oral and Maxillofacial Surgery,204E00000X,38003826,NUCC,Provider,Physician Specialty,2024-06-04,2099-12-31
+E450,0,None,specialties,ortodontia,Orthodontics and Dentofacial Orthopedics,1223X0400X,38003682,NUCC,Provider,Physician Specialty,2024-06-04,2099-12-31
+E460,0,None,specialties,restauratiivne hambaravi ,Prosthodontics,1223P0700X,38003679,NUCC,Provider,Physician Specialty,2024-06-04,2099-12-31
+E470,0,None,specialties,allergoloogia-immunoloogia,Allergy / Immunology,3,38004448,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E480,0,None,specialties,kardiokirurgia,Cardiac Surgery,78,38004497,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E490,0,None,specialties,vaskulaarkirurgia,Vascular Surgery,77,38004496,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E500,0,None,specialties,meditsiinigeneetika,"Medical Geneticist, PhD",170100000X,38003775,NUCC,Provider,Provider,2024-06-04,2099-12-31
+E600,0,None,specialties,arst,General Practice,1,38004446,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E610,0,None,specialties,füsiaatria ja taastusravi - spordimeditsiin,Sports Medicine,23,903256,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E620,0,None,specialties,laborimeditsiin - kliiniline mikrobioloogia,Clinical Laboratory,69,38004692,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E630,0,None,specialties,oftalmoloogia - silmakirurgia,Ophthalmology,18,38004463,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E640,0,None,specialties,sisehaigused - allergoloogia,Allergy,207KA0200X,38003830,NUCC,Provider,Physician Specialty,2024-06-04,2099-12-31
+E650,0,None,specialties,sisehaigused - kliiniline farmakoloogia,Clinical Pharmacology,208U00000X,38004025,NUCC,Provider,Physician Specialty,2024-06-04,2099-12-31
+E660,0,None,specialties,sisehaigused - geriaatria,Geriatric Medicine,38,38004478,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E670,0,None,specialties,pediaatria - allergoloogia,Allergy,207KA0200X,38003830,NUCC,Provider,Physician Specialty,2024-06-04,2099-12-31
+E680,0,None,specialties,pediaatria - endokrinoloogia,Endocrinology,46,38004485,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E690,0,None,specialties,pediaatria - gastroenteroloogia,Gastroenterology,10,38004455,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E700,0,None,specialties,pediaatria - hematoloogia-onkoloogia,Hematology / Oncology,83,38004502,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E710,0,None,specialties,pediaatria - infektsioonhaigused,Infectious Disease,44,38004484,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E720,0,None,specialties,pediaatria - kardioloogia,Cardiology,6,38004451,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E730,0,None,specialties,pediaatria - nefroloogia,Nephrology,39,38004479,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E740,0,None,specialties,pediaatria - neonatoloogia,Pediatric Medicine,37,38004477,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E750,0,None,specialties,pediaatria - neuroloogia,Neurology,13,38004458,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E760,0,None,specialties,pediaatria - reumatoloogia,Rheumatology,66,38004491,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E770,0,None,specialties,psühhiaatria - laste- ja noorukitepsühhiaatria,Psychiatry,26,38004469,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+E780,0,None,specialties,uroloogia - androloogia,Urology,34,38004474,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+N100,0,None,specialties,intensiivõendus,Critical Care Medicine Nurse,364SC0200X,38004393,NUCC,Provider,Provider,2024-06-04,2099-12-31
+N110,0,None,specialties,anesteesia-intensiivraviõendus,Certified Registered Nurse Anesthetist,43,38004483,Medicare Specialty,Provider,Provider,2024-06-04,2099-12-31
+N120,0,None,specialties,erakorralise meditsiini õendus,Registered Emergency Nurse,163WE0003X,38003728,NUCC,Provider,Provider,2024-06-04,2099-12-31
+N200,0,None,specialties,kliiniline õendus,Clinical Nurse Specialist,364S00000X,38004390,NUCC,Provider,Provider,2024-06-04,2099-12-31
+N210,0,None,specialties,diabeediõendus,Registered Diabetes Educator Nurse,163WD0400X,38003726,NUCC,Provider,Provider,2024-06-04,2099-12-31
+N220,0,None,specialties,lasteõendus,Pediatric Nurse,364SP0200X,38004407,NUCC,Provider,Provider,2024-06-04,2099-12-31
+N230,0,None,specialties,nakkustõrjeõendus,Registered Infection Control Nurse,163WI0600X,38003738,NUCC,Provider,Provider,2024-06-04,2099-12-31
+N240,0,None,specialties,onkoloogiaõendus,Oncology Nurse,364SX0200X,38004422,NUCC,Provider,Provider,2024-06-04,2099-12-31
+N250,0,None,specialties,operatsiooniõendus,Medical-Surgical Nurse,364SM0705X,38004404,NUCC,Provider,Provider,2024-06-04,2099-12-31
+N260,0,None,specialties,pulmonoloogiaõendus,Pulmonary Disease,29,38004472,Medicare Specialty,Provider,Physician Specialty,2024-06-04,2099-12-31
+N280,0,None,specialties,taastusraviõendus,Rehabilitation Nurse,364SR0400X,38004417,NUCC,Provider,Provider,2024-06-04,2099-12-31
+N300,0,None,specialties,terviseõendus,Community Health Worker,172V00000X,38003789,NUCC,Provider,Provider,2024-06-04,2099-12-31
+N310,0,None,specialties,kooliõendus,School Nurse,364SS0200X,38004418,NUCC,Provider,Provider,2024-06-04,2099-12-31
+N320,0,None,specialties,pereõendus,Family Health Nurse,364SF0001X,38004398,NUCC,Provider,Provider,2024-06-04,2099-12-31
+N330,0,None,specialties,töötervishoiuõendus,Occupational Health Nurse,364SX0106X,38004421,NUCC,Provider,Provider,2024-06-04,2099-12-31
+N400,0,None,specialties,vaimse tervise õendus,Psych / Mental Health Nurse,364SP0808X,38004409,NUCC,Provider,Provider,2024-06-04,2099-12-31
+N410,0,None,specialties,psühhiaatriaõendus,Psych / Mental Health Nurse,364SP0808X,38004409,NUCC,Provider,Provider,2024-06-04,2099-12-31
+N500,0,None,specialties,õde,Registered Nurse,163W00000X,38003716,NUCC,Provider,Provider,2024-06-04,2099-12-31
+N600,0,None,specialties,ämmaemand,Certified Nurse Midwife,42,38004482,Medicare Specialty,Provider,Provider,2024-06-04,2099-12-31
+S100,0,None,specialties,arstiõppe üliõpilane,Student,390200000X,38004445,NUCC,Provider,Provider,2024-06-04,2099-12-31
+S110,0,None,specialties,hambaarstiõppe üliõpilane,Student,390200000X,38004445,NUCC,Provider,Provider,2024-06-04,2099-12-31
+S120,0,None,specialties,õeõppe üliüpilane,Student,390200000X,38004445,NUCC,Provider,Provider,2024-06-04,2099-12-31
+S130,0,None,specialties,ämmaemandusõppe üliõpilane,Student,390200000X,38004445,NUCC,Provider,Provider,2024-06-04,2099-12-31
+S140,0,None,specialties,kiirabitehnik,Paramedic,146L00000X,38003696,NUCC,Provider,Provider,2024-06-04,2099-12-31
+S150,0,None,specialties,erakorralise meditsiini tehnik,Basic Emergency Medical Technician,146N00000X,38003698,NUCC,Provider,Provider,2024-06-04,2099-12-31

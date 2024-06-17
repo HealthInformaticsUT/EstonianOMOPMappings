@@ -1,0 +1,13 @@
+source_code,source_concept_id,source_vocabulary_id,source_code_type,source_code_description,target_concept_name,target_concept_code,target_concept_id,target_vocabulary_id,target_domain,target_concept_class_id,updated_date,valid_end_date
+254890008,4112875,SNOMED,custom,AIS,Adenocarcinoma in situ of cervix,254890008,4112875,SNOMED,Condition,Clinical Finding,2024-06-10,2099-12-31
+bmi,0,None,custom,Kehamassiindeks,Body mass index,60621009,4245997,SNOMED,Measurement,Observable Entity,2024-06-10,2099-12-31
+cholesterol,0,None,custom,Kolesterool,Cholesterol [Moles/volume] in Serum or Plasma,14647-2,3019900,LOINC,Measurement,Lab Test,2024-06-10,2099-12-31
+egfr_ckd_epi,0,None,custom,eGFR CKD-Epi valemi järgi,Estimated glomerular filtration rate using Chronic Kidney Disease Epidemiology Collaboration formula,857971000000104,44808279,SNOMED,Measurement,Observable Entity,2024-06-10,2099-12-31
+egfr_mdrd,0,None,custom,eGFR MDRD valemi järgi,GFR (glomerular filtration rate) calculated by abbreviated Modification of Diet in Renal Disease Study Group calculation,1020291000000106,37393690,SNOMED,Measurement,Observable Entity,2024-06-10,2099-12-31
+hdl,0,None,custom,HDL-kolesterool,Cholesterol in HDL [Moles/volume] in Serum or Plasma,14646-4,3023602,LOINC,Measurement,Lab Test,2024-06-10,2099-12-31
+height,0,None,custom,Pikkus,Body height measure,50373000,4177340,SNOMED,Measurement,Observable Entity,2024-06-10,2099-12-31
+ldl,0,None,custom,LDL-kolesterool,Cholesterol in LDL [Moles/volume] in Serum or Plasma,22748-8,3001308,LOINC,Measurement,Lab Test,2024-06-10,2099-12-31
+psa,0,None,custom,Prostataspetsiifilise antigeeni määramine,Prostate specific antigen measurement,63476009,4272032,SNOMED,Measurement,Procedure,2024-06-10,2099-12-31
+systolic_blood_pressure,0,None,custom,Süstoolne vererõhk,Systolic blood pressure,271649006,4152194,SNOMED,Measurement,Observable Entity,2024-06-10,2099-12-31
+waist,0,None,custom,Vööümbermõõt,Waist circumference,276361009,4172830,SNOMED,Measurement,Observable Entity,2024-06-10,2099-12-31
+weight,0,None,custom,Kehakaal,Body weight,27113001,4099154,SNOMED,Measurement,Observable Entity,2024-06-10,2099-12-31

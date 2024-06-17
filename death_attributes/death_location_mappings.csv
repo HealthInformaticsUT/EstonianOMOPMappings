@@ -1,0 +1,6 @@
+source_code,source_concept_id,source_vocabulary_id,source_code_type,source_code_description,target_concept_name,target_concept_code,target_concept_id,target_vocabulary_id,target_domain,target_concept_class_id,updated_date,valid_end_date
+01,0,None,death_location,raviasutus,Died in hospital,183676005,4081765,SNOMED,Condition,Clinical Finding,2024-06-10,2099-12-31
+02,0,None,death_location,hoolekandeasutus,Died in care home,876880009,618843,SNOMED,Condition,Clinical Finding,2024-06-10,2099-12-31
+03,0,None,death_location,töökoht,Accidental death in industrial place,74660000,4252891,SNOMED,Observation,Event,2024-06-10,2099-12-31
+04,0,None,death_location,kodu,Died at home,876879006,618842,SNOMED,Condition,Clinical Finding,2024-06-10,2099-12-31
+99,0,None,death_location,muu,,No matching concept,0,None,,,2024-06-10,2099-12-31
