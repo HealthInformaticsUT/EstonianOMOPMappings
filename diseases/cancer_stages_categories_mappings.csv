@@ -1,578 +1,578 @@
 source_code,source_concept_id,source_vocabulary_id,source_code_type,source_code_description,target_concept_name,target_concept_code,target_concept_id,target_vocabulary_id,target_domain,target_concept_class_id,updated_date,valid_end_date
-0,0,None,cancer,Vähi staadium,AJCC/UICC Stage 0,AJCC/UICC-Stage-0,1633754,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-0A,0,None,cancer,Vähi staadium,AJCC/UICC Stage 0a,AJCC/UICC-Stage-0A,1635410,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-0IS,0,None,cancer,Vähi staadium,AJCC/UICC Stage 0is,AJCC/UICC-Stage-0IS,1634049,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-10,0,None,cancer,Gleasoni skoor,Gleason Score 10,Gleason-Score-10,1633655,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-2,0,None,cancer,Gleasoni skoor,Gleason Score <=6,Gleason-Score-<=6,1634230,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-3,0,None,cancer,Gleasoni skoor,Gleason Score <=6,Gleason-Score-<=6,1634230,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-3+3,0,None,cancer,Gleasoni skoor,Gleason Grade Group 1,Gleason-Grade_Group-1,1633550,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-3+4,0,None,cancer,Gleasoni skoor,Gleason Grade Group 2,Gleason-Grade_Group-2,1633826,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-3+4,0,None,cancer,Gleasoni skoor,Gleason Score 3+4,Gleason-Score-3+4,1635693,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-3+5,0,None,cancer,Gleasoni skoor,Gleason Grade Group 4,Gleason-Grade_Group-4,1635079,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-4,0,None,cancer,Gleasoni skoor,Gleason Score <=6,Gleason-Score-<=6,1634230,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-4+3,0,None,cancer,Gleasoni skoor,Gleason Grade Group 3,Gleason-Grade_Group-3,1634459,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-4+3,0,None,cancer,Gleasoni skoor,Gleason Score 4+3,Gleason-Score-4+3,1633596,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-4+4,0,None,cancer,Gleasoni skoor,Gleason Grade Group 4,Gleason-Grade_Group-4,1635079,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-4+5,0,None,cancer,Gleasoni skoor,Gleason Grade Group 5,Gleason-Grade_Group-5,1635009,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-5,0,None,cancer,Gleasoni skoor,Gleason Score <=6,Gleason-Score-<=6,1634230,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-5+3,0,None,cancer,Gleasoni skoor,Gleason Grade Group 4,Gleason-Grade_Group-4,1635079,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-5+4,0,None,cancer,Gleasoni skoor,Gleason Grade Group 5,Gleason-Grade_Group-5,1635009,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-5+5,0,None,cancer,Gleasoni skoor,Gleason Grade Group 5,Gleason-Grade_Group-5,1635009,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-6,0,None,cancer,Gleasoni skoor,Gleason Score <=6,Gleason-Score-<=6,1634230,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-7,0,None,cancer,Gleasoni skoor,Gleason Score 7,Gleason-Score-7,1633844,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-8,0,None,cancer,Gleasoni skoor,Gleason Score 8,Gleason-Score-8,1635475,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-9,0,None,cancer,Gleasoni skoor,Gleason Score 9,Gleason-Score-9,1633687,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-c0,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 0,c-AJCC/UICC-Stage-0,1634502,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-c0A,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 0a,c-AJCC/UICC-Stage-0A,1635434,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-c0IS,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 0is,c-AJCC/UICC-Stage-0IS,1633707,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cI,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1,c-AJCC/UICC-Stage-1,1635199,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIA,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1A,c-AJCC/UICC-Stage-1A,1634671,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIA1,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1A1,c-AJCC/UICC-Stage-1A1,1634927,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIA2,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1A2,c-AJCC/UICC-Stage-1A2,1633948,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIA3,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1A3,c-AJCC/UICC-Stage-1A3,1635216,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIB,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1B,c-AJCC/UICC-Stage-1B,1633618,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIB1,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1B1,c-AJCC/UICC-Stage-1B1,1635184,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIB2,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1B2,c-AJCC/UICC-Stage-1B2,1634794,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIC,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1C,c-AJCC/UICC-Stage-1C,1634813,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIE,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1E,c-AJCC/UICC-Stage-1E,1635482,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cII,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 2,c-AJCC/UICC-Stage-2,1633841,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIIA,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 2A,c-AJCC/UICC-Stage-2A,1635486,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIIA1,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 2A1,c-AJCC/UICC-Stage-2A1,1635115,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIIA2,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 2A2,c-AJCC/UICC-Stage-2A2,1633489,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIIB,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 2B,c-AJCC/UICC-Stage-2B,1634332,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIIC,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 2C,c-AJCC/UICC-Stage-2C,1635056,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIIE,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 2E,c-AJCC/UICC-Stage-2E,1634917,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIII,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3,c-AJCC/UICC-Stage-3,1634876,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIIIA,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3A,c-AJCC/UICC-Stage-3A,1634922,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIIIA1,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3A1,c-AJCC/UICC-Stage-3A1,1634030,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIIIA2,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3A2,c-AJCC/UICC-Stage-3A2,1634232,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIIIB,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3B,c-AJCC/UICC-Stage-3B,1635764,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIIIC,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3C,c-AJCC/UICC-Stage-3C,1634571,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIIIC1,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3C1,c-AJCC/UICC-Stage-3C1,1633418,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIIIC2,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3C2,c-AJCC/UICC-Stage-3C2,1635253,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIIID,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3D,c-AJCC/UICC-Stage-3D,1634297,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIS,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1s,c-AJCC/UICC-Stage-1S,1635293,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIV,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 4,c-AJCC/UICC-Stage-4,1634447,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIVA,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 4A,c-AJCC/UICC-Stage-4A,1635450,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIVA1,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 4A1,c-AJCC/UICC-Stage-4A1,1634384,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIVA2,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 4A2,c-AJCC/UICC-Stage-4A2,1634350,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIVB,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 4B,c-AJCC/UICC-Stage-4B,1634525,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cIVC,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 4C,c-AJCC/UICC-Stage-4C,1635404,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cM0,0,None,cancer,TNM-kood,AJCC/UICC clinical M0 Category,c-AJCC/UICC-M0,1635291,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cM0(I+),0,None,cancer,TNM-kood,AJCC/UICC clinical M0(i+) Category,c-AJCC/UICC-M0(i+),1635856,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cM1,0,None,cancer,TNM-kood,AJCC/UICC clinical M1 Category,c-AJCC/UICC-M1,1635085,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cM1A,0,None,cancer,TNM-kood,AJCC/UICC clinical M1a Category,c-AJCC/UICC-M1a,1633777,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cM1B,0,None,cancer,TNM-kood,AJCC/UICC clinical M1b Category,c-AJCC/UICC-M1b,1635090,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cM1C,0,None,cancer,TNM-kood,AJCC/UICC clinical M1c Category,c-AJCC/UICC-M1c,1635255,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cM1D,0,None,cancer,TNM-kood,AJCC/UICC clinical M1d Category,c-AJCC/UICC-M1d,1634048,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cMX,0,None,cancer,TNM-kood,AJCC/UICC clinical MX Category,c-AJCC/UICC-MX,1634755,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN0,0,None,cancer,TNM-kood,AJCC/UICC clinical N0 Category,c-AJCC/UICC-N0,1634145,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN0A,0,None,cancer,TNM-kood,AJCC/UICC clinical N0a Category,c-AJCC/UICC-N0a,1635732,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN0B,0,None,cancer,TNM-kood,AJCC/UICC clinical N0b Category,c-AJCC/UICC-N0b,1635495,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN0(I+),0,None,cancer,TNM-kood,AJCC/UICC clinical N0(i+) Category,c-AJCC/UICC-N0(i+),1633918,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN0(MOL+),0,None,cancer,TNM-kood,AJCC/UICC clinical N0(mol+) Category,c-AJCC/UICC-N0(mol+),1634915,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN1,0,None,cancer,TNM-kood,AJCC/UICC clinical N1 Category,c-AJCC/UICC-N1,1635729,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN1A,0,None,cancer,TNM-kood,AJCC/UICC clinical N1a Category,c-AJCC/UICC-N1a,1635164,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN1A(SN),0,None,cancer,TNM-kood,AJCC/UICC clinical N1a(sn) Category,c-AJCC/UICC-N1a(sn),1635628,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN1B,0,None,cancer,TNM-kood,AJCC/UICC clinical N1b Category,c-AJCC/UICC-N1b,1635599,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN1B1,0,None,cancer,TNM-kood,AJCC/UICC clinical N1b1 Category,c-AJCC/UICC-N1b1,1634298,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN1B2,0,None,cancer,TNM-kood,AJCC/UICC clinical N1b2 Category,c-AJCC/UICC-N1b2,1634075,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN1B3,0,None,cancer,TNM-kood,AJCC/UICC clinical N1b3 Category,c-AJCC/UICC-N1b3,1635534,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN1B4,0,None,cancer,TNM-kood,AJCC/UICC clinical N1b4 Category,c-AJCC/UICC-N1b4,1634923,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN1C,0,None,cancer,TNM-kood,AJCC/UICC clinical N1c Category,c-AJCC/UICC-N1c,1634934,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN1MI,0,None,cancer,TNM-kood,AJCC/UICC clinical N1mi Category,c-AJCC/UICC-N1mi,1635121,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN2,0,None,cancer,TNM-kood,AJCC/UICC clinical N2 Category,c-AJCC/UICC-N2,1634523,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN2A,0,None,cancer,TNM-kood,AJCC/UICC clinical N2a Category,c-AJCC/UICC-N2a,1633429,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN2B,0,None,cancer,TNM-kood,AJCC/UICC clinical N2b Category,c-AJCC/UICC-N2b,1634977,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN2C,0,None,cancer,TNM-kood,AJCC/UICC clinical N2c Category,c-AJCC/UICC-N2c,1634118,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN2MI,0,None,cancer,TNM-kood,AJCC/UICC clinical N2mi Category,c-AJCC/UICC-N2mi,1633836,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN3,0,None,cancer,TNM-kood,AJCC/UICC clinical N3 Category,c-AJCC/UICC-N3,1633914,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN3A,0,None,cancer,TNM-kood,AJCC/UICC clinical N3a Category,c-AJCC/UICC-N3a,1634649,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN3B,0,None,cancer,TNM-kood,AJCC/UICC clinical N3b Category,c-AJCC/UICC-N3b,1635610,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN3C,0,None,cancer,TNM-kood,AJCC/UICC clinical N3c Category,c-AJCC/UICC-N3c,1634650,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cN4,0,None,cancer,TNM-kood,AJCC/UICC clinical N4 Category,c-AJCC/UICC-N4,1633862,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cNX,0,None,cancer,TNM-kood,AJCC/UICC clinical NX Category,c-AJCC/UICC-NX,1634722,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT0,0,None,cancer,TNM-kood,AJCC/UICC clinical T0 Category,c-AJCC/UICC-T0,1635155,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT1,0,None,cancer,TNM-kood,AJCC/UICC clinical T1 Category,c-AJCC/UICC-T1,1635661,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT1A,0,None,cancer,TNM-kood,AJCC/UICC clinical T1a Category,c-AJCC/UICC-T1a,1633742,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT1A1,0,None,cancer,TNM-kood,AJCC/UICC clinical T1a1 Category,c-AJCC/UICC-T1a1,1635676,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT1A2,0,None,cancer,TNM-kood,AJCC/UICC clinical T1a2 Category,c-AJCC/UICC-T1a2,1635081,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT1B,0,None,cancer,TNM-kood,AJCC/UICC clinical T1b Category,c-AJCC/UICC-T1b,1635039,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT1B1,0,None,cancer,TNM-kood,AJCC/UICC clinical T1b1 Category,c-AJCC/UICC-T1b1,1635701,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT1B2,0,None,cancer,TNM-kood,AJCC/UICC clinical T1b2 Category,c-AJCC/UICC-T1b2,1634659,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT1B3,0,None,cancer,TNM-kood,AJCC/UICC clinical T1b3 Category,c-AJCC/UICC-T1b3,1635348,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT1C,0,None,cancer,TNM-kood,AJCC/UICC clinical T1c Category,c-AJCC/UICC-T1c,1634320,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT1C1,0,None,cancer,TNM-kood,AJCC/UICC clinical T1c1 Category,c-AJCC/UICC-T1c1,1634515,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT1C2,0,None,cancer,TNM-kood,AJCC/UICC clinical T1c2 Category,c-AJCC/UICC-T1c2,1634184,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT1C3,0,None,cancer,TNM-kood,AJCC/UICC clinical T1c3 Category,c-AJCC/UICC-T1c3,1633494,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT1D,0,None,cancer,TNM-kood,AJCC/UICC clinical T1d Category,c-AJCC/UICC-T1d,1634931,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT1MI,0,None,cancer,TNM-kood,AJCC/UICC clinical T1mi Category,c-AJCC/UICC-T1mi,1635832,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT2,0,None,cancer,TNM-kood,AJCC/UICC clinical T2 Category,c-AJCC/UICC-T2,1635033,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT2A,0,None,cancer,TNM-kood,AJCC/UICC clinical T2a Category,c-AJCC/UICC-T2a,1634689,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT2A1,0,None,cancer,TNM-kood,AJCC/UICC clinical T2a1 Category,c-AJCC/UICC-T2a1,1635046,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT2A2,0,None,cancer,TNM-kood,AJCC/UICC clinical T2a2 Category,c-AJCC/UICC-T2a2,1635269,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT2B,0,None,cancer,TNM-kood,AJCC/UICC clinical T2b Category,c-AJCC/UICC-T2b,1633781,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT2C,0,None,cancer,TNM-kood,AJCC/UICC clinical T2c Category,c-AJCC/UICC-T2c,1634514,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT2D,0,None,cancer,TNM-kood,AJCC/UICC clinical T2d Category,c-AJCC/UICC-T2d,1633541,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT3,0,None,cancer,TNM-kood,AJCC/UICC clinical T3 Category,c-AJCC/UICC-T3,1635895,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT3A,0,None,cancer,TNM-kood,AJCC/UICC clinical T3a Category,c-AJCC/UICC-T3a,1633758,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT3B,0,None,cancer,TNM-kood,AJCC/UICC clinical T3b Category,c-AJCC/UICC-T3b,1633765,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT3C,0,None,cancer,TNM-kood,AJCC/UICC clinical T3c Category,c-AJCC/UICC-T3c,1634088,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT3D,0,None,cancer,TNM-kood,AJCC/UICC clinical T3d Category,c-AJCC/UICC-T3d,1635707,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT3E,0,None,cancer,TNM-kood,AJCC/UICC clinical T3e Category,c-AJCC/UICC-T3e,1633838,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT4,0,None,cancer,TNM-kood,AJCC/UICC clinical T4 Category,c-AJCC/UICC-T4,1635558,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT4A,0,None,cancer,TNM-kood,AJCC/UICC clinical T4a Category,c-AJCC/UICC-T4a,1634192,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT4B,0,None,cancer,TNM-kood,AJCC/UICC clinical T4b Category,c-AJCC/UICC-T4b,1634291,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT4C,0,None,cancer,TNM-kood,AJCC/UICC clinical T4c Category,c-AJCC/UICC-T4c,1634877,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT4D,0,None,cancer,TNM-kood,AJCC/UICC clinical T4d Category,c-AJCC/UICC-T4d,1635368,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cT4E,0,None,cancer,TNM-kood,AJCC/UICC clinical T4e Category,c-AJCC/UICC-T4e,1634561,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cTA,0,None,cancer,TNM-kood,AJCC/UICC clinical Ta Category,c-AJCC/UICC-Ta,1633281,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cTIS,0,None,cancer,TNM-kood,AJCC/UICC clinical Tis Category,c-AJCC/UICC-Tis,1634450,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cTIS(DCIS),0,None,cancer,TNM-kood,AJCC/UICC clinical Tis(DCIS) Category,c-AJCC/UICC-Tis(DCIS),1633770,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cTIS(LAMN),0,None,cancer,TNM-kood,AJCC/UICC clinical Tis(LAMN) Category,c-AJCC/UICC-Tis(LAMN),1634825,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cTIS(PAGET),0,None,cancer,TNM-kood,AJCC/UICC clinical Tis(Paget) Category,c-AJCC/UICC-Tis(Paget),1633522,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-cTX,0,None,cancer,TNM-kood,AJCC/UICC clinical TX Category,c-AJCC/UICC-TX,1634460,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-G1,0,None,cancer,G-kood,Grade 1 tumor,Grade-1,1634371,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-G2,0,None,cancer,G-kood,Grade 2 tumor,Grade-2,1634752,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-G3,0,None,cancer,G-kood,Grade 3 tumor,Grade-3,1633749,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-G4,0,None,cancer,G-kood,Grade 4 tumor,Grade-4,1635792,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-I,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1,AJCC/UICC-Stage-1,1633306,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IA,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1A,AJCC/UICC-Stage-1A,1635790,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IA1,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1A1,AJCC/UICC-Stage-1A1,1633565,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IA2,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1A2,AJCC/UICC-Stage-1A2,1635611,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IA3,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1A3,AJCC/UICC-Stage-1A3,1634353,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IB,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1B,AJCC/UICC-Stage-1B,1634494,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IB1,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1B1,AJCC/UICC-Stage-1B1,1634019,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IB2,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1B2,AJCC/UICC-Stage-1B2,1635020,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IC,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1C,AJCC/UICC-Stage-1C,1634868,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IE,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1E,AJCC/UICC-Stage-1E,1633701,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-II,0,None,cancer,Vähi staadium,AJCC/UICC Stage 2,AJCC/UICC-Stage-2,1634209,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IIA,0,None,cancer,Vähi staadium,AJCC/UICC Stage 2A,AJCC/UICC-Stage-2A,1634123,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IIA1,0,None,cancer,Vähi staadium,AJCC/UICC Stage 2A1,AJCC/UICC-Stage-2A1,1633743,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IIA2,0,None,cancer,Vähi staadium,AJCC/UICC Stage 2A2,AJCC/UICC-Stage-2A2,1634338,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IIB,0,None,cancer,Vähi staadium,AJCC/UICC Stage 2B,AJCC/UICC-Stage-2B,1634028,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IIC,0,None,cancer,Vähi staadium,AJCC/UICC Stage 2C,AJCC/UICC-Stage-2C,1634903,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IIE,0,None,cancer,Vähi staadium,AJCC/UICC Stage 2E,AJCC/UICC-Stage-2E,1634914,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-III,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3,AJCC/UICC-Stage-3,1633650,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IIIA,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3A,AJCC/UICC-Stage-3A,1635855,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IIIA1,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3A1,AJCC/UICC-Stage-3A1,1635412,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IIIA2,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3A2,AJCC/UICC-Stage-3A2,1634304,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IIIB,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3B,AJCC/UICC-Stage-3B,1634411,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IIIC,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3C,AJCC/UICC-Stage-3C,1634150,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IIIC1,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3C1,AJCC/UICC-Stage-3C1,1634626,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IIIC2,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3C2,AJCC/UICC-Stage-3C2,1634556,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IIID,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3D,AJCC/UICC-Stage-3D,1633431,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IS,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1s,AJCC/UICC-Stage-1S,1635474,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IV,0,None,cancer,Vähi staadium,AJCC/UICC Stage 4,AJCC/UICC-Stage-4,1633308,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IVA,0,None,cancer,Vähi staadium,AJCC/UICC Stage 4A,AJCC/UICC-Stage-4A,1633439,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IVA1,0,None,cancer,Vähi staadium,AJCC/UICC Stage 4A1,AJCC/UICC-Stage-4A1,1635355,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IVA2,0,None,cancer,Vähi staadium,AJCC/UICC Stage 4A2,AJCC/UICC-Stage-4A2,1635066,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IVB,0,None,cancer,Vähi staadium,AJCC/UICC Stage 4B,AJCC/UICC-Stage-4B,1633748,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-IVC,0,None,cancer,Vähi staadium,AJCC/UICC Stage 4C,AJCC/UICC-Stage-4C,1633675,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-M0,0,None,cancer,TNM-kood,AJCC/UICC M0 Category,AJCC/UICC-M0,1635624,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-M0(I+),0,None,cancer,TNM-kood,AJCC/UICC M0(i+) Category,AJCC/UICC-M0(i+),1634197,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-M1,0,None,cancer,TNM-kood,AJCC/UICC M1 Category,AJCC/UICC-M1,1635142,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-M1A,0,None,cancer,TNM-kood,AJCC/UICC M1a Category,AJCC/UICC-M1a,1635100,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-M1B,0,None,cancer,TNM-kood,AJCC/UICC M1b Category,AJCC/UICC-M1b,1634463,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-M1C,0,None,cancer,TNM-kood,AJCC/UICC M1c Category,AJCC/UICC-M1c,1635519,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-M1D,0,None,cancer,TNM-kood,AJCC/UICC M1d Category,AJCC/UICC-M1d,1634064,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-MX,0,None,cancer,TNM-kood,AJCC/UICC MX Category,AJCC/UICC-MX,1633547,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N0,0,None,cancer,TNM-kood,AJCC/UICC N0 Category,AJCC/UICC-N0,1633440,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N0A,0,None,cancer,TNM-kood,AJCC/UICC N0a Category,AJCC/UICC-N0a,1633621,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N0B,0,None,cancer,TNM-kood,AJCC/UICC N0b Category,AJCC/UICC-N0b,1635244,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N0(I+),0,None,cancer,TNM-kood,AJCC/UICC N0(i+) Category,AJCC/UICC-N0(i+),1635600,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N0(MOL+),0,None,cancer,TNM-kood,AJCC/UICC N0(mol+) Category,AJCC/UICC-N0(mol+),1633938,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N1,0,None,cancer,TNM-kood,AJCC/UICC N1 Category,AJCC/UICC-N1,1634434,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N1A,0,None,cancer,TNM-kood,AJCC/UICC N1a Category,AJCC/UICC-N1a,1633735,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N1A(SN),0,None,cancer,TNM-kood,AJCC/UICC N1a(sn) Category,AJCC/UICC-N1a(sn),1634034,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N1B,0,None,cancer,TNM-kood,AJCC/UICC N1b Category,AJCC/UICC-N1b,1635130,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N1B1,0,None,cancer,TNM-kood,AJCC/UICC N1b1 Category,AJCC/UICC-N1b1,1634968,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N1B2,0,None,cancer,TNM-kood,AJCC/UICC N1b2 Category,AJCC/UICC-N1b2,1633886,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N1B3,0,None,cancer,TNM-kood,AJCC/UICC N1b3 Category,AJCC/UICC-N1b3,1633630,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N1B4,0,None,cancer,TNM-kood,AJCC/UICC N1b4 Category,AJCC/UICC-N1b4,1634452,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N1C,0,None,cancer,TNM-kood,AJCC/UICC N1c Category,AJCC/UICC-N1c,1634620,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N1MI,0,None,cancer,TNM-kood,AJCC/UICC N1mi Category,AJCC/UICC-N1mi,1635335,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N2,0,None,cancer,TNM-kood,AJCC/UICC N2 Category,AJCC/UICC-N2,1634119,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N2A,0,None,cancer,TNM-kood,AJCC/UICC N2a Category,AJCC/UICC-N2a,1635644,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N2B,0,None,cancer,TNM-kood,AJCC/UICC N2b Category,AJCC/UICC-N2b,1634134,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N2C,0,None,cancer,TNM-kood,AJCC/UICC N2c Category,AJCC/UICC-N2c,1634080,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N2MI,0,None,cancer,TNM-kood,AJCC/UICC N2mi Category,AJCC/UICC-N2mi,1633512,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N3,0,None,cancer,TNM-kood,AJCC/UICC N3 Category,AJCC/UICC-N3,1635320,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N3A,0,None,cancer,TNM-kood,AJCC/UICC N3a Category,AJCC/UICC-N3a,1635590,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N3B,0,None,cancer,TNM-kood,AJCC/UICC N3b Category,AJCC/UICC-N3b,1633422,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N3C,0,None,cancer,TNM-kood,AJCC/UICC N3c Category,AJCC/UICC-N3c,1634735,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-N4,0,None,cancer,TNM-kood,AJCC/UICC N4 Category,AJCC/UICC-N4,1635445,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-NX,0,None,cancer,TNM-kood,AJCC/UICC NX Category,AJCC/UICC-NX,1633885,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-p0,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 0,p-AJCC/UICC-Stage-0,1633542,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-p0A,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 0a,p-AJCC/UICC-Stage-0A,1635865,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-p0IS,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 0is,p-AJCC/UICC-Stage-0IS,1634955,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pI,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1,p-AJCC/UICC-Stage-1,1634252,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIA,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1A,p-AJCC/UICC-Stage-1A,1633891,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIA1,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1A1,p-AJCC/UICC-Stage-1A1,1634719,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIA2,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1A2,p-AJCC/UICC-Stage-1A2,1635454,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIA3,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1A3,p-AJCC/UICC-Stage-1A3,1635256,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIB,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1B,p-AJCC/UICC-Stage-1B,1633869,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIB1,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1B1,p-AJCC/UICC-Stage-1B1,1635882,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIB2,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1B2,p-AJCC/UICC-Stage-1B2,1633717,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIC,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1C,p-AJCC/UICC-Stage-1C,1633591,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIE,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1E,p-AJCC/UICC-Stage-1E,1633568,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pII,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 2,p-AJCC/UICC-Stage-2,1633702,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIIA,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 2A,p-AJCC/UICC-Stage-2A,1634960,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIIA1,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 2A1,p-AJCC/UICC-Stage-2A1,1633296,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIIA2,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 2A2,p-AJCC/UICC-Stage-2A2,1635175,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIIB,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 2B,p-AJCC/UICC-Stage-2B,1633813,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIIC,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 2C,p-AJCC/UICC-Stage-2C,1633859,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIIE,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 2E,p-AJCC/UICC-Stage-2E,1635428,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIII,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3,p-AJCC/UICC-Stage-3,1635566,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIIIA,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3A,p-AJCC/UICC-Stage-3A,1633519,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIIIA1,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3A1,p-AJCC/UICC-Stage-3A1,1633303,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIIIA2,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3A2,p-AJCC/UICC-Stage-3A2,1635725,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIIIB,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3B,p-AJCC/UICC-Stage-3B,1634789,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIIIC,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3C,p-AJCC/UICC-Stage-3C,1635372,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIIIC1,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3C1,p-AJCC/UICC-Stage-3C1,1633718,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIIIC2,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3C2,p-AJCC/UICC-Stage-3C2,1633961,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIIID,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3D,p-AJCC/UICC-Stage-3D,1634918,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIS,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1s,p-AJCC/UICC-Stage-1S,1634629,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIV,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 4,p-AJCC/UICC-Stage-4,1634688,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIVA,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 4A,p-AJCC/UICC-Stage-4A,1635232,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIVA1,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 4A1,p-AJCC/UICC-Stage-4A1,1635365,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIVA2,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 4A2,p-AJCC/UICC-Stage-4A2,1634063,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIVB,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 4B,p-AJCC/UICC-Stage-4B,1633577,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pIVC,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 4C,p-AJCC/UICC-Stage-4C,1635567,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pM0,0,None,cancer,TNM-kood,AJCC/UICC pathological M0 Category,p-AJCC/UICC-M0,1634618,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pM0(I+),0,None,cancer,TNM-kood,AJCC/UICC pathological M0(i+) Category,p-AJCC/UICC-M0(i+),1633457,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pM1,0,None,cancer,TNM-kood,AJCC/UICC pathological M1 Category,p-AJCC/UICC-M1,1635505,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pM1A,0,None,cancer,TNM-kood,AJCC/UICC pathological M1a Category,p-AJCC/UICC-M1a,1634312,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pM1B,0,None,cancer,TNM-kood,AJCC/UICC pathological M1b Category,p-AJCC/UICC-M1b,1634093,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pM1C,0,None,cancer,TNM-kood,AJCC/UICC pathological M1c Category,p-AJCC/UICC-M1c,1635338,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pM1D,0,None,cancer,TNM-kood,AJCC/UICC pathological M1d Category,p-AJCC/UICC-M1d,1635373,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pMX,0,None,cancer,TNM-kood,AJCC/UICC pathological MX Category,p-AJCC/UICC-MX,1633421,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN0,0,None,cancer,TNM-kood,AJCC/UICC pathological N0 Category,p-AJCC/UICC-N0,1635597,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN0A,0,None,cancer,TNM-kood,AJCC/UICC pathological N0a Category,p-AJCC/UICC-N0a,1633923,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN0B,0,None,cancer,TNM-kood,AJCC/UICC pathological N0b Category,p-AJCC/UICC-N0b,1633322,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN0(I+),0,None,cancer,TNM-kood,AJCC/UICC pathological N0(i+) Category,p-AJCC/UICC-N0(i+),1633503,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN0(MOL+),0,None,cancer,TNM-kood,AJCC/UICC pathological N0(mol+) Category,p-AJCC/UICC-N0(mol+),1633485,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN1,0,None,cancer,TNM-kood,AJCC/UICC pathological N1 Category,p-AJCC/UICC-N1,1635613,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-PN1A,0,None,cancer,TNM-kood,AJCC/UICC pathological N1a Category,p-AJCC/UICC-N1a,1634206,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN1A(SN),0,None,cancer,TNM-kood,AJCC/UICC pathological N1a(sn) Category,p-AJCC/UICC-N1a(sn),1635499,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN1B,0,None,cancer,TNM-kood,AJCC/UICC pathological N1b Category,p-AJCC/UICC-N1b,1633830,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN1B1,0,None,cancer,TNM-kood,AJCC/UICC pathological N1b1 Category,p-AJCC/UICC-N1b1,1634734,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN1B2,0,None,cancer,TNM-kood,AJCC/UICC pathological N1b2 Category,p-AJCC/UICC-N1b2,1634125,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN1B3,0,None,cancer,TNM-kood,AJCC/UICC pathological N1b3 Category,p-AJCC/UICC-N1b3,1633558,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN1B4,0,None,cancer,TNM-kood,AJCC/UICC pathological N1b4 Category,p-AJCC/UICC-N1b4,1634591,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN1C,0,None,cancer,TNM-kood,AJCC/UICC pathological N1c Category,p-AJCC/UICC-N1c,1634589,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN1MI,0,None,cancer,TNM-kood,AJCC/UICC pathological N1mi Category,p-AJCC/UICC-N1mi,1633502,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN2,0,None,cancer,TNM-kood,AJCC/UICC pathological N2 Category,p-AJCC/UICC-N2,1633864,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN2A,0,None,cancer,TNM-kood,AJCC/UICC pathological N2a Category,p-AJCC/UICC-N2a,1633890,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN2B,0,None,cancer,TNM-kood,AJCC/UICC pathological N2b Category,p-AJCC/UICC-N2b,1633460,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN2C,0,None,cancer,TNM-kood,AJCC/UICC pathological N2c Category,p-AJCC/UICC-N2c,1633301,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN2MI,0,None,cancer,TNM-kood,AJCC/UICC pathological N2mi Category,p-AJCC/UICC-N2mi,1635830,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN3,0,None,cancer,TNM-kood,AJCC/UICC pathological N3 Category,p-AJCC/UICC-N3,1635706,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN3A,0,None,cancer,TNM-kood,AJCC/UICC pathological N3a Category,p-AJCC/UICC-N3a,1633401,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN3B,0,None,cancer,TNM-kood,AJCC/UICC pathological N3b Category,p-AJCC/UICC-N3b,1633384,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN3C,0,None,cancer,TNM-kood,AJCC/UICC pathological N3c Category,p-AJCC/UICC-N3c,1634305,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pN4,0,None,cancer,TNM-kood,AJCC/UICC pathological N4 Category,p-AJCC/UICC-N4,1634916,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pNX,0,None,cancer,TNM-kood,AJCC/UICC pathological NX Category,p-AJCC/UICC-NX,1635170,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT0,0,None,cancer,TNM-kood,AJCC/UICC pathological T0 Category,p-AJCC/UICC-T0,1635740,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT1,0,None,cancer,TNM-kood,AJCC/UICC pathological T1 Category,p-AJCC/UICC-T1,1634004,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT1A,0,None,cancer,TNM-kood,AJCC/UICC pathological T1a Category,p-AJCC/UICC-T1a,1633722,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT1A1,0,None,cancer,TNM-kood,AJCC/UICC pathological T1a1 Category,p-AJCC/UICC-T1a1,1634867,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT1A2,0,None,cancer,TNM-kood,AJCC/UICC pathological T1a2 Category,p-AJCC/UICC-T1a2,1635881,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT1B,0,None,cancer,TNM-kood,AJCC/UICC pathological T1b Category,p-AJCC/UICC-T1b,1633693,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT1B1,0,None,cancer,TNM-kood,AJCC/UICC pathological T1b1 Category,p-AJCC/UICC-T1b1,1635168,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT1B2,0,None,cancer,TNM-kood,AJCC/UICC pathological T1b2 Category,p-AJCC/UICC-T1b2,1635120,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT1B3,0,None,cancer,TNM-kood,AJCC/UICC pathological T1b3 Category,p-AJCC/UICC-T1b3,1633919,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT1C,0,None,cancer,TNM-kood,AJCC/UICC pathological T1c Category,p-AJCC/UICC-T1c,1635017,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT1C1,0,None,cancer,TNM-kood,AJCC/UICC pathological T1c1 Category,p-AJCC/UICC-T1c1,1633387,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT1C2,0,None,cancer,TNM-kood,AJCC/UICC pathological T1c2 Category,p-AJCC/UICC-T1c2,1635112,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT1C3,0,None,cancer,TNM-kood,AJCC/UICC pathological T1c3 Category,p-AJCC/UICC-T1c3,1633779,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT1D,0,None,cancer,TNM-kood,AJCC/UICC pathological T1d Category,p-AJCC/UICC-T1d,1634272,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT1MI,0,None,cancer,TNM-kood,AJCC/UICC pathological T1mi Category,p-AJCC/UICC-T1mi,1634428,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT2,0,None,cancer,TNM-kood,AJCC/UICC pathological T2 Category,p-AJCC/UICC-T2,1633978,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT2A,0,None,cancer,TNM-kood,AJCC/UICC pathological T2a Category,p-AJCC/UICC-T2a,1634597,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT2A1,0,None,cancer,TNM-kood,AJCC/UICC pathological T2a1 Category,p-AJCC/UICC-T2a1,1634633,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT2A2,0,None,cancer,TNM-kood,AJCC/UICC pathological T2a2 Category,p-AJCC/UICC-T2a2,1634166,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT2B,0,None,cancer,TNM-kood,AJCC/UICC pathological T2b Category,p-AJCC/UICC-T2b,1635575,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT2C,0,None,cancer,TNM-kood,AJCC/UICC pathological T2c Category,p-AJCC/UICC-T2c,1634503,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT2D,0,None,cancer,TNM-kood,AJCC/UICC pathological T2d Category,p-AJCC/UICC-T2d,1633278,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT3,0,None,cancer,TNM-kood,AJCC/UICC pathological T3 Category,p-AJCC/UICC-T3,1634406,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT3A,0,None,cancer,TNM-kood,AJCC/UICC pathological T3a Category,p-AJCC/UICC-T3a,1633288,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT3B,0,None,cancer,TNM-kood,AJCC/UICC pathological T3b Category,p-AJCC/UICC-T3b,1633406,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT3C,0,None,cancer,TNM-kood,AJCC/UICC pathological T3c Category,p-AJCC/UICC-T3c,1635027,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT3D,0,None,cancer,TNM-kood,AJCC/UICC pathological T3d Category,p-AJCC/UICC-T3d,1635377,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT3E,0,None,cancer,TNM-kood,AJCC/UICC pathological T3e Category,p-AJCC/UICC-T3e,1634025,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT4,0,None,cancer,TNM-kood,AJCC/UICC pathological T4 Category,p-AJCC/UICC-T4,1633943,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT4A,0,None,cancer,TNM-kood,AJCC/UICC pathological T4a Category,p-AJCC/UICC-T4a,1633300,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT4B,0,None,cancer,TNM-kood,AJCC/UICC pathological T4b Category,p-AJCC/UICC-T4b,1634957,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT4C,0,None,cancer,TNM-kood,AJCC/UICC pathological T4c Category,p-AJCC/UICC-T4c,1635446,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT4D,0,None,cancer,TNM-kood,AJCC/UICC pathological T4d Category,p-AJCC/UICC-T4d,1635003,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pT4E,0,None,cancer,TNM-kood,AJCC/UICC pathological T4e Category,p-AJCC/UICC-T4e,1635058,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pTA,0,None,cancer,TNM-kood,AJCC/UICC pathological Ta Category,p-AJCC/UICC-Ta,1635888,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pTIS,0,None,cancer,TNM-kood,AJCC/UICC pathological Tis Category,p-AJCC/UICC-Tis,1634581,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pTIS(DCIS),0,None,cancer,TNM-kood,AJCC/UICC pathological Tis(DCIS) Category,p-AJCC/UICC-Tis(DCIS),1634623,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pTIS(LAMN),0,None,cancer,TNM-kood,AJCC/UICC pathological Tis(LAMN) Category,p-AJCC/UICC-Tis(LAMN),1633598,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pTIS(PAGET),0,None,cancer,TNM-kood,AJCC/UICC pathological Tis(Paget) Category,p-AJCC/UICC-Tis(Paget),1635005,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-pTX,0,None,cancer,TNM-kood,AJCC/UICC pathological TX Category,p-AJCC/UICC-TX,1633925,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-R0,0,None,cancer,R-kood,R0: No residual tumor,R0,1634643,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-R1,0,None,cancer,R-kood,R1: Microscopic residual tumor,R1,1633801,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-R2,0,None,cancer,R-kood,R2: Macroscopic residual tumor,R2,1634484,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T0,0,None,cancer,TNM-kood,AJCC/UICC T0 Category,AJCC/UICC-T0,1634213,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T1,0,None,cancer,TNM-kood,AJCC/UICC T1 Category,AJCC/UICC-T1,1635564,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T1A,0,None,cancer,TNM-kood,AJCC/UICC T1a Category,AJCC/UICC-T1a,1633880,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T1A1,0,None,cancer,TNM-kood,AJCC/UICC T1a1 Category,AJCC/UICC-T1a1,1634674,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T1A2,0,None,cancer,TNM-kood,AJCC/UICC T1a2 Category,AJCC/UICC-T1a2,1635553,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T1B,0,None,cancer,TNM-kood,AJCC/UICC T1b Category,AJCC/UICC-T1b,1633921,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T1B1,0,None,cancer,TNM-kood,AJCC/UICC T1b1 Category,AJCC/UICC-T1b1,1633396,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T1B2,0,None,cancer,TNM-kood,AJCC/UICC T1b2 Category,AJCC/UICC-T1b2,1635666,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T1B3,0,None,cancer,TNM-kood,AJCC/UICC T1b3 Category,AJCC/UICC-T1b3,1633760,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T1C,0,None,cancer,TNM-kood,AJCC/UICC T1c Category,AJCC/UICC-T1c,1633529,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T1C1,0,None,cancer,TNM-kood,AJCC/UICC T1c1 Category,AJCC/UICC-T1c1,1635069,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T1C2,0,None,cancer,TNM-kood,AJCC/UICC T1c2 Category,AJCC/UICC-T1c2,1635668,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T1C3,0,None,cancer,TNM-kood,AJCC/UICC T1c3 Category,AJCC/UICC-T1c3,1634701,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T1D,0,None,cancer,TNM-kood,AJCC/UICC T1d Category,AJCC/UICC-T1d,1634100,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T1MI,0,None,cancer,TNM-kood,AJCC/UICC T1mi Category,AJCC/UICC-T1mi,1635083,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T2,0,None,cancer,TNM-kood,AJCC/UICC T2 Category,AJCC/UICC-T2,1635562,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T2A,0,None,cancer,TNM-kood,AJCC/UICC T2a Category,AJCC/UICC-T2a,1635327,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T2A1,0,None,cancer,TNM-kood,AJCC/UICC T2a1 Category,AJCC/UICC-T2a1,1633714,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T2A2,0,None,cancer,TNM-kood,AJCC/UICC T2a2 Category,AJCC/UICC-T2a2,1635685,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T2B,0,None,cancer,TNM-kood,AJCC/UICC T2b Category,AJCC/UICC-T2b,1633593,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T2C,0,None,cancer,TNM-kood,AJCC/UICC T2c Category,AJCC/UICC-T2c,1635270,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T2D,0,None,cancer,TNM-kood,AJCC/UICC T2d Category,AJCC/UICC-T2d,1633678,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T3,0,None,cancer,TNM-kood,AJCC/UICC T3 Category,AJCC/UICC-T3,1634376,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T3A,0,None,cancer,TNM-kood,AJCC/UICC T3a Category,AJCC/UICC-T3a,1633771,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T3B,0,None,cancer,TNM-kood,AJCC/UICC T3b Category,AJCC/UICC-T3b,1634980,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T3C,0,None,cancer,TNM-kood,AJCC/UICC T3c Category,AJCC/UICC-T3c,1633360,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T3D,0,None,cancer,TNM-kood,AJCC/UICC T3d Category,AJCC/UICC-T3d,1635625,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T3E,0,None,cancer,TNM-kood,AJCC/UICC T3e Category,AJCC/UICC-T3e,1634730,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T4,0,None,cancer,TNM-kood,AJCC/UICC T4 Category,AJCC/UICC-T4,1634654,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T4A,0,None,cancer,TNM-kood,AJCC/UICC T4a Category,AJCC/UICC-T4a,1635222,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T4B,0,None,cancer,TNM-kood,AJCC/UICC T4b Category,AJCC/UICC-T4b,1634436,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T4C,0,None,cancer,TNM-kood,AJCC/UICC T4c Category,AJCC/UICC-T4c,1635526,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T4D,0,None,cancer,TNM-kood,AJCC/UICC T4d Category,AJCC/UICC-T4d,1633909,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-T4E,0,None,cancer,TNM-kood,AJCC/UICC T4e Category,AJCC/UICC-T4e,1634193,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-TA,0,None,cancer,TNM-kood,AJCC/UICC Ta Category,AJCC/UICC-Ta,1635114,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-TIS,0,None,cancer,TNM-kood,AJCC/UICC Tis Category,AJCC/UICC-Tis,1634530,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-TIS(DCIS),0,None,cancer,TNM-kood,AJCC/UICC Tis(DCIS) Category,AJCC/UICC-Tis(DCIS),1635835,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-TIS(LAMN),0,None,cancer,TNM-kood,AJCC/UICC Tis(LAMN) Category,AJCC/UICC-Tis(LAMN),1633975,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-TIS(PAGET),0,None,cancer,TNM-kood,AJCC/UICC Tis(Paget) Category,AJCC/UICC-Tis(Paget),1635571,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-TX,0,None,cancer,TNM-kood,AJCC/UICC TX Category,AJCC/UICC-TX,1635682,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-yc0,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinica Stage 0,yc-AJCC/UICC-Stage-0,1634785,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-yc0A,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinica Stage 0a,yc-AJCC/UICC-Stage-0A,1634336,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-yc0IS,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinica Stage 0is,yc-AJCC/UICC-Stage-0IS,1633330,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycI,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinica Stage 1,yc-AJCC/UICC-Stage-1,1634467,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIA,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinica Stage 1A,yc-AJCC/UICC-Stage-1A,1633511,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIA1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1A1,yc-AJCC/UICC-Stage-1A1,1635431,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIA2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1A2,yc-AJCC/UICC-Stage-1A2,1635654,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIA3,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1A3,yc-AJCC/UICC-Stage-1A3,1635489,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIB,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1B,yc-AJCC/UICC-Stage-1B,1633576,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIB1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1B1,yc-AJCC/UICC-Stage-1B1,1635106,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIB2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1B2,yc-AJCC/UICC-Stage-1B2,1635695,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIC,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1C,yc-AJCC/UICC-Stage-1C,1633727,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIE,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1E,yc-AJCC/UICC-Stage-1E,1633998,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycII,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 2,yc-AJCC/UICC-Stage-2,1633756,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIIA,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 2A,yc-AJCC/UICC-Stage-2A,1635173,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIIA1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 2A1,yc-AJCC/UICC-Stage-2A1,1634485,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIIA2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 2A2,yc-AJCC/UICC-Stage-2A2,1635692,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIIB,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 2B,yc-AJCC/UICC-Stage-2B,1633286,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIIC,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 2C,yc-AJCC/UICC-Stage-2C,1633320,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIIE,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 2E,yc-AJCC/UICC-Stage-2E,1635576,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIII,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3,yc-AJCC/UICC-Stage-3,1634850,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIIIA,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3A,yc-AJCC/UICC-Stage-3A,1633865,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIIIA1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3A1,yc-AJCC/UICC-Stage-3A1,1633821,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIIIA2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3A2,yc-AJCC/UICC-Stage-3A2,1635030,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIIIB,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3B,yc-AJCC/UICC-Stage-3B,1634214,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIIIC,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3C,yc-AJCC/UICC-Stage-3C,1635455,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIIIC1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3C1,yc-AJCC/UICC-Stage-3C1,1634441,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIIIC2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3C2,yc-AJCC/UICC-Stage-3C2,1635782,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIIID,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3D,yc-AJCC/UICC-Stage-3D,1635286,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIS,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1s,yc-AJCC/UICC-Stage-1S,1634952,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIV,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 4,yc-AJCC/UICC-Stage-4,1633600,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIVA,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 4A,yc-AJCC/UICC-Stage-4A,1634733,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIVA1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 4A1,yc-AJCC/UICC-Stage-4A1,1635574,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIVA2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 4A2,yc-AJCC/UICC-Stage-4A2,1635500,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIVB,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 4B,yc-AJCC/UICC-Stage-4B,1634367,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycIVC,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 4C,yc-AJCC/UICC-Stage-4C,1635146,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycM0,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica M0 Category,yc-AJCC/UICC-M0,1634802,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycM0(I+),0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical M0(i+) Category,yc-AJCC/UICC-M0(i+),1634481,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycM1,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica M1 Category,yc-AJCC/UICC-M1,1633413,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycM1A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica M1a Category,yc-AJCC/UICC-M1a,1634836,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycM1B,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica M1b Category,yc-AJCC/UICC-M1b,1635850,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycM1C,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica M1c Category,yc-AJCC/UICC-M1c,1633352,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycM1D,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical M1d Category,yc-AJCC/UICC-M1d,1634293,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycMX,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica MX Category,yc-AJCC/UICC-MX,1633450,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN0,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N0 Category,yc-AJCC/UICC-N0,1633686,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN0A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical N0a Category,yc-AJCC/UICC-N0a,1634516,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN0B,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical N0b Category,yc-AJCC/UICC-N0b,1634700,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN0(I+),0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical N0(i+) Category,yc-AJCC/UICC-N0(i+),1634372,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN0(MOL+),0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical N0(mol+) Category,yc-AJCC/UICC-N0(mol+),1634527,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN1,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1 Category,yc-AJCC/UICC-N1,1634321,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN1A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1a Category,yc-AJCC/UICC-N1a,1634345,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN1A(SN),0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical N1a(sn) Category,yc-AJCC/UICC-N1a(sn),1633881,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN1B,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1b Category,yc-AJCC/UICC-N1b,1634554,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN1B1,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1b1 Category,yc-AJCC/UICC-N1b1,1635834,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN1B2,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1b2 Category,yc-AJCC/UICC-N1b2,1635875,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN1B3,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1b3 Category,yc-AJCC/UICC-N1b3,1634456,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN1B4,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1b4 Category,yc-AJCC/UICC-N1b4,1635213,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN1C,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1c Category,yc-AJCC/UICC-N1c,1634382,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN1MI,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1mi Category,yc-AJCC/UICC-N1mi,1635360,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN2,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N2 Category,yc-AJCC/UICC-N2,1633564,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN2A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N2a Category,yc-AJCC/UICC-N2a,1634391,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN2B,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N2b Category,yc-AJCC/UICC-N2b,1634223,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN2C,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N2c Category,yc-AJCC/UICC-N2c,1633459,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN2MI,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical N2mi Category,yc-AJCC/UICC-N2mi,1633912,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN3,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N3 Category,yc-AJCC/UICC-N3,1634102,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN3A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N3a Category,yc-AJCC/UICC-N3a,1633456,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN3B,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N3b Category,yc-AJCC/UICC-N3b,1635630,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN3C,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N3c Category,yc-AJCC/UICC-N3c,1635736,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycN4,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N4 Category,yc-AJCC/UICC-N4,1633293,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycNx,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica NX Category,yc-AJCC/UICC-NX,1634356,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT0,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T0 Category,yc-AJCC/UICC-T0,1635321,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT1,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1 Category,yc-AJCC/UICC-T1,1633377,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT1A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1a Category,yc-AJCC/UICC-T1a,1635371,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT1A1,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1a1 Category,yc-AJCC/UICC-T1a1,1635698,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT1A2,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1a2 Category,yc-AJCC/UICC-T1a2,1635481,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT1B,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1b Category,yc-AJCC/UICC-T1b,1634217,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT1B1,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1b1 Category,yc-AJCC/UICC-T1b1,1634011,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT1B2,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1b2 Category,yc-AJCC/UICC-T1b2,1634880,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT1B3,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1b3 Category,yc-AJCC/UICC-T1b3,1634763,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT1C,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1c Category,yc-AJCC/UICC-T1c,1634758,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT1C1,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1c1 Category,yc-AJCC/UICC-T1c1,1633845,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT1C2,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1c2 Category,yc-AJCC/UICC-T1c2,1633803,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT1C3,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1c3 Category,yc-AJCC/UICC-T1c3,1634153,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT1D,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1d Category,yc-AJCC/UICC-T1d,1633703,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT1MI,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1mi Category,yc-AJCC/UICC-T1mi,1634018,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT2,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T2 Category,yc-AJCC/UICC-T2,1634819,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT2A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T2a Category,yc-AJCC/UICC-T2a,1634979,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT2A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T2b Category,yc-AJCC/UICC-T2b,1634179,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT2A1,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T2a1 Category,yc-AJCC/UICC-T2a1,1634687,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT2A2,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T2a2 Category,yc-AJCC/UICC-T2a2,1634136,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT2C,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T2c Category,yc-AJCC/UICC-T2c,1634346,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT2D,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T2d Category,yc-AJCC/UICC-T2d,1635167,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT3,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T3 Category,yc-AJCC/UICC-T3,1633608,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT3A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T3a Category,yc-AJCC/UICC-T3a,1635570,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT3B,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T3b Category,yc-AJCC/UICC-T3b,1634458,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT3C,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T3c Category,yc-AJCC/UICC-T3c,1634827,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT3D,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T3d Category,yc-AJCC/UICC-T3d,1635313,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT3E,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T3e Category,yc-AJCC/UICC-T3e,1634464,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT4,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T4 Category,yc-AJCC/UICC-T4,1635044,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT4A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T4a Category,yc-AJCC/UICC-T4a,1634020,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT4B,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T4b Category,yc-AJCC/UICC-T4b,1635456,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT4C,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T4c Category,yc-AJCC/UICC-T4c,1634280,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycT4D,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T4d Category,yc-AJCC/UICC-T4d,1633863,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycTA,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical Ta Category,yc-AJCC/UICC-Ta,1634667,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycTE,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T4e Category,yc-AJCC/UICC-T4e,1633691,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycTIS,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical Tis Category,yc-AJCC/UICC-Tis,1635436,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycTIS(DCIS),0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical Tis(DCIS) Category,yc-AJCC/UICC-Tis(DCIS),1635724,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycTIS(LAMN),0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical Tis(LAMN) Category,yc-AJCC/UICC-Tis(LAMN),1634159,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycTIS(PAGET),0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical Tis(Paget) Category,yc-AJCC/UICC-Tis(Paget),1635362,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ycTX,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical TX Category,yc-AJCC/UICC-TX,1634224,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-yp0,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 0,yp-AJCC/UICC-Stage-0,1635675,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-yp0A,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 0a,yp-AJCC/UICC-Stage-0A,1634031,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-yp0IS,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 0is,yp-AJCC/UICC-Stage-0IS,1634084,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypI,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1,yp-AJCC/UICC-Stage-1,1635095,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIA,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1A,yp-AJCC/UICC-Stage-1A,1633664,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIA1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1A1,yp-AJCC/UICC-Stage-1A1,1634168,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIA2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1A2,yp-AJCC/UICC-Stage-1A2,1634343,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIA3,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1A3,yp-AJCC/UICC-Stage-1A3,1634266,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIB,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1B,yp-AJCC/UICC-Stage-1B,1635453,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIB1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1B1,yp-AJCC/UICC-Stage-1B1,1635207,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIB2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1B2,yp-AJCC/UICC-Stage-1B2,1634292,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIC,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1C,yp-AJCC/UICC-Stage-1C,1634416,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIE,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1E,yp-AJCC/UICC-Stage-1E,1633383,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypII,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 2,yp-AJCC/UICC-Stage-2,1635689,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIIA,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 2A,yp-AJCC/UICC-Stage-2A,1634998,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIIA1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 2A1,yp-AJCC/UICC-Stage-2A1,1635886,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIIA2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 2A2,yp-AJCC/UICC-Stage-2A2,1635809,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIIB,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 2B,yp-AJCC/UICC-Stage-2B,1635334,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIIC,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 2C,yp-AJCC/UICC-Stage-2C,1635036,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIIE,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 2E,yp-AJCC/UICC-Stage-2E,1633342,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIII,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3,yp-AJCC/UICC-Stage-3,1633837,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIIIA,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3A,yp-AJCC/UICC-Stage-3A,1633381,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIIIA1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3A1,yp-AJCC/UICC-Stage-3A1,1635460,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIIIA2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3A2,yp-AJCC/UICC-Stage-3A2,1634164,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIIIB,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3B,yp-AJCC/UICC-Stage-3B,1635674,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIIIC,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3C,yp-AJCC/UICC-Stage-3C,1635325,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIIIC1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3C1,yp-AJCC/UICC-Stage-3C1,1633796,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIIIC2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3C2,yp-AJCC/UICC-Stage-3C2,1634140,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIIID,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3D,yp-AJCC/UICC-Stage-3D,1633794,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIS,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1s,yp-AJCC/UICC-Stage-1S,1633505,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIV,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 4,yp-AJCC/UICC-Stage-4,1634077,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIVA,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 4A,yp-AJCC/UICC-Stage-4A,1633860,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIVA1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 4A1,yp-AJCC/UICC-Stage-4A1,1633555,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIVA2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 4A2,yp-AJCC/UICC-Stage-4A2,1633385,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIVB,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 4B,yp-AJCC/UICC-Stage-4B,1633973,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypIVC,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 4C,yp-AJCC/UICC-Stage-4C,1635801,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypM0,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological M0 Category,yp-AJCC/UICC-M0,1633364,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypM0(I+),0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological M0(i+) Category,yp-AJCC/UICC-M0(i+),1634415,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypM1,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological M1 Category,yp-AJCC/UICC-M1,1634355,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypM1A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological M1a Category,yp-AJCC/UICC-M1a,1633657,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypM1B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological M1b Category,yp-AJCC/UICC-M1b,1635829,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypM1C,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological M1c Category,yp-AJCC/UICC-M1c,1635498,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypM1D,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological M1d Category,yp-AJCC/UICC-M1d,1634003,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypMX,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological MX Category,yp-AJCC/UICC-MX,1635235,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN0,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N0 Category,yp-AJCC/UICC-N0,1633527,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN0A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N0a Category,yp-AJCC/UICC-N0a,1634158,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN0B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N0b Category,yp-AJCC/UICC-N0b,1634985,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN0(I+),0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N0(i+) Category,yp-AJCC/UICC-N0(i+),1635444,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN0(MOL+),0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N0(mol+) Category,yp-AJCC/UICC-N0(mol+),1634866,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN1,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1 Category,yp-AJCC/UICC-N1,1634788,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN1A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1a Category,yp-AJCC/UICC-N1a,1633474,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN1A(SN),0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1a(sn) Category,yp-AJCC/UICC-N1a(sn),1634557,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN1B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1b Category,yp-AJCC/UICC-N1b,1635550,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN1B1,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1b1 Category,yp-AJCC/UICC-N1b1,1634560,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN1B2,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1b2 Category,yp-AJCC/UICC-N1b2,1635105,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN1B3,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1b3 Category,yp-AJCC/UICC-N1b3,1635166,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN1B4,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1b4 Category,yp-AJCC/UICC-N1b4,1634889,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN1C,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1c Category,yp-AJCC/UICC-N1c,1635714,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN1MI,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1mi Category,yp-AJCC/UICC-N1mi,1635852,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN2,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N2 Category,yp-AJCC/UICC-N2,1635061,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN2A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N2a Category,yp-AJCC/UICC-N2a,1635796,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN2B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N2b Category,yp-AJCC/UICC-N2b,1633816,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN2C,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N2c Category,yp-AJCC/UICC-N2c,1635312,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN2MI,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N2mi Category,yp-AJCC/UICC-N2mi,1635065,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN3,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N3 Category,yp-AJCC/UICC-N3,1635094,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN3A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N3a Category,yp-AJCC/UICC-N3a,1634776,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN3B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N3b Category,yp-AJCC/UICC-N3b,1634784,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN3C,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N3c Category,yp-AJCC/UICC-N3c,1633408,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypN4,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N4 Category,yp-AJCC/UICC-N4,1634466,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypNX,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological NX Category,yp-AJCC/UICC-NX,1635503,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT0,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T0 Category,yp-AJCC/UICC-T0,1634594,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT1,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1 Category,yp-AJCC/UICC-T1,1635781,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT1A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1a Category,yp-AJCC/UICC-T1a,1634793,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT1A1,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1a1 Category,yp-AJCC/UICC-T1a1,1633812,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT1A2,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1a2 Category,yp-AJCC/UICC-T1a2,1634685,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT1B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1b Category,yp-AJCC/UICC-T1b,1634264,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT1B1,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1b1 Category,yp-AJCC/UICC-T1b1,1633380,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT1B2,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1b2 Category,yp-AJCC/UICC-T1b2,1635607,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT1B3,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1b3 Category,yp-AJCC/UICC-T1b3,1634311,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT1C,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1c Category,yp-AJCC/UICC-T1c,1633935,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT1C1,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1c1 Category,yp-AJCC/UICC-T1c1,1635144,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT1C2,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1c2 Category,yp-AJCC/UICC-T1c2,1635548,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT1C3,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1c3 Category,yp-AJCC/UICC-T1c3,1634851,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT1D,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1d Category,yp-AJCC/UICC-T1d,1635237,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT1MI,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1mi Category,yp-AJCC/UICC-T1mi,1635250,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT2,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T2 Category,yp-AJCC/UICC-T2,1634660,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT2A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T2a Category,yp-AJCC/UICC-T2a,1634246,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT2A1,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T2a1 Category,yp-AJCC/UICC-T2a1,1633285,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT2A2,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T2a2 Category,yp-AJCC/UICC-T2a2,1635716,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT2B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T2b Category,yp-AJCC/UICC-T2b,1634182,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT2C,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T2c Category,yp-AJCC/UICC-T2c,1633867,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT2D,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T2d Category,yp-AJCC/UICC-T2d,1633478,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT3,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T3 Category,yp-AJCC/UICC-T3,1633436,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT3A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T3a Category,yp-AJCC/UICC-T3a,1635035,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT3B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T3b Category,yp-AJCC/UICC-T3b,1633721,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT3C,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T3c Category,yp-AJCC/UICC-T3c,1635331,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT3D,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T3d Category,yp-AJCC/UICC-T3d,1635515,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT3E,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T3e Category,yp-AJCC/UICC-T3e,1635492,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT4,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T4 Category,yp-AJCC/UICC-T4,1635082,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT4A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T4a Category,yp-AJCC/UICC-T4a,1633623,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT4B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T4b Category,yp-AJCC/UICC-T4b,1635623,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT4C,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T4c Category,yp-AJCC/UICC-T4c,1635891,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT4D,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T4d Category,yp-AJCC/UICC-T4d,1634904,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypT4E,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T4e Category,yp-AJCC/UICC-T4e,1633689,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypTA,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological Ta Category,yp-AJCC/UICC-Ta,1634905,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypTIS,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological Tis Category,yp-AJCC/UICC-Tis,1634418,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypTIS(DCIS),0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological Tis(DCIS) Category,yp-AJCC/UICC-Tis(DCIS),1635419,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypTIS(LAMN),0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological Tis(LAMN) Category,yp-AJCC/UICC-Tis(LAMN),1633941,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypTIS(PAGET),0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological Tis(Paget) Category,yp-AJCC/UICC-Tis(Paget),1634222,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
-ypTX,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological TX Category,yp-AJCC/UICC-TX,1633338,Cancer Modifier,Measurement,Staging/Grading,2024-06-03,2099-12-31
+0,0,None,cancer,Vähi staadium,AJCC/UICC Stage 0,AJCC/UICC-Stage-0,1633754,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+0A,0,None,cancer,Vähi staadium,AJCC/UICC Stage 0a,AJCC/UICC-Stage-0A,1635410,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+0IS,0,None,cancer,Vähi staadium,AJCC/UICC Stage 0is,AJCC/UICC-Stage-0IS,1634049,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+10,0,None,cancer,Gleasoni skoor,Gleason Score 10,Gleason-Score-10,1633655,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+2,0,None,cancer,Gleasoni skoor,Gleason Score <=6,Gleason-Score-<=6,1634230,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+3,0,None,cancer,Gleasoni skoor,Gleason Score <=6,Gleason-Score-<=6,1634230,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+3+3,0,None,cancer,Gleasoni skoor,Gleason Grade Group 1,Gleason-Grade_Group-1,1633550,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+3+4,0,None,cancer,Gleasoni skoor,Gleason Grade Group 2,Gleason-Grade_Group-2,1633826,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+3+4,0,None,cancer,Gleasoni skoor,Gleason Score 3+4,Gleason-Score-3+4,1635693,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+3+5,0,None,cancer,Gleasoni skoor,Gleason Grade Group 4,Gleason-Grade_Group-4,1635079,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+4,0,None,cancer,Gleasoni skoor,Gleason Score <=6,Gleason-Score-<=6,1634230,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+4+3,0,None,cancer,Gleasoni skoor,Gleason Grade Group 3,Gleason-Grade_Group-3,1634459,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+4+3,0,None,cancer,Gleasoni skoor,Gleason Score 4+3,Gleason-Score-4+3,1633596,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+4+4,0,None,cancer,Gleasoni skoor,Gleason Grade Group 4,Gleason-Grade_Group-4,1635079,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+4+5,0,None,cancer,Gleasoni skoor,Gleason Grade Group 5,Gleason-Grade_Group-5,1635009,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+5,0,None,cancer,Gleasoni skoor,Gleason Score <=6,Gleason-Score-<=6,1634230,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+5+3,0,None,cancer,Gleasoni skoor,Gleason Grade Group 4,Gleason-Grade_Group-4,1635079,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+5+4,0,None,cancer,Gleasoni skoor,Gleason Grade Group 5,Gleason-Grade_Group-5,1635009,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+5+5,0,None,cancer,Gleasoni skoor,Gleason Grade Group 5,Gleason-Grade_Group-5,1635009,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+6,0,None,cancer,Gleasoni skoor,Gleason Score <=6,Gleason-Score-<=6,1634230,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+7,0,None,cancer,Gleasoni skoor,Gleason Score 7,Gleason-Score-7,1633844,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+8,0,None,cancer,Gleasoni skoor,Gleason Score 8,Gleason-Score-8,1635475,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+9,0,None,cancer,Gleasoni skoor,Gleason Score 9,Gleason-Score-9,1633687,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+c0,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 0,c-AJCC/UICC-Stage-0,1634502,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+c0A,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 0a,c-AJCC/UICC-Stage-0A,1635434,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+c0IS,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 0is,c-AJCC/UICC-Stage-0IS,1633707,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cI,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1,c-AJCC/UICC-Stage-1,1635199,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIA,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1A,c-AJCC/UICC-Stage-1A,1634671,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIA1,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1A1,c-AJCC/UICC-Stage-1A1,1634927,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIA2,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1A2,c-AJCC/UICC-Stage-1A2,1633948,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIA3,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1A3,c-AJCC/UICC-Stage-1A3,1635216,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIB,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1B,c-AJCC/UICC-Stage-1B,1633618,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIB1,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1B1,c-AJCC/UICC-Stage-1B1,1635184,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIB2,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1B2,c-AJCC/UICC-Stage-1B2,1634794,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIC,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1C,c-AJCC/UICC-Stage-1C,1634813,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIE,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1E,c-AJCC/UICC-Stage-1E,1635482,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cII,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 2,c-AJCC/UICC-Stage-2,1633841,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIIA,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 2A,c-AJCC/UICC-Stage-2A,1635486,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIIA1,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 2A1,c-AJCC/UICC-Stage-2A1,1635115,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIIA2,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 2A2,c-AJCC/UICC-Stage-2A2,1633489,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIIB,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 2B,c-AJCC/UICC-Stage-2B,1634332,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIIC,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 2C,c-AJCC/UICC-Stage-2C,1635056,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIIE,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 2E,c-AJCC/UICC-Stage-2E,1634917,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIII,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3,c-AJCC/UICC-Stage-3,1634876,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIIIA,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3A,c-AJCC/UICC-Stage-3A,1634922,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIIIA1,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3A1,c-AJCC/UICC-Stage-3A1,1634030,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIIIA2,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3A2,c-AJCC/UICC-Stage-3A2,1634232,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIIIB,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3B,c-AJCC/UICC-Stage-3B,1635764,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIIIC,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3C,c-AJCC/UICC-Stage-3C,1634571,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIIIC1,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3C1,c-AJCC/UICC-Stage-3C1,1633418,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIIIC2,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3C2,c-AJCC/UICC-Stage-3C2,1635253,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIIID,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 3D,c-AJCC/UICC-Stage-3D,1634297,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIS,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 1s,c-AJCC/UICC-Stage-1S,1635293,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIV,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 4,c-AJCC/UICC-Stage-4,1634447,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIVA,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 4A,c-AJCC/UICC-Stage-4A,1635450,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIVA1,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 4A1,c-AJCC/UICC-Stage-4A1,1634384,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIVA2,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 4A2,c-AJCC/UICC-Stage-4A2,1634350,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIVB,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 4B,c-AJCC/UICC-Stage-4B,1634525,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cIVC,0,None,cancer,Vähi staadium,AJCC/UICC clinical Stage 4C,c-AJCC/UICC-Stage-4C,1635404,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cM0,0,None,cancer,TNM-kood,AJCC/UICC clinical M0 Category,c-AJCC/UICC-M0,1635291,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cM0(I+),0,None,cancer,TNM-kood,AJCC/UICC clinical M0(i+) Category,c-AJCC/UICC-M0(i+),1635856,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cM1,0,None,cancer,TNM-kood,AJCC/UICC clinical M1 Category,c-AJCC/UICC-M1,1635085,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cM1A,0,None,cancer,TNM-kood,AJCC/UICC clinical M1a Category,c-AJCC/UICC-M1a,1633777,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cM1B,0,None,cancer,TNM-kood,AJCC/UICC clinical M1b Category,c-AJCC/UICC-M1b,1635090,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cM1C,0,None,cancer,TNM-kood,AJCC/UICC clinical M1c Category,c-AJCC/UICC-M1c,1635255,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cM1D,0,None,cancer,TNM-kood,AJCC/UICC clinical M1d Category,c-AJCC/UICC-M1d,1634048,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cMX,0,None,cancer,TNM-kood,AJCC/UICC clinical MX Category,c-AJCC/UICC-MX,1634755,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN0,0,None,cancer,TNM-kood,AJCC/UICC clinical N0 Category,c-AJCC/UICC-N0,1634145,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN0A,0,None,cancer,TNM-kood,AJCC/UICC clinical N0a Category,c-AJCC/UICC-N0a,1635732,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN0B,0,None,cancer,TNM-kood,AJCC/UICC clinical N0b Category,c-AJCC/UICC-N0b,1635495,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN0(I+),0,None,cancer,TNM-kood,AJCC/UICC clinical N0(i+) Category,c-AJCC/UICC-N0(i+),1633918,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN0(MOL+),0,None,cancer,TNM-kood,AJCC/UICC clinical N0(mol+) Category,c-AJCC/UICC-N0(mol+),1634915,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN1,0,None,cancer,TNM-kood,AJCC/UICC clinical N1 Category,c-AJCC/UICC-N1,1635729,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN1A,0,None,cancer,TNM-kood,AJCC/UICC clinical N1a Category,c-AJCC/UICC-N1a,1635164,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN1A(SN),0,None,cancer,TNM-kood,AJCC/UICC clinical N1a(sn) Category,c-AJCC/UICC-N1a(sn),1635628,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN1B,0,None,cancer,TNM-kood,AJCC/UICC clinical N1b Category,c-AJCC/UICC-N1b,1635599,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN1B1,0,None,cancer,TNM-kood,AJCC/UICC clinical N1b1 Category,c-AJCC/UICC-N1b1,1634298,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN1B2,0,None,cancer,TNM-kood,AJCC/UICC clinical N1b2 Category,c-AJCC/UICC-N1b2,1634075,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN1B3,0,None,cancer,TNM-kood,AJCC/UICC clinical N1b3 Category,c-AJCC/UICC-N1b3,1635534,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN1B4,0,None,cancer,TNM-kood,AJCC/UICC clinical N1b4 Category,c-AJCC/UICC-N1b4,1634923,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN1C,0,None,cancer,TNM-kood,AJCC/UICC clinical N1c Category,c-AJCC/UICC-N1c,1634934,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN1MI,0,None,cancer,TNM-kood,AJCC/UICC clinical N1mi Category,c-AJCC/UICC-N1mi,1635121,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN2,0,None,cancer,TNM-kood,AJCC/UICC clinical N2 Category,c-AJCC/UICC-N2,1634523,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN2A,0,None,cancer,TNM-kood,AJCC/UICC clinical N2a Category,c-AJCC/UICC-N2a,1633429,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN2B,0,None,cancer,TNM-kood,AJCC/UICC clinical N2b Category,c-AJCC/UICC-N2b,1634977,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN2C,0,None,cancer,TNM-kood,AJCC/UICC clinical N2c Category,c-AJCC/UICC-N2c,1634118,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN2MI,0,None,cancer,TNM-kood,AJCC/UICC clinical N2mi Category,c-AJCC/UICC-N2mi,1633836,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN3,0,None,cancer,TNM-kood,AJCC/UICC clinical N3 Category,c-AJCC/UICC-N3,1633914,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN3A,0,None,cancer,TNM-kood,AJCC/UICC clinical N3a Category,c-AJCC/UICC-N3a,1634649,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN3B,0,None,cancer,TNM-kood,AJCC/UICC clinical N3b Category,c-AJCC/UICC-N3b,1635610,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN3C,0,None,cancer,TNM-kood,AJCC/UICC clinical N3c Category,c-AJCC/UICC-N3c,1634650,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cN4,0,None,cancer,TNM-kood,AJCC/UICC clinical N4 Category,c-AJCC/UICC-N4,1633862,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cNX,0,None,cancer,TNM-kood,AJCC/UICC clinical NX Category,c-AJCC/UICC-NX,1634722,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT0,0,None,cancer,TNM-kood,AJCC/UICC clinical T0 Category,c-AJCC/UICC-T0,1635155,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT1,0,None,cancer,TNM-kood,AJCC/UICC clinical T1 Category,c-AJCC/UICC-T1,1635661,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT1A,0,None,cancer,TNM-kood,AJCC/UICC clinical T1a Category,c-AJCC/UICC-T1a,1633742,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT1A1,0,None,cancer,TNM-kood,AJCC/UICC clinical T1a1 Category,c-AJCC/UICC-T1a1,1635676,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT1A2,0,None,cancer,TNM-kood,AJCC/UICC clinical T1a2 Category,c-AJCC/UICC-T1a2,1635081,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT1B,0,None,cancer,TNM-kood,AJCC/UICC clinical T1b Category,c-AJCC/UICC-T1b,1635039,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT1B1,0,None,cancer,TNM-kood,AJCC/UICC clinical T1b1 Category,c-AJCC/UICC-T1b1,1635701,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT1B2,0,None,cancer,TNM-kood,AJCC/UICC clinical T1b2 Category,c-AJCC/UICC-T1b2,1634659,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT1B3,0,None,cancer,TNM-kood,AJCC/UICC clinical T1b3 Category,c-AJCC/UICC-T1b3,1635348,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT1C,0,None,cancer,TNM-kood,AJCC/UICC clinical T1c Category,c-AJCC/UICC-T1c,1634320,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT1C1,0,None,cancer,TNM-kood,AJCC/UICC clinical T1c1 Category,c-AJCC/UICC-T1c1,1634515,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT1C2,0,None,cancer,TNM-kood,AJCC/UICC clinical T1c2 Category,c-AJCC/UICC-T1c2,1634184,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT1C3,0,None,cancer,TNM-kood,AJCC/UICC clinical T1c3 Category,c-AJCC/UICC-T1c3,1633494,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT1D,0,None,cancer,TNM-kood,AJCC/UICC clinical T1d Category,c-AJCC/UICC-T1d,1634931,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT1MI,0,None,cancer,TNM-kood,AJCC/UICC clinical T1mi Category,c-AJCC/UICC-T1mi,1635832,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT2,0,None,cancer,TNM-kood,AJCC/UICC clinical T2 Category,c-AJCC/UICC-T2,1635033,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT2A,0,None,cancer,TNM-kood,AJCC/UICC clinical T2a Category,c-AJCC/UICC-T2a,1634689,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT2A1,0,None,cancer,TNM-kood,AJCC/UICC clinical T2a1 Category,c-AJCC/UICC-T2a1,1635046,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT2A2,0,None,cancer,TNM-kood,AJCC/UICC clinical T2a2 Category,c-AJCC/UICC-T2a2,1635269,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT2B,0,None,cancer,TNM-kood,AJCC/UICC clinical T2b Category,c-AJCC/UICC-T2b,1633781,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT2C,0,None,cancer,TNM-kood,AJCC/UICC clinical T2c Category,c-AJCC/UICC-T2c,1634514,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT2D,0,None,cancer,TNM-kood,AJCC/UICC clinical T2d Category,c-AJCC/UICC-T2d,1633541,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT3,0,None,cancer,TNM-kood,AJCC/UICC clinical T3 Category,c-AJCC/UICC-T3,1635895,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT3A,0,None,cancer,TNM-kood,AJCC/UICC clinical T3a Category,c-AJCC/UICC-T3a,1633758,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT3B,0,None,cancer,TNM-kood,AJCC/UICC clinical T3b Category,c-AJCC/UICC-T3b,1633765,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT3C,0,None,cancer,TNM-kood,AJCC/UICC clinical T3c Category,c-AJCC/UICC-T3c,1634088,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT3D,0,None,cancer,TNM-kood,AJCC/UICC clinical T3d Category,c-AJCC/UICC-T3d,1635707,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT3E,0,None,cancer,TNM-kood,AJCC/UICC clinical T3e Category,c-AJCC/UICC-T3e,1633838,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT4,0,None,cancer,TNM-kood,AJCC/UICC clinical T4 Category,c-AJCC/UICC-T4,1635558,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT4A,0,None,cancer,TNM-kood,AJCC/UICC clinical T4a Category,c-AJCC/UICC-T4a,1634192,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT4B,0,None,cancer,TNM-kood,AJCC/UICC clinical T4b Category,c-AJCC/UICC-T4b,1634291,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT4C,0,None,cancer,TNM-kood,AJCC/UICC clinical T4c Category,c-AJCC/UICC-T4c,1634877,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT4D,0,None,cancer,TNM-kood,AJCC/UICC clinical T4d Category,c-AJCC/UICC-T4d,1635368,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cT4E,0,None,cancer,TNM-kood,AJCC/UICC clinical T4e Category,c-AJCC/UICC-T4e,1634561,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cTA,0,None,cancer,TNM-kood,AJCC/UICC clinical Ta Category,c-AJCC/UICC-Ta,1633281,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cTIS,0,None,cancer,TNM-kood,AJCC/UICC clinical Tis Category,c-AJCC/UICC-Tis,1634450,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cTIS(DCIS),0,None,cancer,TNM-kood,AJCC/UICC clinical Tis(DCIS) Category,c-AJCC/UICC-Tis(DCIS),1633770,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cTIS(LAMN),0,None,cancer,TNM-kood,AJCC/UICC clinical Tis(LAMN) Category,c-AJCC/UICC-Tis(LAMN),1634825,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cTIS(PAGET),0,None,cancer,TNM-kood,AJCC/UICC clinical Tis(Paget) Category,c-AJCC/UICC-Tis(Paget),1633522,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+cTX,0,None,cancer,TNM-kood,AJCC/UICC clinical TX Category,c-AJCC/UICC-TX,1634460,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+G1,0,None,cancer,G-kood,Grade 1 tumor,Grade-1,1634371,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+G2,0,None,cancer,G-kood,Grade 2 tumor,Grade-2,1634752,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+G3,0,None,cancer,G-kood,Grade 3 tumor,Grade-3,1633749,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+G4,0,None,cancer,G-kood,Grade 4 tumor,Grade-4,1635792,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+I,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1,AJCC/UICC-Stage-1,1633306,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IA,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1A,AJCC/UICC-Stage-1A,1635790,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IA1,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1A1,AJCC/UICC-Stage-1A1,1633565,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IA2,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1A2,AJCC/UICC-Stage-1A2,1635611,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IA3,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1A3,AJCC/UICC-Stage-1A3,1634353,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IB,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1B,AJCC/UICC-Stage-1B,1634494,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IB1,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1B1,AJCC/UICC-Stage-1B1,1634019,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IB2,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1B2,AJCC/UICC-Stage-1B2,1635020,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IC,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1C,AJCC/UICC-Stage-1C,1634868,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IE,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1E,AJCC/UICC-Stage-1E,1633701,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+II,0,None,cancer,Vähi staadium,AJCC/UICC Stage 2,AJCC/UICC-Stage-2,1634209,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IIA,0,None,cancer,Vähi staadium,AJCC/UICC Stage 2A,AJCC/UICC-Stage-2A,1634123,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IIA1,0,None,cancer,Vähi staadium,AJCC/UICC Stage 2A1,AJCC/UICC-Stage-2A1,1633743,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IIA2,0,None,cancer,Vähi staadium,AJCC/UICC Stage 2A2,AJCC/UICC-Stage-2A2,1634338,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IIB,0,None,cancer,Vähi staadium,AJCC/UICC Stage 2B,AJCC/UICC-Stage-2B,1634028,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IIC,0,None,cancer,Vähi staadium,AJCC/UICC Stage 2C,AJCC/UICC-Stage-2C,1634903,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IIE,0,None,cancer,Vähi staadium,AJCC/UICC Stage 2E,AJCC/UICC-Stage-2E,1634914,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+III,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3,AJCC/UICC-Stage-3,1633650,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IIIA,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3A,AJCC/UICC-Stage-3A,1635855,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IIIA1,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3A1,AJCC/UICC-Stage-3A1,1635412,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IIIA2,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3A2,AJCC/UICC-Stage-3A2,1634304,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IIIB,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3B,AJCC/UICC-Stage-3B,1634411,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IIIC,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3C,AJCC/UICC-Stage-3C,1634150,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IIIC1,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3C1,AJCC/UICC-Stage-3C1,1634626,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IIIC2,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3C2,AJCC/UICC-Stage-3C2,1634556,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IIID,0,None,cancer,Vähi staadium,AJCC/UICC Stage 3D,AJCC/UICC-Stage-3D,1633431,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IS,0,None,cancer,Vähi staadium,AJCC/UICC Stage 1s,AJCC/UICC-Stage-1S,1635474,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IV,0,None,cancer,Vähi staadium,AJCC/UICC Stage 4,AJCC/UICC-Stage-4,1633308,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IVA,0,None,cancer,Vähi staadium,AJCC/UICC Stage 4A,AJCC/UICC-Stage-4A,1633439,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IVA1,0,None,cancer,Vähi staadium,AJCC/UICC Stage 4A1,AJCC/UICC-Stage-4A1,1635355,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IVA2,0,None,cancer,Vähi staadium,AJCC/UICC Stage 4A2,AJCC/UICC-Stage-4A2,1635066,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IVB,0,None,cancer,Vähi staadium,AJCC/UICC Stage 4B,AJCC/UICC-Stage-4B,1633748,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+IVC,0,None,cancer,Vähi staadium,AJCC/UICC Stage 4C,AJCC/UICC-Stage-4C,1633675,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+M0,0,None,cancer,TNM-kood,AJCC/UICC M0 Category,AJCC/UICC-M0,1635624,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+M0(I+),0,None,cancer,TNM-kood,AJCC/UICC M0(i+) Category,AJCC/UICC-M0(i+),1634197,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+M1,0,None,cancer,TNM-kood,AJCC/UICC M1 Category,AJCC/UICC-M1,1635142,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+M1A,0,None,cancer,TNM-kood,AJCC/UICC M1a Category,AJCC/UICC-M1a,1635100,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+M1B,0,None,cancer,TNM-kood,AJCC/UICC M1b Category,AJCC/UICC-M1b,1634463,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+M1C,0,None,cancer,TNM-kood,AJCC/UICC M1c Category,AJCC/UICC-M1c,1635519,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+M1D,0,None,cancer,TNM-kood,AJCC/UICC M1d Category,AJCC/UICC-M1d,1634064,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+MX,0,None,cancer,TNM-kood,AJCC/UICC MX Category,AJCC/UICC-MX,1633547,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N0,0,None,cancer,TNM-kood,AJCC/UICC N0 Category,AJCC/UICC-N0,1633440,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N0A,0,None,cancer,TNM-kood,AJCC/UICC N0a Category,AJCC/UICC-N0a,1633621,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N0B,0,None,cancer,TNM-kood,AJCC/UICC N0b Category,AJCC/UICC-N0b,1635244,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N0(I+),0,None,cancer,TNM-kood,AJCC/UICC N0(i+) Category,AJCC/UICC-N0(i+),1635600,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N0(MOL+),0,None,cancer,TNM-kood,AJCC/UICC N0(mol+) Category,AJCC/UICC-N0(mol+),1633938,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N1,0,None,cancer,TNM-kood,AJCC/UICC N1 Category,AJCC/UICC-N1,1634434,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N1A,0,None,cancer,TNM-kood,AJCC/UICC N1a Category,AJCC/UICC-N1a,1633735,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N1A(SN),0,None,cancer,TNM-kood,AJCC/UICC N1a(sn) Category,AJCC/UICC-N1a(sn),1634034,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N1B,0,None,cancer,TNM-kood,AJCC/UICC N1b Category,AJCC/UICC-N1b,1635130,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N1B1,0,None,cancer,TNM-kood,AJCC/UICC N1b1 Category,AJCC/UICC-N1b1,1634968,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N1B2,0,None,cancer,TNM-kood,AJCC/UICC N1b2 Category,AJCC/UICC-N1b2,1633886,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N1B3,0,None,cancer,TNM-kood,AJCC/UICC N1b3 Category,AJCC/UICC-N1b3,1633630,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N1B4,0,None,cancer,TNM-kood,AJCC/UICC N1b4 Category,AJCC/UICC-N1b4,1634452,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N1C,0,None,cancer,TNM-kood,AJCC/UICC N1c Category,AJCC/UICC-N1c,1634620,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N1MI,0,None,cancer,TNM-kood,AJCC/UICC N1mi Category,AJCC/UICC-N1mi,1635335,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N2,0,None,cancer,TNM-kood,AJCC/UICC N2 Category,AJCC/UICC-N2,1634119,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N2A,0,None,cancer,TNM-kood,AJCC/UICC N2a Category,AJCC/UICC-N2a,1635644,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N2B,0,None,cancer,TNM-kood,AJCC/UICC N2b Category,AJCC/UICC-N2b,1634134,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N2C,0,None,cancer,TNM-kood,AJCC/UICC N2c Category,AJCC/UICC-N2c,1634080,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N2MI,0,None,cancer,TNM-kood,AJCC/UICC N2mi Category,AJCC/UICC-N2mi,1633512,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N3,0,None,cancer,TNM-kood,AJCC/UICC N3 Category,AJCC/UICC-N3,1635320,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N3A,0,None,cancer,TNM-kood,AJCC/UICC N3a Category,AJCC/UICC-N3a,1635590,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N3B,0,None,cancer,TNM-kood,AJCC/UICC N3b Category,AJCC/UICC-N3b,1633422,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N3C,0,None,cancer,TNM-kood,AJCC/UICC N3c Category,AJCC/UICC-N3c,1634735,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+N4,0,None,cancer,TNM-kood,AJCC/UICC N4 Category,AJCC/UICC-N4,1635445,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+NX,0,None,cancer,TNM-kood,AJCC/UICC NX Category,AJCC/UICC-NX,1633885,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+p0,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 0,p-AJCC/UICC-Stage-0,1633542,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+p0A,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 0a,p-AJCC/UICC-Stage-0A,1635865,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+p0IS,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 0is,p-AJCC/UICC-Stage-0IS,1634955,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pI,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1,p-AJCC/UICC-Stage-1,1634252,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIA,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1A,p-AJCC/UICC-Stage-1A,1633891,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIA1,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1A1,p-AJCC/UICC-Stage-1A1,1634719,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIA2,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1A2,p-AJCC/UICC-Stage-1A2,1635454,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIA3,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1A3,p-AJCC/UICC-Stage-1A3,1635256,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIB,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1B,p-AJCC/UICC-Stage-1B,1633869,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIB1,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1B1,p-AJCC/UICC-Stage-1B1,1635882,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIB2,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1B2,p-AJCC/UICC-Stage-1B2,1633717,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIC,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1C,p-AJCC/UICC-Stage-1C,1633591,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIE,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1E,p-AJCC/UICC-Stage-1E,1633568,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pII,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 2,p-AJCC/UICC-Stage-2,1633702,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIIA,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 2A,p-AJCC/UICC-Stage-2A,1634960,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIIA1,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 2A1,p-AJCC/UICC-Stage-2A1,1633296,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIIA2,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 2A2,p-AJCC/UICC-Stage-2A2,1635175,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIIB,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 2B,p-AJCC/UICC-Stage-2B,1633813,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIIC,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 2C,p-AJCC/UICC-Stage-2C,1633859,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIIE,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 2E,p-AJCC/UICC-Stage-2E,1635428,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIII,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3,p-AJCC/UICC-Stage-3,1635566,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIIIA,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3A,p-AJCC/UICC-Stage-3A,1633519,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIIIA1,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3A1,p-AJCC/UICC-Stage-3A1,1633303,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIIIA2,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3A2,p-AJCC/UICC-Stage-3A2,1635725,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIIIB,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3B,p-AJCC/UICC-Stage-3B,1634789,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIIIC,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3C,p-AJCC/UICC-Stage-3C,1635372,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIIIC1,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3C1,p-AJCC/UICC-Stage-3C1,1633718,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIIIC2,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3C2,p-AJCC/UICC-Stage-3C2,1633961,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIIID,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 3D,p-AJCC/UICC-Stage-3D,1634918,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIS,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 1s,p-AJCC/UICC-Stage-1S,1634629,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIV,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 4,p-AJCC/UICC-Stage-4,1634688,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIVA,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 4A,p-AJCC/UICC-Stage-4A,1635232,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIVA1,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 4A1,p-AJCC/UICC-Stage-4A1,1635365,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIVA2,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 4A2,p-AJCC/UICC-Stage-4A2,1634063,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIVB,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 4B,p-AJCC/UICC-Stage-4B,1633577,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pIVC,0,None,cancer,Vähi staadium,AJCC/UICC pathological Stage 4C,p-AJCC/UICC-Stage-4C,1635567,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pM0,0,None,cancer,TNM-kood,AJCC/UICC pathological M0 Category,p-AJCC/UICC-M0,1634618,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pM0(I+),0,None,cancer,TNM-kood,AJCC/UICC pathological M0(i+) Category,p-AJCC/UICC-M0(i+),1633457,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pM1,0,None,cancer,TNM-kood,AJCC/UICC pathological M1 Category,p-AJCC/UICC-M1,1635505,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pM1A,0,None,cancer,TNM-kood,AJCC/UICC pathological M1a Category,p-AJCC/UICC-M1a,1634312,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pM1B,0,None,cancer,TNM-kood,AJCC/UICC pathological M1b Category,p-AJCC/UICC-M1b,1634093,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pM1C,0,None,cancer,TNM-kood,AJCC/UICC pathological M1c Category,p-AJCC/UICC-M1c,1635338,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pM1D,0,None,cancer,TNM-kood,AJCC/UICC pathological M1d Category,p-AJCC/UICC-M1d,1635373,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pMX,0,None,cancer,TNM-kood,AJCC/UICC pathological MX Category,p-AJCC/UICC-MX,1633421,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN0,0,None,cancer,TNM-kood,AJCC/UICC pathological N0 Category,p-AJCC/UICC-N0,1635597,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN0A,0,None,cancer,TNM-kood,AJCC/UICC pathological N0a Category,p-AJCC/UICC-N0a,1633923,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN0B,0,None,cancer,TNM-kood,AJCC/UICC pathological N0b Category,p-AJCC/UICC-N0b,1633322,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN0(I+),0,None,cancer,TNM-kood,AJCC/UICC pathological N0(i+) Category,p-AJCC/UICC-N0(i+),1633503,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN0(MOL+),0,None,cancer,TNM-kood,AJCC/UICC pathological N0(mol+) Category,p-AJCC/UICC-N0(mol+),1633485,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN1,0,None,cancer,TNM-kood,AJCC/UICC pathological N1 Category,p-AJCC/UICC-N1,1635613,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN1A,0,None,cancer,TNM-kood,AJCC/UICC pathological N1a Category,p-AJCC/UICC-N1a,1634206,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN1A(SN),0,None,cancer,TNM-kood,AJCC/UICC pathological N1a(sn) Category,p-AJCC/UICC-N1a(sn),1635499,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN1B,0,None,cancer,TNM-kood,AJCC/UICC pathological N1b Category,p-AJCC/UICC-N1b,1633830,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN1B1,0,None,cancer,TNM-kood,AJCC/UICC pathological N1b1 Category,p-AJCC/UICC-N1b1,1634734,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN1B2,0,None,cancer,TNM-kood,AJCC/UICC pathological N1b2 Category,p-AJCC/UICC-N1b2,1634125,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN1B3,0,None,cancer,TNM-kood,AJCC/UICC pathological N1b3 Category,p-AJCC/UICC-N1b3,1633558,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN1B4,0,None,cancer,TNM-kood,AJCC/UICC pathological N1b4 Category,p-AJCC/UICC-N1b4,1634591,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN1C,0,None,cancer,TNM-kood,AJCC/UICC pathological N1c Category,p-AJCC/UICC-N1c,1634589,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN1MI,0,None,cancer,TNM-kood,AJCC/UICC pathological N1mi Category,p-AJCC/UICC-N1mi,1633502,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN2,0,None,cancer,TNM-kood,AJCC/UICC pathological N2 Category,p-AJCC/UICC-N2,1633864,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN2A,0,None,cancer,TNM-kood,AJCC/UICC pathological N2a Category,p-AJCC/UICC-N2a,1633890,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN2B,0,None,cancer,TNM-kood,AJCC/UICC pathological N2b Category,p-AJCC/UICC-N2b,1633460,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN2C,0,None,cancer,TNM-kood,AJCC/UICC pathological N2c Category,p-AJCC/UICC-N2c,1633301,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN2MI,0,None,cancer,TNM-kood,AJCC/UICC pathological N2mi Category,p-AJCC/UICC-N2mi,1635830,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN3,0,None,cancer,TNM-kood,AJCC/UICC pathological N3 Category,p-AJCC/UICC-N3,1635706,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN3A,0,None,cancer,TNM-kood,AJCC/UICC pathological N3a Category,p-AJCC/UICC-N3a,1633401,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN3B,0,None,cancer,TNM-kood,AJCC/UICC pathological N3b Category,p-AJCC/UICC-N3b,1633384,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN3C,0,None,cancer,TNM-kood,AJCC/UICC pathological N3c Category,p-AJCC/UICC-N3c,1634305,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pN4,0,None,cancer,TNM-kood,AJCC/UICC pathological N4 Category,p-AJCC/UICC-N4,1634916,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pNX,0,None,cancer,TNM-kood,AJCC/UICC pathological NX Category,p-AJCC/UICC-NX,1635170,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT0,0,None,cancer,TNM-kood,AJCC/UICC pathological T0 Category,p-AJCC/UICC-T0,1635740,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT1,0,None,cancer,TNM-kood,AJCC/UICC pathological T1 Category,p-AJCC/UICC-T1,1634004,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT1A,0,None,cancer,TNM-kood,AJCC/UICC pathological T1a Category,p-AJCC/UICC-T1a,1633722,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT1A1,0,None,cancer,TNM-kood,AJCC/UICC pathological T1a1 Category,p-AJCC/UICC-T1a1,1634867,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT1A2,0,None,cancer,TNM-kood,AJCC/UICC pathological T1a2 Category,p-AJCC/UICC-T1a2,1635881,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT1B,0,None,cancer,TNM-kood,AJCC/UICC pathological T1b Category,p-AJCC/UICC-T1b,1633693,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT1B1,0,None,cancer,TNM-kood,AJCC/UICC pathological T1b1 Category,p-AJCC/UICC-T1b1,1635168,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT1B2,0,None,cancer,TNM-kood,AJCC/UICC pathological T1b2 Category,p-AJCC/UICC-T1b2,1635120,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT1B3,0,None,cancer,TNM-kood,AJCC/UICC pathological T1b3 Category,p-AJCC/UICC-T1b3,1633919,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT1C,0,None,cancer,TNM-kood,AJCC/UICC pathological T1c Category,p-AJCC/UICC-T1c,1635017,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT1C1,0,None,cancer,TNM-kood,AJCC/UICC pathological T1c1 Category,p-AJCC/UICC-T1c1,1633387,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT1C2,0,None,cancer,TNM-kood,AJCC/UICC pathological T1c2 Category,p-AJCC/UICC-T1c2,1635112,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT1C3,0,None,cancer,TNM-kood,AJCC/UICC pathological T1c3 Category,p-AJCC/UICC-T1c3,1633779,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT1D,0,None,cancer,TNM-kood,AJCC/UICC pathological T1d Category,p-AJCC/UICC-T1d,1634272,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT1MI,0,None,cancer,TNM-kood,AJCC/UICC pathological T1mi Category,p-AJCC/UICC-T1mi,1634428,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT2,0,None,cancer,TNM-kood,AJCC/UICC pathological T2 Category,p-AJCC/UICC-T2,1633978,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT2A,0,None,cancer,TNM-kood,AJCC/UICC pathological T2a Category,p-AJCC/UICC-T2a,1634597,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT2A1,0,None,cancer,TNM-kood,AJCC/UICC pathological T2a1 Category,p-AJCC/UICC-T2a1,1634633,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT2A2,0,None,cancer,TNM-kood,AJCC/UICC pathological T2a2 Category,p-AJCC/UICC-T2a2,1634166,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT2B,0,None,cancer,TNM-kood,AJCC/UICC pathological T2b Category,p-AJCC/UICC-T2b,1635575,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT2C,0,None,cancer,TNM-kood,AJCC/UICC pathological T2c Category,p-AJCC/UICC-T2c,1634503,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT2D,0,None,cancer,TNM-kood,AJCC/UICC pathological T2d Category,p-AJCC/UICC-T2d,1633278,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT3,0,None,cancer,TNM-kood,AJCC/UICC pathological T3 Category,p-AJCC/UICC-T3,1634406,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT3A,0,None,cancer,TNM-kood,AJCC/UICC pathological T3a Category,p-AJCC/UICC-T3a,1633288,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT3B,0,None,cancer,TNM-kood,AJCC/UICC pathological T3b Category,p-AJCC/UICC-T3b,1633406,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT3C,0,None,cancer,TNM-kood,AJCC/UICC pathological T3c Category,p-AJCC/UICC-T3c,1635027,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT3D,0,None,cancer,TNM-kood,AJCC/UICC pathological T3d Category,p-AJCC/UICC-T3d,1635377,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT3E,0,None,cancer,TNM-kood,AJCC/UICC pathological T3e Category,p-AJCC/UICC-T3e,1634025,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT4,0,None,cancer,TNM-kood,AJCC/UICC pathological T4 Category,p-AJCC/UICC-T4,1633943,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT4A,0,None,cancer,TNM-kood,AJCC/UICC pathological T4a Category,p-AJCC/UICC-T4a,1633300,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT4B,0,None,cancer,TNM-kood,AJCC/UICC pathological T4b Category,p-AJCC/UICC-T4b,1634957,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT4C,0,None,cancer,TNM-kood,AJCC/UICC pathological T4c Category,p-AJCC/UICC-T4c,1635446,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT4D,0,None,cancer,TNM-kood,AJCC/UICC pathological T4d Category,p-AJCC/UICC-T4d,1635003,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pT4E,0,None,cancer,TNM-kood,AJCC/UICC pathological T4e Category,p-AJCC/UICC-T4e,1635058,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pTA,0,None,cancer,TNM-kood,AJCC/UICC pathological Ta Category,p-AJCC/UICC-Ta,1635888,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pTIS,0,None,cancer,TNM-kood,AJCC/UICC pathological Tis Category,p-AJCC/UICC-Tis,1634581,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pTIS(DCIS),0,None,cancer,TNM-kood,AJCC/UICC pathological Tis(DCIS) Category,p-AJCC/UICC-Tis(DCIS),1634623,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pTIS(LAMN),0,None,cancer,TNM-kood,AJCC/UICC pathological Tis(LAMN) Category,p-AJCC/UICC-Tis(LAMN),1633598,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pTIS(PAGET),0,None,cancer,TNM-kood,AJCC/UICC pathological Tis(Paget) Category,p-AJCC/UICC-Tis(Paget),1635005,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+pTX,0,None,cancer,TNM-kood,AJCC/UICC pathological TX Category,p-AJCC/UICC-TX,1633925,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+R0,0,None,cancer,R-kood,R0: No residual tumor,R0,1634643,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+R1,0,None,cancer,R-kood,R1: Microscopic residual tumor,R1,1633801,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+R2,0,None,cancer,R-kood,R2: Macroscopic residual tumor,R2,1634484,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T0,0,None,cancer,TNM-kood,AJCC/UICC T0 Category,AJCC/UICC-T0,1634213,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T1,0,None,cancer,TNM-kood,AJCC/UICC T1 Category,AJCC/UICC-T1,1635564,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T1A,0,None,cancer,TNM-kood,AJCC/UICC T1a Category,AJCC/UICC-T1a,1633880,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T1A1,0,None,cancer,TNM-kood,AJCC/UICC T1a1 Category,AJCC/UICC-T1a1,1634674,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T1A2,0,None,cancer,TNM-kood,AJCC/UICC T1a2 Category,AJCC/UICC-T1a2,1635553,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T1B,0,None,cancer,TNM-kood,AJCC/UICC T1b Category,AJCC/UICC-T1b,1633921,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T1B1,0,None,cancer,TNM-kood,AJCC/UICC T1b1 Category,AJCC/UICC-T1b1,1633396,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T1B2,0,None,cancer,TNM-kood,AJCC/UICC T1b2 Category,AJCC/UICC-T1b2,1635666,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T1B3,0,None,cancer,TNM-kood,AJCC/UICC T1b3 Category,AJCC/UICC-T1b3,1633760,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T1C,0,None,cancer,TNM-kood,AJCC/UICC T1c Category,AJCC/UICC-T1c,1633529,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T1C1,0,None,cancer,TNM-kood,AJCC/UICC T1c1 Category,AJCC/UICC-T1c1,1635069,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T1C2,0,None,cancer,TNM-kood,AJCC/UICC T1c2 Category,AJCC/UICC-T1c2,1635668,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T1C3,0,None,cancer,TNM-kood,AJCC/UICC T1c3 Category,AJCC/UICC-T1c3,1634701,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T1D,0,None,cancer,TNM-kood,AJCC/UICC T1d Category,AJCC/UICC-T1d,1634100,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T1MI,0,None,cancer,TNM-kood,AJCC/UICC T1mi Category,AJCC/UICC-T1mi,1635083,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T2,0,None,cancer,TNM-kood,AJCC/UICC T2 Category,AJCC/UICC-T2,1635562,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T2A,0,None,cancer,TNM-kood,AJCC/UICC T2a Category,AJCC/UICC-T2a,1635327,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T2A1,0,None,cancer,TNM-kood,AJCC/UICC T2a1 Category,AJCC/UICC-T2a1,1633714,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T2A2,0,None,cancer,TNM-kood,AJCC/UICC T2a2 Category,AJCC/UICC-T2a2,1635685,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T2B,0,None,cancer,TNM-kood,AJCC/UICC T2b Category,AJCC/UICC-T2b,1633593,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T2C,0,None,cancer,TNM-kood,AJCC/UICC T2c Category,AJCC/UICC-T2c,1635270,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T2D,0,None,cancer,TNM-kood,AJCC/UICC T2d Category,AJCC/UICC-T2d,1633678,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T3,0,None,cancer,TNM-kood,AJCC/UICC T3 Category,AJCC/UICC-T3,1634376,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T3A,0,None,cancer,TNM-kood,AJCC/UICC T3a Category,AJCC/UICC-T3a,1633771,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T3B,0,None,cancer,TNM-kood,AJCC/UICC T3b Category,AJCC/UICC-T3b,1634980,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T3C,0,None,cancer,TNM-kood,AJCC/UICC T3c Category,AJCC/UICC-T3c,1633360,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T3D,0,None,cancer,TNM-kood,AJCC/UICC T3d Category,AJCC/UICC-T3d,1635625,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T3E,0,None,cancer,TNM-kood,AJCC/UICC T3e Category,AJCC/UICC-T3e,1634730,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T4,0,None,cancer,TNM-kood,AJCC/UICC T4 Category,AJCC/UICC-T4,1634654,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T4A,0,None,cancer,TNM-kood,AJCC/UICC T4a Category,AJCC/UICC-T4a,1635222,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T4B,0,None,cancer,TNM-kood,AJCC/UICC T4b Category,AJCC/UICC-T4b,1634436,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T4C,0,None,cancer,TNM-kood,AJCC/UICC T4c Category,AJCC/UICC-T4c,1635526,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T4D,0,None,cancer,TNM-kood,AJCC/UICC T4d Category,AJCC/UICC-T4d,1633909,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+T4E,0,None,cancer,TNM-kood,AJCC/UICC T4e Category,AJCC/UICC-T4e,1634193,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+TA,0,None,cancer,TNM-kood,AJCC/UICC Ta Category,AJCC/UICC-Ta,1635114,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+TIS,0,None,cancer,TNM-kood,AJCC/UICC Tis Category,AJCC/UICC-Tis,1634530,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+TIS(DCIS),0,None,cancer,TNM-kood,AJCC/UICC Tis(DCIS) Category,AJCC/UICC-Tis(DCIS),1635835,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+TIS(LAMN),0,None,cancer,TNM-kood,AJCC/UICC Tis(LAMN) Category,AJCC/UICC-Tis(LAMN),1633975,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+TIS(PAGET),0,None,cancer,TNM-kood,AJCC/UICC Tis(Paget) Category,AJCC/UICC-Tis(Paget),1635571,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+TX,0,None,cancer,TNM-kood,AJCC/UICC TX Category,AJCC/UICC-TX,1635682,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+yc0,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinica Stage 0,yc-AJCC/UICC-Stage-0,1634785,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+yc0A,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinica Stage 0a,yc-AJCC/UICC-Stage-0A,1634336,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+yc0IS,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinica Stage 0is,yc-AJCC/UICC-Stage-0IS,1633330,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycI,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinica Stage 1,yc-AJCC/UICC-Stage-1,1634467,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIA,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinica Stage 1A,yc-AJCC/UICC-Stage-1A,1633511,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIA1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1A1,yc-AJCC/UICC-Stage-1A1,1635431,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIA2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1A2,yc-AJCC/UICC-Stage-1A2,1635654,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIA3,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1A3,yc-AJCC/UICC-Stage-1A3,1635489,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIB,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1B,yc-AJCC/UICC-Stage-1B,1633576,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIB1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1B1,yc-AJCC/UICC-Stage-1B1,1635106,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIB2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1B2,yc-AJCC/UICC-Stage-1B2,1635695,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIC,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1C,yc-AJCC/UICC-Stage-1C,1633727,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIE,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1E,yc-AJCC/UICC-Stage-1E,1633998,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycII,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 2,yc-AJCC/UICC-Stage-2,1633756,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIIA,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 2A,yc-AJCC/UICC-Stage-2A,1635173,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIIA1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 2A1,yc-AJCC/UICC-Stage-2A1,1634485,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIIA2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 2A2,yc-AJCC/UICC-Stage-2A2,1635692,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIIB,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 2B,yc-AJCC/UICC-Stage-2B,1633286,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIIC,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 2C,yc-AJCC/UICC-Stage-2C,1633320,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIIE,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 2E,yc-AJCC/UICC-Stage-2E,1635576,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIII,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3,yc-AJCC/UICC-Stage-3,1634850,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIIIA,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3A,yc-AJCC/UICC-Stage-3A,1633865,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIIIA1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3A1,yc-AJCC/UICC-Stage-3A1,1633821,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIIIA2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3A2,yc-AJCC/UICC-Stage-3A2,1635030,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIIIB,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3B,yc-AJCC/UICC-Stage-3B,1634214,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIIIC,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3C,yc-AJCC/UICC-Stage-3C,1635455,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIIIC1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3C1,yc-AJCC/UICC-Stage-3C1,1634441,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIIIC2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3C2,yc-AJCC/UICC-Stage-3C2,1635782,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIIID,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 3D,yc-AJCC/UICC-Stage-3D,1635286,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIS,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 1s,yc-AJCC/UICC-Stage-1S,1634952,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIV,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 4,yc-AJCC/UICC-Stage-4,1633600,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIVA,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 4A,yc-AJCC/UICC-Stage-4A,1634733,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIVA1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 4A1,yc-AJCC/UICC-Stage-4A1,1635574,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIVA2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 4A2,yc-AJCC/UICC-Stage-4A2,1635500,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIVB,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 4B,yc-AJCC/UICC-Stage-4B,1634367,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycIVC,0,None,cancer,Vähi staadium,AJCC/UICC post therapy clinical Stage 4C,yc-AJCC/UICC-Stage-4C,1635146,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycM0,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica M0 Category,yc-AJCC/UICC-M0,1634802,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycM0(I+),0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical M0(i+) Category,yc-AJCC/UICC-M0(i+),1634481,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycM1,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica M1 Category,yc-AJCC/UICC-M1,1633413,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycM1A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica M1a Category,yc-AJCC/UICC-M1a,1634836,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycM1B,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica M1b Category,yc-AJCC/UICC-M1b,1635850,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycM1C,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica M1c Category,yc-AJCC/UICC-M1c,1633352,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycM1D,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical M1d Category,yc-AJCC/UICC-M1d,1634293,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycMX,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica MX Category,yc-AJCC/UICC-MX,1633450,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN0,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N0 Category,yc-AJCC/UICC-N0,1633686,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN0A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical N0a Category,yc-AJCC/UICC-N0a,1634516,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN0B,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical N0b Category,yc-AJCC/UICC-N0b,1634700,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN0(I+),0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical N0(i+) Category,yc-AJCC/UICC-N0(i+),1634372,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN0(MOL+),0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical N0(mol+) Category,yc-AJCC/UICC-N0(mol+),1634527,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN1,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1 Category,yc-AJCC/UICC-N1,1634321,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN1A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1a Category,yc-AJCC/UICC-N1a,1634345,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN1A(SN),0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical N1a(sn) Category,yc-AJCC/UICC-N1a(sn),1633881,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN1B,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1b Category,yc-AJCC/UICC-N1b,1634554,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN1B1,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1b1 Category,yc-AJCC/UICC-N1b1,1635834,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN1B2,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1b2 Category,yc-AJCC/UICC-N1b2,1635875,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN1B3,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1b3 Category,yc-AJCC/UICC-N1b3,1634456,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN1B4,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1b4 Category,yc-AJCC/UICC-N1b4,1635213,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN1C,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1c Category,yc-AJCC/UICC-N1c,1634382,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN1MI,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N1mi Category,yc-AJCC/UICC-N1mi,1635360,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN2,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N2 Category,yc-AJCC/UICC-N2,1633564,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN2A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N2a Category,yc-AJCC/UICC-N2a,1634391,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN2B,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N2b Category,yc-AJCC/UICC-N2b,1634223,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN2C,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N2c Category,yc-AJCC/UICC-N2c,1633459,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN2MI,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical N2mi Category,yc-AJCC/UICC-N2mi,1633912,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN3,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N3 Category,yc-AJCC/UICC-N3,1634102,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN3A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N3a Category,yc-AJCC/UICC-N3a,1633456,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN3B,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N3b Category,yc-AJCC/UICC-N3b,1635630,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN3C,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N3c Category,yc-AJCC/UICC-N3c,1635736,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycN4,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica N4 Category,yc-AJCC/UICC-N4,1633293,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycNx,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinica NX Category,yc-AJCC/UICC-NX,1634356,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT0,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T0 Category,yc-AJCC/UICC-T0,1635321,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT1,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1 Category,yc-AJCC/UICC-T1,1633377,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT1A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1a Category,yc-AJCC/UICC-T1a,1635371,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT1A1,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1a1 Category,yc-AJCC/UICC-T1a1,1635698,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT1A2,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1a2 Category,yc-AJCC/UICC-T1a2,1635481,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT1B,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1b Category,yc-AJCC/UICC-T1b,1634217,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT1B1,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1b1 Category,yc-AJCC/UICC-T1b1,1634011,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT1B2,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1b2 Category,yc-AJCC/UICC-T1b2,1634880,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT1B3,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1b3 Category,yc-AJCC/UICC-T1b3,1634763,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT1C,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1c Category,yc-AJCC/UICC-T1c,1634758,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT1C1,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1c1 Category,yc-AJCC/UICC-T1c1,1633845,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT1C2,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1c2 Category,yc-AJCC/UICC-T1c2,1633803,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT1C3,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1c3 Category,yc-AJCC/UICC-T1c3,1634153,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT1D,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1d Category,yc-AJCC/UICC-T1d,1633703,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT1MI,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T1mi Category,yc-AJCC/UICC-T1mi,1634018,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT2,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T2 Category,yc-AJCC/UICC-T2,1634819,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT2A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T2a Category,yc-AJCC/UICC-T2a,1634979,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT2A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T2b Category,yc-AJCC/UICC-T2b,1634179,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT2A1,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T2a1 Category,yc-AJCC/UICC-T2a1,1634687,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT2A2,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T2a2 Category,yc-AJCC/UICC-T2a2,1634136,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT2C,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T2c Category,yc-AJCC/UICC-T2c,1634346,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT2D,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T2d Category,yc-AJCC/UICC-T2d,1635167,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT3,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T3 Category,yc-AJCC/UICC-T3,1633608,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT3A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T3a Category,yc-AJCC/UICC-T3a,1635570,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT3B,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T3b Category,yc-AJCC/UICC-T3b,1634458,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT3C,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T3c Category,yc-AJCC/UICC-T3c,1634827,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT3D,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T3d Category,yc-AJCC/UICC-T3d,1635313,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT3E,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T3e Category,yc-AJCC/UICC-T3e,1634464,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT4,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T4 Category,yc-AJCC/UICC-T4,1635044,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT4A,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T4a Category,yc-AJCC/UICC-T4a,1634020,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT4B,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T4b Category,yc-AJCC/UICC-T4b,1635456,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT4C,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T4c Category,yc-AJCC/UICC-T4c,1634280,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycT4D,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T4d Category,yc-AJCC/UICC-T4d,1633863,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycTA,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical Ta Category,yc-AJCC/UICC-Ta,1634667,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycTE,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical T4e Category,yc-AJCC/UICC-T4e,1633691,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycTIS,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical Tis Category,yc-AJCC/UICC-Tis,1635436,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycTIS(DCIS),0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical Tis(DCIS) Category,yc-AJCC/UICC-Tis(DCIS),1635724,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycTIS(LAMN),0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical Tis(LAMN) Category,yc-AJCC/UICC-Tis(LAMN),1634159,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycTIS(PAGET),0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical Tis(Paget) Category,yc-AJCC/UICC-Tis(Paget),1635362,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ycTX,0,None,cancer,TNM-kood,AJCC/UICC post therapy clinical TX Category,yc-AJCC/UICC-TX,1634224,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+yp0,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 0,yp-AJCC/UICC-Stage-0,1635675,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+yp0A,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 0a,yp-AJCC/UICC-Stage-0A,1634031,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+yp0IS,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 0is,yp-AJCC/UICC-Stage-0IS,1634084,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypI,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1,yp-AJCC/UICC-Stage-1,1635095,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIA,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1A,yp-AJCC/UICC-Stage-1A,1633664,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIA1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1A1,yp-AJCC/UICC-Stage-1A1,1634168,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIA2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1A2,yp-AJCC/UICC-Stage-1A2,1634343,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIA3,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1A3,yp-AJCC/UICC-Stage-1A3,1634266,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIB,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1B,yp-AJCC/UICC-Stage-1B,1635453,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIB1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1B1,yp-AJCC/UICC-Stage-1B1,1635207,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIB2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1B2,yp-AJCC/UICC-Stage-1B2,1634292,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIC,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1C,yp-AJCC/UICC-Stage-1C,1634416,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIE,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1E,yp-AJCC/UICC-Stage-1E,1633383,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypII,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 2,yp-AJCC/UICC-Stage-2,1635689,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIIA,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 2A,yp-AJCC/UICC-Stage-2A,1634998,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIIA1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 2A1,yp-AJCC/UICC-Stage-2A1,1635886,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIIA2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 2A2,yp-AJCC/UICC-Stage-2A2,1635809,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIIB,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 2B,yp-AJCC/UICC-Stage-2B,1635334,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIIC,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 2C,yp-AJCC/UICC-Stage-2C,1635036,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIIE,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 2E,yp-AJCC/UICC-Stage-2E,1633342,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIII,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3,yp-AJCC/UICC-Stage-3,1633837,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIIIA,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3A,yp-AJCC/UICC-Stage-3A,1633381,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIIIA1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3A1,yp-AJCC/UICC-Stage-3A1,1635460,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIIIA2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3A2,yp-AJCC/UICC-Stage-3A2,1634164,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIIIB,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3B,yp-AJCC/UICC-Stage-3B,1635674,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIIIC,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3C,yp-AJCC/UICC-Stage-3C,1635325,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIIIC1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3C1,yp-AJCC/UICC-Stage-3C1,1633796,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIIIC2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3C2,yp-AJCC/UICC-Stage-3C2,1634140,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIIID,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 3D,yp-AJCC/UICC-Stage-3D,1633794,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIS,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 1s,yp-AJCC/UICC-Stage-1S,1633505,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIV,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 4,yp-AJCC/UICC-Stage-4,1634077,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIVA,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 4A,yp-AJCC/UICC-Stage-4A,1633860,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIVA1,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 4A1,yp-AJCC/UICC-Stage-4A1,1633555,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIVA2,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 4A2,yp-AJCC/UICC-Stage-4A2,1633385,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIVB,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 4B,yp-AJCC/UICC-Stage-4B,1633973,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypIVC,0,None,cancer,Vähi staadium,AJCC/UICC post therapy pathological Stage 4C,yp-AJCC/UICC-Stage-4C,1635801,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypM0,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological M0 Category,yp-AJCC/UICC-M0,1633364,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypM0(I+),0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological M0(i+) Category,yp-AJCC/UICC-M0(i+),1634415,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypM1,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological M1 Category,yp-AJCC/UICC-M1,1634355,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypM1A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological M1a Category,yp-AJCC/UICC-M1a,1633657,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypM1B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological M1b Category,yp-AJCC/UICC-M1b,1635829,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypM1C,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological M1c Category,yp-AJCC/UICC-M1c,1635498,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypM1D,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological M1d Category,yp-AJCC/UICC-M1d,1634003,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypMX,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological MX Category,yp-AJCC/UICC-MX,1635235,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN0,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N0 Category,yp-AJCC/UICC-N0,1633527,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN0A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N0a Category,yp-AJCC/UICC-N0a,1634158,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN0B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N0b Category,yp-AJCC/UICC-N0b,1634985,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN0(I+),0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N0(i+) Category,yp-AJCC/UICC-N0(i+),1635444,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN0(MOL+),0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N0(mol+) Category,yp-AJCC/UICC-N0(mol+),1634866,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN1,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1 Category,yp-AJCC/UICC-N1,1634788,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN1A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1a Category,yp-AJCC/UICC-N1a,1633474,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN1A(SN),0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1a(sn) Category,yp-AJCC/UICC-N1a(sn),1634557,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN1B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1b Category,yp-AJCC/UICC-N1b,1635550,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN1B1,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1b1 Category,yp-AJCC/UICC-N1b1,1634560,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN1B2,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1b2 Category,yp-AJCC/UICC-N1b2,1635105,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN1B3,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1b3 Category,yp-AJCC/UICC-N1b3,1635166,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN1B4,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1b4 Category,yp-AJCC/UICC-N1b4,1634889,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN1C,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1c Category,yp-AJCC/UICC-N1c,1635714,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN1MI,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N1mi Category,yp-AJCC/UICC-N1mi,1635852,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN2,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N2 Category,yp-AJCC/UICC-N2,1635061,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN2A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N2a Category,yp-AJCC/UICC-N2a,1635796,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN2B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N2b Category,yp-AJCC/UICC-N2b,1633816,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN2C,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N2c Category,yp-AJCC/UICC-N2c,1635312,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN2MI,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N2mi Category,yp-AJCC/UICC-N2mi,1635065,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN3,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N3 Category,yp-AJCC/UICC-N3,1635094,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN3A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N3a Category,yp-AJCC/UICC-N3a,1634776,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN3B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N3b Category,yp-AJCC/UICC-N3b,1634784,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN3C,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N3c Category,yp-AJCC/UICC-N3c,1633408,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypN4,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological N4 Category,yp-AJCC/UICC-N4,1634466,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypNX,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological NX Category,yp-AJCC/UICC-NX,1635503,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT0,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T0 Category,yp-AJCC/UICC-T0,1634594,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT1,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1 Category,yp-AJCC/UICC-T1,1635781,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT1A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1a Category,yp-AJCC/UICC-T1a,1634793,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT1A1,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1a1 Category,yp-AJCC/UICC-T1a1,1633812,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT1A2,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1a2 Category,yp-AJCC/UICC-T1a2,1634685,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT1B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1b Category,yp-AJCC/UICC-T1b,1634264,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT1B1,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1b1 Category,yp-AJCC/UICC-T1b1,1633380,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT1B2,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1b2 Category,yp-AJCC/UICC-T1b2,1635607,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT1B3,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1b3 Category,yp-AJCC/UICC-T1b3,1634311,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT1C,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1c Category,yp-AJCC/UICC-T1c,1633935,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT1C1,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1c1 Category,yp-AJCC/UICC-T1c1,1635144,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT1C2,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1c2 Category,yp-AJCC/UICC-T1c2,1635548,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT1C3,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1c3 Category,yp-AJCC/UICC-T1c3,1634851,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT1D,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1d Category,yp-AJCC/UICC-T1d,1635237,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT1MI,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T1mi Category,yp-AJCC/UICC-T1mi,1635250,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT2,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T2 Category,yp-AJCC/UICC-T2,1634660,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT2A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T2a Category,yp-AJCC/UICC-T2a,1634246,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT2A1,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T2a1 Category,yp-AJCC/UICC-T2a1,1633285,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT2A2,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T2a2 Category,yp-AJCC/UICC-T2a2,1635716,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT2B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T2b Category,yp-AJCC/UICC-T2b,1634182,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT2C,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T2c Category,yp-AJCC/UICC-T2c,1633867,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT2D,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T2d Category,yp-AJCC/UICC-T2d,1633478,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT3,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T3 Category,yp-AJCC/UICC-T3,1633436,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT3A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T3a Category,yp-AJCC/UICC-T3a,1635035,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT3B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T3b Category,yp-AJCC/UICC-T3b,1633721,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT3C,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T3c Category,yp-AJCC/UICC-T3c,1635331,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT3D,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T3d Category,yp-AJCC/UICC-T3d,1635515,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT3E,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T3e Category,yp-AJCC/UICC-T3e,1635492,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT4,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T4 Category,yp-AJCC/UICC-T4,1635082,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT4A,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T4a Category,yp-AJCC/UICC-T4a,1633623,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT4B,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T4b Category,yp-AJCC/UICC-T4b,1635623,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT4C,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T4c Category,yp-AJCC/UICC-T4c,1635891,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT4D,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T4d Category,yp-AJCC/UICC-T4d,1634904,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypT4E,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological T4e Category,yp-AJCC/UICC-T4e,1633689,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypTA,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological Ta Category,yp-AJCC/UICC-Ta,1634905,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypTIS,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological Tis Category,yp-AJCC/UICC-Tis,1634418,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypTIS(DCIS),0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological Tis(DCIS) Category,yp-AJCC/UICC-Tis(DCIS),1635419,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypTIS(LAMN),0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological Tis(LAMN) Category,yp-AJCC/UICC-Tis(LAMN),1633941,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypTIS(PAGET),0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological Tis(Paget) Category,yp-AJCC/UICC-Tis(Paget),1634222,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31
+ypTX,0,None,cancer,TNM-kood,AJCC/UICC post therapy pathological TX Category,yp-AJCC/UICC-TX,1633338,Cancer Modifier,Measurement,Staging/Grading,2025-02-21,2099-12-31

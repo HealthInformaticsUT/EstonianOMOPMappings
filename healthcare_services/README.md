@@ -1,7 +1,8 @@
 # Healthcare Service Codes Translations to OMOP CDM Standard Concepts
 
-This directory contains translations of Estonian Health Insurance Fund (Tervisekassa) healthcare service codes to OMOP CDM standard concepts.  
-Below is a brief description of this code set and the corresponding CSV file located in this directory.
+This directory contains translations of Estonian Health Insurance Fund (Tervisekassa) **healthcare service codes** and 
+**Diagnosis Related Groups (DRG) codes** to OMOP CDM standard concepts.  
+Below is a brief description of these code sets and corresponding CSV files located in this directory.
 
 ## Service codes
 This code list includes all medical services, procedures, necessary hospital medications, and other items covered 
@@ -24,13 +25,32 @@ The mappings in this CSV file were created using the OHDSI tool [Usagi](https://
 - **File:** [service_mappings](service_mappings.csv)
 - **Description:** This file contains a list of healthcare service codes, along with their mappings to OMOP CDM standard concepts. 
 
+## DRG codes
+In Estonia, the **NordDRG system** is used. NordDRG is a diagnosis-related group (DRG) system that classifies patient cases 
+based on clinical characteristics and resource consumption. It categorises cases using ICD-10 diagnosis codes, surgical procedure codes (NCSP), 
+and other patient-related factors. It is integrated into Estonia’s electronic medical billing system.
+
+For more information see the Health Insurance Fund [webpage](https://www.tervisekassa.ee/partnerile/raviasutusele/tervishoiuteenuste-loetelu/drg).
+
+In the OMOP CDM, standard concepts are derived from the **Medicare Severity Diagnosis Related Group (MS-DRG) system**, which is implemented in the United States. 
+Like NordDRG, MS-DRG categorizes inpatient hospital stays based on patients' principal diagnoses, secondary conditions, procedures performed, age, sex, and discharge status. 
+Although MS-DRG is specifically tailored for the Medicare population (primarily individuals aged 65 and older) 
+and may follow different principles due to regional healthcare practices and standards, 
+we still attempted to map as many NordDRG codes to MS-DRG as possible.
+
+The mappings in this CSV file were created using the OHDSI tool [Usagi](https://ohdsi.github.io/Usagi/). 
+
+
+- **File:** [drg_mappings](drg_mappings.csv)
+- **Description:** This file contains a list of DRG codes, along with their mappings to OMOP CDM standard concepts. 
+
 
 ## The Structure of Mapping files
 
 CSV file for service codes mappings contain the following columns:
 
 - **source_code:** The original code from the respective code set. The source code being translated into a Standard Concept. 
-- **source_concept_id:** A foreign key to the Source Concept (refers to OMOP CDM CONCEPT table) that is being translated into a Standard Concept. 
+- **source_concept_id:** A foreign key to the Source Concept (refers to OMOP CDM CONCEPT table) that is being translated into a Standard Concept. For all source codes, we created custom concepts with concept IDs greater than 2 billion.
 - **source_vocabulary_id:** A foreign key to the OMOP CDM VOCABULARY table defining the vocabulary of the source code that is being translated to a Standard Concept. 
 - **source_code_type:** The type of the source code ('ehif_service').
 - **source_code_description:** A brief description of the source code.

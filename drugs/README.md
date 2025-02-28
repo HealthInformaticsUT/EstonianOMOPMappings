@@ -46,7 +46,7 @@ The mappings in this CSV file were created using the OHDSI tool [Usagi](https://
 Each CSV file contains the following columns:
 
 - **source_code:** The original code or concept from the respective code set. The source code being translated into a Standard Concept. 
-- **source_concept_id:** A foreign key to the Source Concept (refers to OMOP CDM CONCEPT table) that is being translated into a Standard Concept. 
+- **source_concept_id:** A foreign key to the Source Concept (refers to OMOP CDM CONCEPT table) that is being translated into a Standard Concept. For drug package codes, we created custom concepts with concept IDs greater than 2 billion.
 - **source_vocabulary_id:** A foreign key to the OMOP CDM VOCABULARY table defining the vocabulary of the source code that is being translated to a Standard Concept. 
 - **source_code_type:** The type of the source code (e.g., atc, drug_packages, drug_admin_route, vaccines).
 - **source_code_description:** A brief description of the source code.

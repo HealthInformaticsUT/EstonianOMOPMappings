@@ -422,8 +422,8 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 25145-4,Bakterid,Bacteria [Presence] in Urine sediment by Light microscopy,3004562,Negative,None,45878582,LA137-2
 25145-4,Bakterid,Bacteria [Presence] in Urine sediment by Light microscopy,3004562,Rare,Rare,45880295,LA15679-6
 25145-4,Bakterid,Bacteria [Presence] in Urine sediment by Light microscopy,3004562,Many,Many,45880913,LA15681-2
-25157-9,Tubulaarepiteelsilindrid (kvalitatiivne),Epithelial casts [Presence] in Urine sediment by Light microscopy,3038106,Moderate,Moderate,45877983,LA6751-7
-25157-9,Tubulaarepiteelsilindrid (kvalitatiivne),Epithelial casts [Presence] in Urine sediment by Light microscopy,3038106,Few,Few,45878239,LA15680-4
+25157-9,Tubulaarepiteelsilindrid (kvalitatiivne),Epithelial casts [Presence] in Urine sediment by Light microscopy,3038106,,Moderate,45877983,LA6751-7
+25157-9,Tubulaarepiteelsilindrid (kvalitatiivne),Epithelial casts [Presence] in Urine sediment by Light microscopy,3038106,,Few,45878239,LA15680-4
 25157-9,Tubulaarepiteelsilindrid (kvalitatiivne),Epithelial casts [Presence] in Urine sediment by Light microscopy,3038106,,None,45878582,LA137-2
 25157-9,Tubulaarepiteelsilindrid (kvalitatiivne),Epithelial casts [Presence] in Urine sediment by Light microscopy,3038106,Rare,Rare,45880295,LA15679-6
 25157-9,Tubulaarepiteelsilindrid (kvalitatiivne),Epithelial casts [Presence] in Urine sediment by Light microscopy,3038106,,Many,45880913,LA15681-2
@@ -443,7 +443,7 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 25160-3,Granulaarsilindrid (kvalitatiivne),Granular casts [Presence] in Urine sediment by Light microscopy,3001873,Rare,Rare,45880295,LA15679-6
 25160-3,Granulaarsilindrid (kvalitatiivne),Granular casts [Presence] in Urine sediment by Light microscopy,3001873,Many,Many,45880913,LA15681-2
 25162-9,Hüaliinsilindrid (kvalitatiivne),Hyaline casts [Presence] in Urine sediment by Light microscopy,3033308,Moderate,Moderate,45877983,LA6751-7
-25162-9,Hüaliinsilindrid (kvalitatiivne),Hyaline casts [Presence] in Urine sediment by Light microscopy,3033308,,Few,45878239,LA15680-4
+25162-9,Hüaliinsilindrid (kvalitatiivne),Hyaline casts [Presence] in Urine sediment by Light microscopy,3033308,Few,Few,45878239,LA15680-4
 25162-9,Hüaliinsilindrid (kvalitatiivne),Hyaline casts [Presence] in Urine sediment by Light microscopy,3033308,Negative,None,45878582,LA137-2
 25162-9,Hüaliinsilindrid (kvalitatiivne),Hyaline casts [Presence] in Urine sediment by Light microscopy,3033308,Rare,Rare,45880295,LA15679-6
 25162-9,Hüaliinsilindrid (kvalitatiivne),Hyaline casts [Presence] in Urine sediment by Light microscopy,3033308,Many,Many,45880913,LA15681-2
@@ -686,8 +686,8 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 49671-1,Neisseria meningitidis DNA,Neisseria meningitidis DNA [Presence] in Specimen by NAA with probe detection,3030388,Negative,Not detected,45880296,LA11883-8
 49896-4,"Inimese papilloomiviiruse kõrge riskiga (16,18,31,33,35,39,45,51,52,56,58,59,66,68) genotüüpide DNA",Human papilloma virus 16+18+31+33+35+39+45+51+52+56+58+59+68 DNA [Presence] in Specimen by NAA with probe detection,3032431,Negative,Negative,45878583,LA6577-6
 49896-4,"Inimese papilloomiviiruse kõrge riskiga (16,18,31,33,35,39,45,51,52,56,58,59,66,68) genotüüpide DNA",Human papilloma virus 16+18+31+33+35+39+45+51+52+56+58+59+68 DNA [Presence] in Specimen by NAA with probe detection,3032431,Positive,Positive,45884084,LA6576-8
-49963-2,Fibrillariinivastane IgG seerumis,Fibrillarin Ab [Presence] in Serum,3029569,,Negative,45878583,LA6577-6
-49963-2,Fibrillariinivastane IgG seerumis,Fibrillarin Ab [Presence] in Serum,3029569,,Positive,45884084,LA6576-8
+49963-2,Fibrillariinivastane IgG seerumis,Fibrillarin Ab [Presence] in Serum,3029569,Negative,Negative,45878583,LA6577-6
+49963-2,Fibrillariinivastane IgG seerumis,Fibrillarin Ab [Presence] in Serum,3029569,Positive,Positive,45884084,LA6576-8
 50225-2,Mitte-lameepiteeli rakud (digimikroskoopia),Epithelial cells.non-squamous [Presence] in Urine by Automated,3032238,,Moderate,45877983,LA6751-7
 50225-2,Mitte-lameepiteeli rakud (digimikroskoopia),Epithelial cells.non-squamous [Presence] in Urine by Automated,3032238,,Few,45878239,LA15680-4
 50225-2,Mitte-lameepiteeli rakud (digimikroskoopia),Epithelial cells.non-squamous [Presence] in Urine by Automated,3032238,,None,45878582,LA137-2
@@ -827,18 +827,18 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 57182-8,Inimese immuunpuudulikkuse viiruse 1. tüübi tropism plasmas,HIV 1 RNA tropism [Identifier] in Plasma Narrative,40760301,,X4,46237501,LA19205-6
 57182-8,Inimese immuunpuudulikkuse viiruse 1. tüübi tropism plasmas,HIV 1 RNA tropism [Identifier] in Plasma Narrative,40760301,,R5,46237509,LA19204-9
 57182-8,Inimese immuunpuudulikkuse viiruse 1. tüübi tropism plasmas,HIV 1 RNA tropism [Identifier] in Plasma Narrative,40760301,,D/M,46237522,LA19206-4
-57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,Group A,Group A,36308333,LA19710-5
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,A Neg,Group A,36308333,LA19710-5
+57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,Group A,Group A,36308333,LA19710-5
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,A Pos,Group A,36308333,LA19710-5
-57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,Group B,Group B,36309587,LA19709-7
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,B Neg,Group B,36309587,LA19709-7
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,B Pos,Group B,36309587,LA19709-7
-57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,Group 0,Group O,36309715,LA19708-9
+57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,Group B,Group B,36309587,LA19709-7
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,0 Pos,Group O,36309715,LA19708-9
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,0 Neg,Group O,36309715,LA19708-9
-57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,Group AB,Group AB,36311267,LA28449-9
+57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,Group 0,Group O,36309715,LA19708-9
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,AB Pos,Group AB,36311267,LA28449-9
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,AB Neg,Group AB,36311267,LA28449-9
+57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,Group AB,Group AB,36311267,LA28449-9
 57901-1,Clostridioides difficile antigeen roojas (ribaanalüüs),Clostridioides difficile glutamate dehydrogenase [Presence] in Stool,40761010,Negative,Negative,45878583,LA6577-6
 57901-1,Clostridioides difficile antigeen roojas (ribaanalüüs),Clostridioides difficile glutamate dehydrogenase [Presence] in Stool,40761010,Positive,Positive,45884084,LA6576-8
 58739-4,Haemophilus influenzae serotüüp,Haemophilus influenzae serotype [Identifier] in Isolate by Agglutination,40761833,,Test not done,36303209,LA18373-3
@@ -923,8 +923,8 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 61361-2,Klebsiella aerogenes DNA,Klebsiella aerogenes DNA [Presence] in Specimen by NAA with probe detection,40764122,Negative,Not detected,45880296,LA11883-8
 61362-0,Enterococcus faecalis DNA,Enterococcus faecalis DNA [Presence] in Specimen by NAA with probe detection,40764123,Positive,Detected,45877985,LA11882-0
 61362-0,Enterococcus faecalis DNA,Enterococcus faecalis DNA [Presence] in Specimen by NAA with probe detection,40764123,Negative,Not detected,45880296,LA11883-8
-61365-3,Paragripiviiruse RNA,Parainfluenza virus RNA [Presence] in Specimen by NAA with probe detection,40764126,Positive,Detected,45877985,LA11882-0
 61365-3,Paragripiviiruse RNA,Parainfluenza virus RNA [Presence] in Specimen by NAA with probe detection,40764126,Weak positive,Detected,45877985,LA11882-0
+61365-3,Paragripiviiruse RNA,Parainfluenza virus RNA [Presence] in Specimen by NAA with probe detection,40764126,Positive,Detected,45877985,LA11882-0
 61365-3,Paragripiviiruse RNA,Parainfluenza virus RNA [Presence] in Specimen by NAA with probe detection,40764126,Negative,Not detected,45880296,LA11883-8
 61366-1,Haemophilus influenzae DNA,Haemophilus influenzae DNA [Presence] in Specimen by NAA with probe detection,40764127,Weak positive,Detected,45877985,LA11882-0
 61366-1,Haemophilus influenzae DNA,Haemophilus influenzae DNA [Presence] in Specimen by NAA with probe detection,40764127,Positive,Detected,45877985,LA11882-0
@@ -944,9 +944,9 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 61380-2,Inimese papilloomiviiruse 45. tüübi DNA,Human papilloma virus 45 DNA [Presence] in Specimen by NAA with probe detection,40764141,,Not detected,45880296,LA11883-8
 61397-6,Enterococcus faecium DNA,Enterococcus faecium DNA [Presence] in Specimen by NAA with probe detection,40764158,Positive,Detected,45877985,LA11882-0
 61397-6,Enterococcus faecium DNA,Enterococcus faecium DNA [Presence] in Specimen by NAA with probe detection,40764158,Negative,Not detected,45880296,LA11883-8
-61398-4,Escherichia coli DNA,Escherichia coli DNA [Presence] in Specimen by NAA with probe detection,40764159,Positive,Detected,45877985,LA11882-0
 61398-4,Escherichia coli DNA,Escherichia coli DNA [Presence] in Specimen by NAA with probe detection,40764159,Weak positive,Detected,45877985,LA11882-0
 61398-4,Escherichia coli DNA,Escherichia coli DNA [Presence] in Specimen by NAA with probe detection,40764159,Strong positive,Detected,45877985,LA11882-0
+61398-4,Escherichia coli DNA,Escherichia coli DNA [Presence] in Specimen by NAA with probe detection,40764159,Positive,Detected,45877985,LA11882-0
 61398-4,Escherichia coli DNA,Escherichia coli DNA [Presence] in Specimen by NAA with probe detection,40764159,Negative,Not detected,45880296,LA11883-8
 61399-2,Klebsiella pneumoniae DNA,Klebsiella pneumoniae DNA [Presence] in Specimen by NAA with probe detection,40764160,Positive,Detected,45877985,LA11882-0
 61399-2,Klebsiella pneumoniae DNA,Klebsiella pneumoniae DNA [Presence] in Specimen by NAA with probe detection,40764160,Negative,Not detected,45880296,LA11883-8
@@ -959,9 +959,9 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 61403-2,Stenotrophomonas maltophilia DNA,Stenotrophomonas maltophilia DNA [Presence] in Specimen by NAA with probe detection,40764164,Weak positive,Detected,45877985,LA11882-0
 61403-2,Stenotrophomonas maltophilia DNA,Stenotrophomonas maltophilia DNA [Presence] in Specimen by NAA with probe detection,40764164,Positive,Detected,45877985,LA11882-0
 61403-2,Stenotrophomonas maltophilia DNA,Stenotrophomonas maltophilia DNA [Presence] in Specimen by NAA with probe detection,40764164,Negative,Not detected,45880296,LA11883-8
-61404-0,Staphylococcus aureus DNA,Staphylococcus aureus DNA [Presence] in Specimen by NAA with probe detection,40764165,Strong positive,Detected,45877985,LA11882-0
-61404-0,Staphylococcus aureus DNA,Staphylococcus aureus DNA [Presence] in Specimen by NAA with probe detection,40764165,Positive,Detected,45877985,LA11882-0
 61404-0,Staphylococcus aureus DNA,Staphylococcus aureus DNA [Presence] in Specimen by NAA with probe detection,40764165,Weak positive,Detected,45877985,LA11882-0
+61404-0,Staphylococcus aureus DNA,Staphylococcus aureus DNA [Presence] in Specimen by NAA with probe detection,40764165,Positive,Detected,45877985,LA11882-0
+61404-0,Staphylococcus aureus DNA,Staphylococcus aureus DNA [Presence] in Specimen by NAA with probe detection,40764165,Strong positive,Detected,45877985,LA11882-0
 61404-0,Staphylococcus aureus DNA,Staphylococcus aureus DNA [Presence] in Specimen by NAA with probe detection,40764165,Negative,Not detected,45880296,LA11883-8
 61405-7,Staphylococcus epidermidis DNA,Staphylococcus epidermidis DNA [Presence] in Specimen by NAA with probe detection,40764166,Positive,Detected,45877985,LA11882-0
 61405-7,Staphylococcus epidermidis DNA,Staphylococcus epidermidis DNA [Presence] in Specimen by NAA with probe detection,40764166,Negative,Not detected,45880296,LA11883-8
@@ -1059,9 +1059,9 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 68463-9,Inimese immuunpuudulikkuse viiruse 1. tüübi rilpiviriin-tundlikkus geneetiliste mutatsioonide alusel,Rilpivirine [Susceptibility] by Genotype method,40771050,,Resistance possible,45884177,LA17970-7
 68463-9,Inimese immuunpuudulikkuse viiruse 1. tüübi rilpiviriin-tundlikkus geneetiliste mutatsioonide alusel,Rilpivirine [Susceptibility] by Genotype method,40771050,Susceptible,Sensitive,45884178,LA16549-0
 68546-1,Mycoplasma hominis DNA,Mycoplasma hominis DNA [Presence] in Specimen by NAA with probe detection,42870504,Negative,Negative,45878583,LA6577-6
+68546-1,Mycoplasma hominis DNA,Mycoplasma hominis DNA [Presence] in Specimen by NAA with probe detection,42870504,Positive,Positive,45884084,LA6576-8
 68546-1,Mycoplasma hominis DNA,Mycoplasma hominis DNA [Presence] in Specimen by NAA with probe detection,42870504,Strong positive,Positive,45884084,LA6576-8
 68546-1,Mycoplasma hominis DNA,Mycoplasma hominis DNA [Presence] in Specimen by NAA with probe detection,42870504,Weak positive,Positive,45884084,LA6576-8
-68546-1,Mycoplasma hominis DNA,Mycoplasma hominis DNA [Presence] in Specimen by NAA with probe detection,42870504,Positive,Positive,45884084,LA6576-8
 687-4,Mycoplasma hominis ja Ureaplasma urealyticum külv,Mycoplasma sp and Ureaplasma sp [Identifier] in Specimen by Organism specific culture,3006478,Negative,Negative for Mycoplasma and Ureaplasma,45878181,LA18631-4
 687-4,Mycoplasma hominis ja Ureaplasma urealyticum külv,Mycoplasma sp and Ureaplasma sp [Identifier] in Specimen by Organism specific culture,3006478,,Ureaplasma urealyticum,45878587,LA18630-6
 687-4,Mycoplasma hominis ja Ureaplasma urealyticum külv,Mycoplasma sp and Ureaplasma sp [Identifier] in Specimen by Organism specific culture,3006478,,Mycoplasma hominis,45882154,LA18629-8
@@ -1119,18 +1119,18 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 69930-6,Tuulerõugeviiruse vastane IgM liikvoris,Varicella zoster virus IgM Ab [Presence] in Cerebral spinal fluid by Immunoassay,42868421,,Borderline,45880922,LA4259-3
 69930-6,Tuulerõugeviiruse vastane IgM liikvoris,Varicella zoster virus IgM Ab [Presence] in Cerebral spinal fluid by Immunoassay,42868421,,Positive,45884084,LA6576-8
 69933-0,Ureaplasma parvum DNA,Ureaplasma parvum DNA [Presence] in Specimen by NAA with probe detection,42868423,Negative,Negative,45878583,LA6577-6
-69933-0,Ureaplasma parvum DNA,Ureaplasma parvum DNA [Presence] in Specimen by NAA with probe detection,42868423,Strong positive,Positive,45884084,LA6576-8
 69933-0,Ureaplasma parvum DNA,Ureaplasma parvum DNA [Presence] in Specimen by NAA with probe detection,42868423,Positive,Positive,45884084,LA6576-8
 69933-0,Ureaplasma parvum DNA,Ureaplasma parvum DNA [Presence] in Specimen by NAA with probe detection,42868423,Weak positive,Positive,45884084,LA6576-8
+69933-0,Ureaplasma parvum DNA,Ureaplasma parvum DNA [Presence] in Specimen by NAA with probe detection,42868423,Strong positive,Positive,45884084,LA6576-8
 69934-8,Ureaplasma urealyticum/Ureaplasma parvum DNA,Ureaplasma urealyticum+Ureaplasma parvum DNA [Presence] in Specimen by NAA with probe detection,42868424,Negative,Negative,45878583,LA6577-6
 69934-8,Ureaplasma urealyticum/Ureaplasma parvum DNA,Ureaplasma urealyticum+Ureaplasma parvum DNA [Presence] in Specimen by NAA with probe detection,42868424,Positive,Positive,45884084,LA6576-8
 69935-5,Mycoplasma genitalium DNA/RNA,Mycoplasma genitalium DNA [Presence] in Specimen by NAA with probe detection,42868425,Negative,Negative,45878583,LA6577-6
 69935-5,Mycoplasma genitalium DNA/RNA,Mycoplasma genitalium DNA [Presence] in Specimen by NAA with probe detection,42868425,Positive,Positive,45884084,LA6576-8
 69935-5,Mycoplasma genitalium DNA/RNA,Mycoplasma genitalium DNA [Presence] in Specimen by NAA with probe detection,42868425,Weak positive,Positive,45884084,LA6576-8
 69936-3,Gardnerella vaginalis DNA,Gardnerella vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868426,Negative,Negative,45878583,LA6577-6
-69936-3,Gardnerella vaginalis DNA,Gardnerella vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868426,Strong positive,Positive,45884084,LA6576-8
 69936-3,Gardnerella vaginalis DNA,Gardnerella vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868426,Weak positive,Positive,45884084,LA6576-8
 69936-3,Gardnerella vaginalis DNA,Gardnerella vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868426,Positive,Positive,45884084,LA6576-8
+69936-3,Gardnerella vaginalis DNA,Gardnerella vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868426,Strong positive,Positive,45884084,LA6576-8
 69937-1,Trichomonas vaginalis DNA/RNA,Trichomonas vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868427,Negative,Negative,45878583,LA6577-6
 69937-1,Trichomonas vaginalis DNA/RNA,Trichomonas vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868427,Positive,Positive,45884084,LA6576-8
 69937-1,Trichomonas vaginalis DNA/RNA,Trichomonas vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868427,Strong positive,Positive,45884084,LA6576-8
@@ -1175,8 +1175,8 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 70014-6,Paragripiviiruse serotüüpide 1-4 vastane IgA seerumis/plasmas,Parainfluenza virus 1+2+3+4 IgA Ab [Presence] in Serum by Immunoassay,42868503,,Borderline,45880922,LA4259-3
 70014-6,Paragripiviiruse serotüüpide 1-4 vastane IgA seerumis/plasmas,Parainfluenza virus 1+2+3+4 IgA Ab [Presence] in Serum by Immunoassay,42868503,Positive,Positive,45884084,LA6576-8
 70015-3,Streptococcus DNA,Streptococcus sp DNA [Presence] in Blood by NAA with probe detection,42868504,Negative,Negative,45878583,LA6577-6
-70015-3,Streptococcus DNA,Streptococcus sp DNA [Presence] in Blood by NAA with probe detection,42868504,Weak positive,Positive,45884084,LA6576-8
 70015-3,Streptococcus DNA,Streptococcus sp DNA [Presence] in Blood by NAA with probe detection,42868504,Positive,Positive,45884084,LA6576-8
+70015-3,Streptococcus DNA,Streptococcus sp DNA [Presence] in Blood by NAA with probe detection,42868504,Weak positive,Positive,45884084,LA6576-8
 70016-1,Koagulaasnegatiivsete stafülokokkide DNA,Staphylococcus sp.coagulase negative DNA [Presence] in Blood by NAA with probe detection,42868505,Negative,Negative,45878583,LA6577-6
 70016-1,Koagulaasnegatiivsete stafülokokkide DNA,Staphylococcus sp.coagulase negative DNA [Presence] in Blood by NAA with probe detection,42868505,Positive,Positive,45884084,LA6576-8
 70017-9,Paragripiviiruse serotüüpide 1-4 vastane IgM seerumis/plasmas,Parainfluenza virus 1+2+3+4 IgM Ab [Presence] in Serum by Immunoassay,42868506,Negative,Negative,45878583,LA6577-6
@@ -1187,8 +1187,8 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 70019-5,Klebsiella oxytoca DNA,Klebsiella oxytoca DNA [Presence] in Blood by NAA with probe detection,42868508,Negative,Negative,45878583,LA6577-6
 70019-5,Klebsiella oxytoca DNA,Klebsiella oxytoca DNA [Presence] in Blood by NAA with probe detection,42868508,Positive,Positive,45884084,LA6576-8
 70020-3,Bacteroides fragilis DNA,Bacteroides fragilis DNA [Presence] in Blood by NAA with probe detection,42868509,Negative,Negative,45878583,LA6577-6
-70020-3,Bacteroides fragilis DNA,Bacteroides fragilis DNA [Presence] in Blood by NAA with probe detection,42868509,Positive,Positive,45884084,LA6576-8
 70020-3,Bacteroides fragilis DNA,Bacteroides fragilis DNA [Presence] in Blood by NAA with probe detection,42868509,Weak positive,Positive,45884084,LA6576-8
+70020-3,Bacteroides fragilis DNA,Bacteroides fragilis DNA [Presence] in Blood by NAA with probe detection,42868509,Positive,Positive,45884084,LA6576-8
 70021-1,Salmonella typhi DNA,Salmonella typhi DNA [Presence] in Blood by NAA with probe detection,42868510,Negative,Negative,45878583,LA6577-6
 70021-1,Salmonella typhi DNA,Salmonella typhi DNA [Presence] in Blood by NAA with probe detection,42868510,,Positive,45884084,LA6576-8
 70023-7,Candida tropicalis DNA,Candida tropicalis DNA [Presence] in Blood by NAA with probe detection,42868512,Negative,Negative,45878583,LA6577-6
@@ -1225,12 +1225,12 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 70057-5,Saaremaa viiruse vastane IgM seerumis/plasmas,Hantavirus saaremaa IgM Ab [Presence] in Serum or Plasma by Immunofluorescence,42868543,Positive,Positive,45884084,LA6576-8
 70058-3,Puumala viiruse vastane IgM seerumis/plasmas,Hantavirus puumala IgM Ab [Presence] in Serum or Plasma by Immunofluorescence,42868544,Negative,Negative,45878583,LA6577-6
 70058-3,Puumala viiruse vastane IgM seerumis/plasmas,Hantavirus puumala IgM Ab [Presence] in Serum or Plasma by Immunofluorescence,42868544,,Borderline,45880922,LA4259-3
-70058-3,Puumala viiruse vastane IgM seerumis/plasmas,Hantavirus puumala IgM Ab [Presence] in Serum or Plasma by Immunofluorescence,42868544,Weak positive,Positive,45884084,LA6576-8
 70058-3,Puumala viiruse vastane IgM seerumis/plasmas,Hantavirus puumala IgM Ab [Presence] in Serum or Plasma by Immunofluorescence,42868544,Positive,Positive,45884084,LA6576-8
+70058-3,Puumala viiruse vastane IgM seerumis/plasmas,Hantavirus puumala IgM Ab [Presence] in Serum or Plasma by Immunofluorescence,42868544,Weak positive,Positive,45884084,LA6576-8
 70059-1,Puumala viiruse vastane IgG seerumis/plasmas,Hantavirus puumala IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868545,Negative,Negative,45878583,LA6577-6
 70059-1,Puumala viiruse vastane IgG seerumis/plasmas,Hantavirus puumala IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868545,,Borderline,45880922,LA4259-3
-70059-1,Puumala viiruse vastane IgG seerumis/plasmas,Hantavirus puumala IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868545,Positive,Positive,45884084,LA6576-8
 70059-1,Puumala viiruse vastane IgG seerumis/plasmas,Hantavirus puumala IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868545,Weak positive,Positive,45884084,LA6576-8
+70059-1,Puumala viiruse vastane IgG seerumis/plasmas,Hantavirus puumala IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868545,Positive,Positive,45884084,LA6576-8
 70060-9,Seoul viiruse vastane IgG seerumis/plasmas,Hantavirus seoul IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868546,Negative,Negative,45878583,LA6577-6
 70060-9,Seoul viiruse vastane IgG seerumis/plasmas,Hantavirus seoul IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868546,,Borderline,45880922,LA4259-3
 70060-9,Seoul viiruse vastane IgG seerumis/plasmas,Hantavirus seoul IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868546,,Positive,45884084,LA6576-8
@@ -1745,8 +1745,8 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 83002-6,Zic4-vastane IgG seerumis/plasmas,Zinc finger protein of the cerebellum 4 IgG Ab [Presence] in Serum or Plasma by Line blot,42529130,Negative,Negative,45878583,LA6577-6
 83002-6,Zic4-vastane IgG seerumis/plasmas,Zinc finger protein of the cerebellum 4 IgG Ab [Presence] in Serum or Plasma by Line blot,42529130,Positive,Positive,45884084,LA6576-8
 83003-4,Rekoveriinivastane IgG seerumis/plasmas,Recoverin IgG Ab [Presence] in Serum or Plasma by Line blot,42529131,Negative,Negative,45878583,LA6577-6
-83003-4,Rekoveriinivastane IgG seerumis/plasmas,Recoverin IgG Ab [Presence] in Serum or Plasma by Line blot,42529131,Weak positive,Positive,45884084,LA6576-8
 83003-4,Rekoveriinivastane IgG seerumis/plasmas,Recoverin IgG Ab [Presence] in Serum or Plasma by Line blot,42529131,Positive,Positive,45884084,LA6576-8
+83003-4,Rekoveriinivastane IgG seerumis/plasmas,Recoverin IgG Ab [Presence] in Serum or Plasma by Line blot,42529131,Weak positive,Positive,45884084,LA6576-8
 83004-2,GAD65 (glutamaadi dekarboksülaas 65) vastane IgG seerumis/plasmas,Glutamate decarboxylase 65 IgG Ab [Presence] in Serum or Plasma by Line blot,42529132,Negative,Negative,45878583,LA6577-6
 83004-2,GAD65 (glutamaadi dekarboksülaas 65) vastane IgG seerumis/plasmas,Glutamate decarboxylase 65 IgG Ab [Presence] in Serum or Plasma by Line blot,42529132,Positive,Positive,45884084,LA6576-8
 83128-9,E-hepatiidi viiruse vastane IgM seerumis/plasmas (immunoblot),Hepatitis E virus IgM Ab [Presence] in Serum or Plasma by Immunoassay,36304328,,Detected,45877985,LA11882-0
@@ -1830,17 +1830,17 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 88304-1,Monoklonaalsed immuunglobuliini kapaahelad ööpäevases uriinis,Kappa light chains [Presence] in 24 hour Urine by Immunofixation,36304086,,Detected,45877985,LA11882-0
 88304-1,Monoklonaalsed immuunglobuliini kapaahelad ööpäevases uriinis,Kappa light chains [Presence] in 24 hour Urine by Immunofixation,36304086,,Not detected,45880296,LA11883-8
 883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,A Pos,Group A,36308333,LA19710-5
-883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,Group A,Group A,36308333,LA19710-5
 883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,A Neg,Group A,36308333,LA19710-5
-883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,Group B,Group B,36309587,LA19709-7
-883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,B Pos,Group B,36309587,LA19709-7
+883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,Group A,Group A,36308333,LA19710-5
 883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,B Neg,Group B,36309587,LA19709-7
+883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,B Pos,Group B,36309587,LA19709-7
+883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,Group B,Group B,36309587,LA19709-7
+883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,0 Neg,Group O,36309715,LA19708-9
 883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,0 Pos,Group O,36309715,LA19708-9
 883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,Group 0,Group O,36309715,LA19708-9
-883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,0 Neg,Group O,36309715,LA19708-9
 883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,AB Pos,Group AB,36311267,LA28449-9
-883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,AB Neg,Group AB,36311267,LA28449-9
 883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,Group AB,Group AB,36311267,LA28449-9
+883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,AB Neg,Group AB,36311267,LA28449-9
 88509-5,Helicobacter pylori resistentsusmutatsioonid klaritromütsiini suhtes,Helicobacter pylori 23S rRNA clarithromycin resistance mutation [Identifier] by Molecular method,36306114,,T2182C,36307871,LA28575-1
 88509-5,Helicobacter pylori resistentsusmutatsioonid klaritromütsiini suhtes,Helicobacter pylori 23S rRNA clarithromycin resistance mutation [Identifier] by Molecular method,36306114,,A2142G,36307898,LA28472-1
 88509-5,Helicobacter pylori resistentsusmutatsioonid klaritromütsiini suhtes,Helicobacter pylori 23S rRNA clarithromycin resistance mutation [Identifier] by Molecular method,36306114,,A2142C,36308449,LA28471-3
@@ -1877,7 +1877,7 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 89482-4,Mükobakterite kanamütsiin-tundlikkus geneetiliste mutatsioonide alusel,Kanamycin [Susceptibility] by Genotype method,36304690,Susceptible,Susceptible,36210475,LA24225-7
 89482-4,Mükobakterite kanamütsiin-tundlikkus geneetiliste mutatsioonide alusel,Kanamycin [Susceptibility] by Genotype method,36304690,Resistant,Resistant,45878594,LA6676-6
 89483-2,Mycobacterium tuberculosis kompleksi kapreomütsiin-tundlikkus geneetiliste mutatsioonide alusel,Capreomycin [Susceptibility] by Genotype method,36305310,Susceptible,Susceptible,36210475,LA24225-7
-89483-2,Mycobacterium tuberculosis kompleksi kapreomütsiin-tundlikkus geneetiliste mutatsioonide alusel,Capreomycin [Susceptibility] by Genotype method,36305310,,Resistant,45878594,LA6676-6
+89483-2,Mycobacterium tuberculosis kompleksi kapreomütsiin-tundlikkus geneetiliste mutatsioonide alusel,Capreomycin [Susceptibility] by Genotype method,36305310,Resistant,Resistant,45878594,LA6676-6
 89484-0,Mükobakterite amikatsiin-tundlikkus geneetiliste mutatsioonide alusel,Amikacin [Susceptibility] by Genotype method,36303883,Susceptible,Susceptible,36210475,LA24225-7
 89484-0,Mükobakterite amikatsiin-tundlikkus geneetiliste mutatsioonide alusel,Amikacin [Susceptibility] by Genotype method,36303883,,Resistant,45878594,LA6676-6
 89485-7,Mükobakterite klaritromütsiin-tundlikkus geneetiliste mutatsioonide alusel,Clarithromycin [Susceptibility] by Genotype method,36305972,Susceptible,Susceptible,36210475,LA24225-7
@@ -2021,7 +2021,7 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 96671-3,HLA-DRB3/4/5 alleelid (kõrglahutusega),HLA-DRB3 and HLA-DRB4 and HLA DRB5 [Type] by High resolution,36031593,,HLA-DRB5*01:01,36032816,LA31332-2
 96671-3,HLA-DRB3/4/5 alleelid (kõrglahutusega),HLA-DRB3 and HLA-DRB4 and HLA DRB5 [Type] by High resolution,36031593,,HLA-DRB4*01:01,36032880,LA31331-4
 96734-9,Rasvhappe kristallid roojas,Fatty acid salts [Presence] in Stool by Light microscopy,36031812,,Present,45879438,LA9633-4
-96734-9,Rasvhappe kristallid roojas,Fatty acid salts [Presence] in Stool by Light microscopy,36031812,,Absent,45884086,LA9634-2
+96734-9,Rasvhappe kristallid roojas,Fatty acid salts [Presence] in Stool by Light microscopy,36031812,Negative,Absent,45884086,LA9634-2
 97503-7,Prioonvalgu PrPSc agregatsioon liikvoris,Abnormal Prion Protein [Presence] in Cerebral spinal fluid,1617099,,Negative,45878583,LA6577-6
 97503-7,Prioonvalgu PrPSc agregatsioon liikvoris,Abnormal Prion Protein [Presence] in Cerebral spinal fluid,1617099,,Positive,45884084,LA6576-8
 97503-7,Prioonvalgu PrPSc agregatsioon liikvoris,Abnormal Prion Protein [Presence] in Cerebral spinal fluid,1617099,,Indeterminate,45884091,LA11884-6

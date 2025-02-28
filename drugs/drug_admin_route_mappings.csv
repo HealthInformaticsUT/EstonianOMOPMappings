@@ -1,87 +1,86 @@
 source_code,source_concept_id,source_vocabulary_id,source_code_type,source_code_description,target_concept_name,target_concept_code,target_concept_id,target_vocabulary_id,target_domain,target_concept_class_id,updated_date,valid_end_date
-aurikulaarne,0,None,drug_admin_route,aurikulaarne,Otic route,10547007,4023156,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-bukaalne,0,None,drug_admin_route,bukaalne,Buccal route,54471007,4181897,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-dentaalne,0,None,drug_admin_route,dentaalne,Dental route,372449004,4163765,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-ekstraamniootiline,0,None,drug_admin_route,ekstraamniootiline,Extra-amniotic route,372453002,4186833,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-endosinusiaalne,0,None,drug_admin_route,endosinusiaalne,Endosinusial route,372451000,4157756,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-endotrahheopulmonaalne,0,None,drug_admin_route,endotrahheopulmonaalne,Endotracheopulmonary route,372452007,4186832,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-endotservikaalne,0,None,drug_admin_route,endotservikaalne,Endocervical route,372450004,4186831,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-epiduraalne,0,None,drug_admin_route,epiduraalne,Epidural route,404820008,4225555,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-epilesionaalne,0,None,drug_admin_route,epilesionaalne,Epilesional,18246711000001107,45956880,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-gastrointestinaalne,0,None,drug_admin_route,gastrointestinaalne,Gastroenteral route,372454008,4186834,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-gingivaalne,0,None,drug_admin_route,gingivaalne,Gingival route,372457001,4156704,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-hemodialüüs,0,None,drug_admin_route,hemodialüüs,Haemodialysis,18682911000001103,45956871,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-infiltratsioon,0,None,drug_admin_route,infiltratsioon,Infiltration route,718329006,37397638,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-inhalatsioon,0,None,drug_admin_route,inhalatsioon,Inhalation,18679011000001101,45956874,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-inhalatsioon (aerosool),0,None,drug_admin_route,inhalatsioon (aerosool),Inhalation,18679011000001101,45956874,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-inhalatsioon (lahus),0,None,drug_admin_route,inhalatsioon (lahus),Inhalation,18679011000001101,45956874,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-inhalatsioon (pulber),0,None,drug_admin_route,inhalatsioon (pulber),Inhalation,18679011000001101,45956874,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intestinaalne,0,None,drug_admin_route,intestinaalne,Intestinal route,58731000052100,37207459,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intraabdominaalne,0,None,drug_admin_route,intraabdominaalne,Intraabdominal route,419396008,4304882,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intraamniootiline,0,None,drug_admin_route,intraamniootiline,Intraamniotic route,372458006,4163767,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intraarteriaalne,0,None,drug_admin_route,intraarteriaalne,Intra-arterial route,58100008,4240824,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intraartikulaarne,0,None,drug_admin_route,intraartikulaarne,Intra-articular route,12130007,4006860,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intrabursaalne,0,None,drug_admin_route,intrabursaalne,Intrabursal route,372459003,4163768,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intradermaalne,0,None,drug_admin_route,intradermaalne,Intradermal route,372464004,4156706,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intradiskaalne,0,None,drug_admin_route,intradiskaalne,Intradiscal route,372465003,4163769,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intraepidermaalne,0,None,drug_admin_route,intraepidermaalne,Intraepidermal route,448077001,40487983,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intraglandulaarne,0,None,drug_admin_route,intraglandulaarne,Intraglandular route,58751000052109,37207460,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intrakardiaalne,0,None,drug_admin_route,intrakardiaalne,Intracardiac route,372460008,4156705,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intrakavernoosne,0,None,drug_admin_route,intrakavernoosne,Intracavernous route,372461007,4157757,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intrakolangiopankreaatiline,0,None,drug_admin_route,intrakolangiopankreaatiline,Intracholangiopancreatic route,58761000052107,37207461,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intrakoronaarne,0,None,drug_admin_route,intrakoronaarne,Intracoronary route,372463005,4186836,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intralesionaalne,0,None,drug_admin_route,intralesionaalne,Intralesional route,372466002,4157758,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intralümfaatiline,0,None,drug_admin_route,intralümfaatiline,Intralymphatic route,372467006,4157759,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intramammaarne,0,None,drug_admin_route,intramammaarne,Intramammary route,447121004,40491321,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intramuskulaarne,0,None,drug_admin_route,intramuskulaarne,Intramuscular route,78421000,4302612,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intraokulaarne,0,None,drug_admin_route,intraokulaarne,Intraocular route,372468001,4157760,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intraosteaalne,0,None,drug_admin_route,intraosteaalne,Intraosseous route,417255000,4213522,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intraperikardiaalne,0,None,drug_admin_route,intraperikardiaalne,Intrapericardial route,445771006,40492305,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intraperitoneaalne,0,None,drug_admin_route,intraperitoneaalne,Intraperitoneal route,38239002,4243022,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intrapleuraalne,0,None,drug_admin_route,intrapleuraalne,Intrapleural route,372469009,4156707,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intraprostaatiline,0,None,drug_admin_route,intraprostaatiline,Intraprostatic route,419810008,4171725,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intrapulmonaalne,0,None,drug_admin_route,intrapulmonaalne,Intrapulmonary route,420201002,4169270,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intrasternaalne,0,None,drug_admin_route,intrasternaalne,Intrasternal route,372470005,4186837,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intrasünoviaalne,0,None,drug_admin_route,intrasünoviaalne,Intrasynovial route,418877009,4302352,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intratekaalne,0,None,drug_admin_route,intratekaalne,Intrathecal route,72607000,4217202,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intratrahheaalne,0,None,drug_admin_route,intratrahheaalne,Intratracheal route,404818005,4229543,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intratserebraalne,0,None,drug_admin_route,intratserebraalne,Intracerebral route,446540005,40488317,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intratserebroventrikulaarne,0,None,drug_admin_route,intratserebroventrikulaarne,Intracerebroventricular route,420719007,4224886,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intratservikaalne,0,None,drug_admin_route,intratservikaalne,Intracervical route,372462000,4186835,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intratsisternaalne,0,None,drug_admin_route,intratsisternaalne,Intracisternal route,418892005,4305993,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intratumoraalne,0,None,drug_admin_route,intratumoraalne,Intratumor route,447122006,40491322,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intrauteriinne,0,None,drug_admin_route,intrauteriinne,Intrauterine route,62226000,4269621,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intravenoosne,0,None,drug_admin_route,intravenoosne,Intravenous route,47625008,4171047,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intravesikaalne,0,None,drug_admin_route,intravesikaalne,Intravesical route,372471009,4186838,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intravesikaalne (pulber),0,None,drug_admin_route,intravesikaalne (pulber),Intravesical route,372471009,4186838,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-intravitreaalne,0,None,drug_admin_route,intravitreaalne,Intravitreal route,418401004,4302785,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-iontoforees,0,None,drug_admin_route,iontoforees,Iontophoresis,21856811000001103,45956881,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-keelealune,0,None,drug_admin_route,keelealune,Sublingual route,37839007,4292110,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-kehaväline,0,None,drug_admin_route,kehaväline,Extracorporeal route,714743009,37018288,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-kutaanne,0,None,drug_admin_route,kutaanne,Cutaneous route,448598008,40490507,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-kõhresisene,0,None,drug_admin_route,kõhresisene,Intracartilaginous route,418331006,4303676,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-larüngofarüngeaalne,0,None,drug_admin_route,larüngofarüngeaalne,Oropharyngeal route,418664002,4303277,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-nasaalne,0,None,drug_admin_route,nasaalne,Nasal route,46713006,4262914,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-okulaarne,0,None,drug_admin_route,okulaarne,Ocular route,372472002,40549429,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-orofarüngeaalne,0,None,drug_admin_route,orofarüngeaalne,Oropharyngeal route,418664002,4303277,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-oromukosaalne,0,None,drug_admin_route,oromukosaalne,Oromucosal route,372473007,4186839,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-paikne,0,None,drug_admin_route,paikne,Topical route,6064005,4263689,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-paravertebraalne,0,None,drug_admin_route,paravertebraalne,Paravertebral route,419165009,4170267,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-periartikulaarne,0,None,drug_admin_route,periartikulaarne,Periarticular route,372474001,4156708,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-perineuraalne,0,None,drug_admin_route,perineuraalne,Perineural route,372475000,4157761,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-periodontaalne,0,None,drug_admin_route,periodontaalne,Periodontal route,447052000,40490866,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-periosteaalne,0,None,drug_admin_route,periosteaalne,Periosseous,11478901000001102,35611042,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-peritumoraalne,0,None,drug_admin_route,peritumoraalne,Peritumoral route,58811000052103,37207463,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-posterioorne jukstaskleraalne,0,None,drug_admin_route,posterioorne jukstaskleraalne,Posterior juxtascleral route,58821000052106,37207464,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-rektaalne,0,None,drug_admin_route,rektaalne,Rectal route,37161004,4290759,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-retrobulbaarne,0,None,drug_admin_route,retrobulbaarne,Retrobulbar route,418321004,4303673,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-silma eeskambri sisene,0,None,drug_admin_route,silma eeskambri sisene,Intracameral route,418821007,4303409,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-subkonjunktivaalne,0,None,drug_admin_route,subkonjunktivaalne,Subconjunctival route,372476004,4163770,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-subkutaanne,0,None,drug_admin_route,subkutaanne,Subcutaneous route,34206005,4142048,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-submukoosne,0,None,drug_admin_route,submukoosne,Submucosal route,419874009,4169634,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-subretinaalne,0,None,drug_admin_route,subretinaalne,Subretinal route,58831000052108,37207465,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-suukaudne,0,None,drug_admin_route,suukaudne,Oral route,26643006,4132161,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-transdermaalne,0,None,drug_admin_route,transdermaalne,Transdermal route,45890007,4262099,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-täpselt määratlemata,0,None,drug_admin_route,täpselt määratlemata,Route of administration not applicable,3594011000001102,45956875,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-uretraalne,0,None,drug_admin_route,uretraalne,Urethral route,90028008,4233974,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
-vaginaalne,0,None,drug_admin_route,vaginaalne,Vaginal route,16857009,4057765,SNOMED,Route,Qualifier Value,2024-06-03,2099-12-31
+aurikulaarne,0,None,drug_admin_route,aurikulaarne,Otic,10547007,4023156,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+bukaalne,0,None,drug_admin_route,bukaalne,Buccal,54471007,4181897,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+dentaalne,0,None,drug_admin_route,dentaalne,Dental,372449004,4163765,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+ekstraamniootiline,0,None,drug_admin_route,ekstraamniootiline,Extra-amniotic,372453002,4186833,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+endosinusiaalne,0,None,drug_admin_route,endosinusiaalne,Endosinusial,372451000,4157756,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+endotrahheopulmonaalne,0,None,drug_admin_route,endotrahheopulmonaalne,Endotracheopulmonary,372452007,4186832,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+endotservikaalne,0,None,drug_admin_route,endotservikaalne,Endocervical,372450004,4186831,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+epiduraalne,0,None,drug_admin_route,epiduraalne,Epidural,404820008,4225555,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+epilesionaalne,0,None,drug_admin_route,epilesionaalne,Epilesional,764723001,35608078,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+gastrointestinaalne,0,None,drug_admin_route,gastrointestinaalne,Gastroenteral,372454008,4186834,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+gingivaalne,0,None,drug_admin_route,gingivaalne,Gingival,372457001,4156704,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+hemodialüüs,0,None,drug_admin_route,hemodialüüs,Extracorporeal hemodialysis,766790006,35624178,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+infiltratsioon,0,None,drug_admin_route,infiltratsioon,Infiltration,718329006,37397638,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+inhalatsioon,0,None,drug_admin_route,inhalatsioon,Respiratory tract,447694001,40486069,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+inhalatsioon (aerosool),0,None,drug_admin_route,inhalatsioon (aerosool),Respiratory tract,447694001,40486069,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+inhalatsioon (lahus),0,None,drug_admin_route,inhalatsioon (lahus),Respiratory tract,447694001,40486069,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+inhalatsioon (pulber),0,None,drug_admin_route,inhalatsioon (pulber),Respiratory tract,447694001,40486069,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intestinaalne,0,None,drug_admin_route,intestinaalne,Enteral,417985001,4167540,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intraabdominaalne,0,None,drug_admin_route,intraabdominaalne,Intraabdominal,419396008,4304882,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intraamniootiline,0,None,drug_admin_route,intraamniootiline,Intraamniotic,372458006,4163767,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intraarteriaalne,0,None,drug_admin_route,intraarteriaalne,Intra-arterial,58100008,4240824,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intraartikulaarne,0,None,drug_admin_route,intraartikulaarne,Intra-articular,12130007,4006860,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intrabursaalne,0,None,drug_admin_route,intrabursaalne,Intrabursal,372459003,4163768,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intradermaalne,0,None,drug_admin_route,intradermaalne,Intradermal,372464004,4156706,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intradiskaalne,0,None,drug_admin_route,intradiskaalne,Intradiscal,372465003,4163769,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intraepidermaalne,0,None,drug_admin_route,intraepidermaalne,Intraepidermal,448077001,40487983,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intraglandulaarne,0,None,drug_admin_route,intraglandulaarne,Intraglandular,58751000052109,37207460,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intrakardiaalne,0,None,drug_admin_route,intrakardiaalne,Intracardiac,372460008,4156705,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intrakavernoosne,0,None,drug_admin_route,intrakavernoosne,Intracavernous,372461007,4157757,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intrakolangiopankreaatiline,0,None,drug_admin_route,intrakolangiopankreaatiline,Intracholangiopancreatic,58761000052107,37207461,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intrakoronaarne,0,None,drug_admin_route,intrakoronaarne,Intracoronary,372463005,4186836,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intralesionaalne,0,None,drug_admin_route,intralesionaalne,Intralesional,372466002,4157758,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intralümfaatiline,0,None,drug_admin_route,intralümfaatiline,Intralymphatic,372467006,4157759,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intramammaarne,0,None,drug_admin_route,intramammaarne,Intramammary,447121004,40491321,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intramuskulaarne,0,None,drug_admin_route,intramuskulaarne,Intramuscular,78421000,4302612,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intraokulaarne,0,None,drug_admin_route,intraokulaarne,Intraocular,372468001,4157760,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intraosteaalne,0,None,drug_admin_route,intraosteaalne,Intraosseous,417255000,4213522,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intraperikardiaalne,0,None,drug_admin_route,intraperikardiaalne,Intrapericardial,445771006,40492305,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intraperitoneaalne,0,None,drug_admin_route,intraperitoneaalne,Intraperitoneal,38239002,4243022,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intrapleuraalne,0,None,drug_admin_route,intrapleuraalne,Intrapleural,372469009,4156707,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intraprostaatiline,0,None,drug_admin_route,intraprostaatiline,Intraprostatic,419810008,4171725,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intrapulmonaalne,0,None,drug_admin_route,intrapulmonaalne,Intrapulmonary,420201002,4169270,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intrasternaalne,0,None,drug_admin_route,intrasternaalne,Intrasternal,372470005,4186837,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intrasünoviaalne,0,None,drug_admin_route,intrasünoviaalne,Intrasynovial,418877009,4302352,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intratekaalne,0,None,drug_admin_route,intratekaalne,Intrathecal,72607000,4217202,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intratrahheaalne,0,None,drug_admin_route,intratrahheaalne,Intratracheal,404818005,4229543,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intratserebraalne,0,None,drug_admin_route,intratserebraalne,Intracerebral,446540005,40488317,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intratserebroventrikulaarne,0,None,drug_admin_route,intratserebroventrikulaarne,Intracerebroventricular,420719007,4224886,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intratservikaalne,0,None,drug_admin_route,intratservikaalne,Intracervical,372462000,4186835,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intratsisternaalne,0,None,drug_admin_route,intratsisternaalne,Intracisternal,418892005,4305993,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intratumoraalne,0,None,drug_admin_route,intratumoraalne,Intratumor,447122006,40491322,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intrauteriinne,0,None,drug_admin_route,intrauteriinne,Intrauterine,62226000,4269621,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intravenoosne,0,None,drug_admin_route,intravenoosne,Intravenous,47625008,4171047,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intravesikaalne,0,None,drug_admin_route,intravesikaalne,Intravesical,372471009,4186838,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intravesikaalne (pulber),0,None,drug_admin_route,intravesikaalne (pulber),Intravesical,372471009,4186838,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+intravitreaalne,0,None,drug_admin_route,intravitreaalne,Intravitreal,418401004,4302785,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+iontoforees,0,None,drug_admin_route,iontoforees,Transdermal,45890007,4262099,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+keelealune,0,None,drug_admin_route,keelealune,Sublingual,37839007,4292110,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+kehaväline,0,None,drug_admin_route,kehaväline,Extracorporeal,714743009,37018288,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+kutaanne,0,None,drug_admin_route,kutaanne,Cutaneous,448598008,40490507,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+kõhresisene,0,None,drug_admin_route,kõhresisene,Intracartilaginous,418331006,4303676,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+larüngofarüngeaalne,0,None,drug_admin_route,larüngofarüngeaalne,Oropharyngeal,418664002,4303277,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+nasaalne,0,None,drug_admin_route,nasaalne,Nasal,46713006,4262914,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+okulaarne,0,None,drug_admin_route,okulaarne,Ocular,372472002,40549429,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+orofarüngeaalne,0,None,drug_admin_route,orofarüngeaalne,Oropharyngeal,418664002,4303277,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+oromukosaalne,0,None,drug_admin_route,oromukosaalne,Oromucosal,372473007,4186839,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+paikne,0,None,drug_admin_route,paikne,Topical,6064005,4263689,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+paravertebraalne,0,None,drug_admin_route,paravertebraalne,Paravertebral,419165009,4170267,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+periartikulaarne,0,None,drug_admin_route,periartikulaarne,Periarticular,372474001,4156708,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+perineuraalne,0,None,drug_admin_route,perineuraalne,Perineural,372475000,4157761,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+periodontaalne,0,None,drug_admin_route,periodontaalne,Periodontal,447052000,40490866,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+periosteaalne,0,None,drug_admin_route,periosteaalne,Periosteal,420047004,4171893,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+peritumoraalne,0,None,drug_admin_route,peritumoraalne,Peritumoral,58811000052103,37207463,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+posterioorne jukstaskleraalne,0,None,drug_admin_route,posterioorne jukstaskleraalne,Posterior juxtascleral,58821000052106,37207464,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+rektaalne,0,None,drug_admin_route,rektaalne,Rectal,37161004,4290759,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+retrobulbaarne,0,None,drug_admin_route,retrobulbaarne,Retrobulbar,418321004,4303673,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+silma eeskambri sisene,0,None,drug_admin_route,silma eeskambri sisene,Intracameral,418821007,4303409,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+subkonjunktivaalne,0,None,drug_admin_route,subkonjunktivaalne,Subconjunctival,372476004,4163770,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+subkutaanne,0,None,drug_admin_route,subkutaanne,Subcutaneous,34206005,4142048,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+submukoosne,0,None,drug_admin_route,submukoosne,Submucosal,419874009,4169634,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+subretinaalne,0,None,drug_admin_route,subretinaalne,Subretinal,58831000052108,37207465,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+suukaudne,0,None,drug_admin_route,suukaudne,Oral,26643006,4132161,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+transdermaalne,0,None,drug_admin_route,transdermaalne,Transdermal,45890007,4262099,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+uretraalne,0,None,drug_admin_route,uretraalne,Urethral,90028008,4233974,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31
+vaginaalne,0,None,drug_admin_route,vaginaalne,Vaginal,16857009,4057765,SNOMED,Route,Qualifier Value,2025-02-21,2099-12-31

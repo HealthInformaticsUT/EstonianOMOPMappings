@@ -9,8 +9,6 @@ These codes represent surgical procedure-related concepts from the NCSP standard
 Codes are taken from the [Publishing Centre](https://pub.e-tervis.ee/classifications) managed by Health and Welfare Information Systems Centre (TEHIK), see [here](https://pub.e-tervis.ee/classifications/NCSP).
 
 We use the [NOMESCO Classification of Surgical Procedures Version 1.6](http://pub.e-tervis.ee/classifications/NCSP/7/NCSP.pdf), which remains valid as of 2024. 
-Although TEHIK has restored the full hierarchy of the NOMESCO classification system from 2022 to 2024, 
-we haven't updated the NCSP code set since 2022. Despite this, the majority of the codes have remained unchanged.
 
 
 The mappings in this CSV file were created using the OHDSI tool [Usagi](https://ohdsi.github.io/Usagi/). 
@@ -27,7 +25,7 @@ We also considered mappings that other researchers have published:
 CSV file for NCSP codes mappings contain the following columns:
 
 - **source_code:** The original code from the respective code set. The source code being translated into a Standard Concept. 
-- **source_concept_id:** A foreign key to the Source Concept (refers to OMOP CDM CONCEPT table) that is being translated into a Standard Concept. 
+- **source_concept_id:** A foreign key to the Source Concept (refers to OMOP CDM CONCEPT table) that is being translated into a Standard Concept. For NCSP codes, we created custom concepts with concept IDs greater than 2 billion.
 - **source_vocabulary_id:** A foreign key to the OMOP CDM VOCABULARY table defining the vocabulary of the source code that is being translated to a Standard Concept. 
 - **source_code_type:** The type of the source code ('ncsp').
 - **source_code_description:** A brief description of the source code.
