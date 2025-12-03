@@ -1,7 +1,7 @@
 # Diseases-Related Code Sets Translations to OMOP CDM Standard Concepts
 
-This directory contains translations of various diseases-related code sets to OMOP CDM standard concepts.  
-Below is a brief description of each code set and the corresponding CSV files located in this directory.
+This directory contains translations of various disease-related code sets to OMOP CDM standard concepts.  
+Below is a brief description of each code set, along with the corresponding CSV files located in this directory.
 
 ## Code Sets
 
@@ -17,10 +17,10 @@ including clinical stage codes and TNM category codes. Additionally, Gleason Sco
 These codes represent the classification of diseases and related health problems. 
 Codes and mappings are sourced from [Athena](https://athena.ohdsi.org/search-terms/start), a repository for Standardized Vocabularies maintained 
 by OHDSI (Observational Health Data Sciences and Informatics). 
-Additionally, we have supplemented the ICD10 codes from Athena with more specific ICD10 codes used in Estonia (e.g., more detailed codes from chapter F00–F99, etc.).
+Additionally, we have supplemented the ICD-10 codes from Athena with more specific ICD-10 codes used in Estonia (e.g., more detailed codes from chapter F00–F99, etc.).
 
 - **File:** [icd10_mappings](icd10_mappings.csv)
-- **Description:** This file contains a list of ICD10 codes representing the diseases and health problems, along with their mappings to OMOP CDM standard concepts.
+- **Description:** This file contains a list of ICD-10 codes representing the diseases and health problems, along with their mappings to OMOP CDM standard concepts.
 
 
 ### 3. ICD-O-3 Codes
@@ -43,18 +43,18 @@ The mappings in this CSV file were created using the OHDSI tool [Usagi](https://
 
 
 ### 5. Conditions, Symptoms, and Side-Effects from Unstructured Data
-These concepts relate to conditions, symptoms, and side-effects that are extracted and classified from Estonian health data.
+These concepts relate to conditions, symptoms, and side effects that are extracted and classified from Estonian health data.
 
 The mappings in this CSV file were created using the OHDSI tool [Usagi](https://ohdsi.github.io/Usagi/).
 
 - **File:** [side_effects_mappings](side_effects_mappings.csv)
-- **Description:** This file contains a list of concepts related to symptoms and side-effects, along with their mappings to OMOP CDM standard concepts.
+- **Description:** This file contains a list of concepts related to symptoms and side effects, along with their mappings to OMOP CDM standard concepts.
 
 
 ## The Structure of Mapping files
 Each CSV file contains the following columns:
 
-- **source_code:** The original code or concept from the respective code set. The source code being translated into a Standard Concept. 
+- **source_code:** The original code or concept from the respective code set. The source code is being translated into a Standard Concept. 
 - **source_concept_id:** A foreign key to the Source Concept (refers to OMOP CDM CONCEPT table) that is being translated into a Standard Concept. 
 - **source_vocabulary_id:** A foreign key to the OMOP CDM VOCABULARY table defining the vocabulary of the source code that is being translated to a Standard Concept. 
 - **source_code_type:** The type of the source code (e.g., cancer, icd10, icdo3, pathology, side_effects).

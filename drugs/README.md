@@ -1,12 +1,12 @@
 # Drug-Related Code Sets Translations to OMOP CDM Standard Concepts
 
 This directory contains translations of various drug-related code sets to OMOP CDM standard concepts.  
-Below is a brief description of each code set and the corresponding CSV files located in this directory.
+Below is a brief description of each code set, along with the corresponding CSV files located in this directory.
 
 ## Code Sets
 
 ### 1. ATC Codes
-The Anatomical Therapeutic Chemical (ATC) classification system is used to classify drugs according to their therapeutic use and chemical characteristics.
+The Anatomical Therapeutic Chemical (ATC) classification system categorises drugs based on their therapeutic use and chemical properties.
 
 Codes and mappings are sourced from [Athena](https://athena.ohdsi.org/search-terms/start), a repository for Standardized Vocabularies maintained 
 by OHDSI (Observational Health Data Sciences and Informatics). 
@@ -17,7 +17,7 @@ Additionally, we have supplemented the ATC codes from Athena with some additiona
 
 ### 2. Local Drug Package Codes
 These codes represent specific drug products available at [The State Agency of Medicines](https://ravimiregister.ee/). 
-A package code is a combination of 7 numbers, which identifies a medicine package. 
+A package code is a combination of 7 digits that identifies a specific medicine package. 
 
 The mappings in this CSV file were created using the OHDSI tool [Usagi](https://ohdsi.github.io/Usagi/).
 
@@ -26,7 +26,7 @@ The mappings in this CSV file were created using the OHDSI tool [Usagi](https://
 
 ### 3. Local Drug Administration Route Concepts
 These concepts specify the various routes by which drugs can be administered (e.g., oral use, intravenous use, etc.).
-The information about drug administration routes is available at [The State Agency of Medicines](https://ravimiregister.ee/).
+Information on drug administration routes is available at [The State Agency of Medicines](https://ravimiregister.ee/).
 
 The mappings in this CSV file were created using the OHDSI tool [Usagi](https://ohdsi.github.io/Usagi/).
 
@@ -34,8 +34,8 @@ The mappings in this CSV file were created using the OHDSI tool [Usagi](https://
 - **Description:** This file contains local concepts for drug administration routes, along with their mappings to OMOP CDM standard concepts.
 
 ### 4. COVID-19 Vaccine Codes (Manufacturer-specific)
-This code set includes codes for COVID-19 vaccines categorized by their manufacturers. 
-These codes help in tracking and analyzing the administration of different COVID-19 vaccines.
+This code set includes codes for COVID-19 vaccines categorised by their manufacturers. 
+These codes help track and analyse the administration of different COVID-19 vaccines.
 
 The mappings in this CSV file were created using the OHDSI tool [Usagi](https://ohdsi.github.io/Usagi/).
 
@@ -45,7 +45,7 @@ The mappings in this CSV file were created using the OHDSI tool [Usagi](https://
 ## The Structure of Mapping files
 Each CSV file contains the following columns:
 
-- **source_code:** The original code or concept from the respective code set. The source code being translated into a Standard Concept. 
+- **source_code:** The original code or concept from the respective code set. The source code is being translated into a Standard Concept. 
 - **source_concept_id:** A foreign key to the Source Concept (refers to OMOP CDM CONCEPT table) that is being translated into a Standard Concept. For drug package codes, we created custom concepts with concept IDs greater than 2 billion.
 - **source_vocabulary_id:** A foreign key to the OMOP CDM VOCABULARY table defining the vocabulary of the source code that is being translated to a Standard Concept. 
 - **source_code_type:** The type of the source code (e.g., atc, drug_packages, drug_admin_route, vaccines).

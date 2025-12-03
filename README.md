@@ -3,8 +3,8 @@
 This repository contains translations of various health-related code sets used in the Estonian healthcare system to [OMOP CDM](https://ohdsi.github.io/CommonDataModel/index.html) (Common Data Model) standard concepts. 
 The translations aim to facilitate the integration and standardization of health data for research and analytics.
 
-All mappings in this repository use **OMOP CDM Vocabulary v5.0 (released on 30-AUG-24)**. 
-For more details, see the [relase notes](https://github.com/OHDSI/Vocabulary-v5.0/releases/tag/v20240830_1725004358.000000).
+All mappings in this repository use **OMOP CDM Vocabulary version v20250827 (released on 27-AUG-25)**. 
+For more details, see the [relase notes](https://github.com/OHDSI/Vocabulary-v5.0/releases/tag/v20250827_1756288395.000000).
 
 ## Repository Structure
 

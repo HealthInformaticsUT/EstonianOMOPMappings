@@ -62,301 +62,301 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 14580-5,ABO-veregrupp vastsündinul,ABO group [Type] in Blood from Newborn,3010652,Group AB,Group AB,36311267,LA28449-9
 14908-8,RhD antigeen vastsündinul,Rh [Type] in Blood from Newborn,3017403,RhD negative,Rh-,36309493,LA27325-2
 14908-8,RhD antigeen vastsündinul,Rh [Type] in Blood from Newborn,3017403,RhD positive,Rh+,36311127,LA27326-0
-15527-5,Mandlivastane IgE seerumis/plasmas (immunoblot),Almond IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964724,,2,45878148,LA6113-0
+15527-5,Mandlivastane IgE seerumis/plasmas (immunoblot),Almond IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964724,,2 or more,45878148,LA6113-0
 15527-5,Mandlivastane IgE seerumis/plasmas (immunoblot),Almond IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964724,,6,45878254,LA10138-8
 15527-5,Mandlivastane IgE seerumis/plasmas (immunoblot),Almond IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964724,,1,45878303,LA6112-2
 15527-5,Mandlivastane IgE seerumis/plasmas (immunoblot),Almond IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964724,,4,45878304,LA6115-5
 15527-5,Mandlivastane IgE seerumis/plasmas (immunoblot),Almond IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964724,,3,45878305,LA6114-8
 15527-5,Mandlivastane IgE seerumis/plasmas (immunoblot),Almond IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964724,,5,45878730,LA10137-0
 15527-5,Mandlivastane IgE seerumis/plasmas (immunoblot),Almond IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964724,,0,45880618,LA6111-4
-15529-1,Lehmapiima komponendi Bos d 4 (alfalaktalbumiin) vastane IgE seerumis/plasmas (immunoblot),Lactalbumin alpha IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965882,,2,45878148,LA6113-0
+15529-1,Lehmapiima komponendi Bos d 4 (alfalaktalbumiin) vastane IgE seerumis/plasmas (immunoblot),Lactalbumin alpha IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965882,,2 or more,45878148,LA6113-0
 15529-1,Lehmapiima komponendi Bos d 4 (alfalaktalbumiin) vastane IgE seerumis/plasmas (immunoblot),Lactalbumin alpha IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965882,,6,45878254,LA10138-8
 15529-1,Lehmapiima komponendi Bos d 4 (alfalaktalbumiin) vastane IgE seerumis/plasmas (immunoblot),Lactalbumin alpha IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965882,,1,45878303,LA6112-2
 15529-1,Lehmapiima komponendi Bos d 4 (alfalaktalbumiin) vastane IgE seerumis/plasmas (immunoblot),Lactalbumin alpha IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965882,,4,45878304,LA6115-5
 15529-1,Lehmapiima komponendi Bos d 4 (alfalaktalbumiin) vastane IgE seerumis/plasmas (immunoblot),Lactalbumin alpha IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965882,,3,45878305,LA6114-8
 15529-1,Lehmapiima komponendi Bos d 4 (alfalaktalbumiin) vastane IgE seerumis/plasmas (immunoblot),Lactalbumin alpha IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965882,,5,45878730,LA10137-0
 15529-1,Lehmapiima komponendi Bos d 4 (alfalaktalbumiin) vastane IgE seerumis/plasmas (immunoblot),Lactalbumin alpha IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965882,,0,45880618,LA6111-4
-15530-9,Alternaria alternata vastane IgE seerumis/plasmas (immunoblot),Alternaria alternata IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964987,,2,45878148,LA6113-0
+15530-9,Alternaria alternata vastane IgE seerumis/plasmas (immunoblot),Alternaria alternata IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964987,,2 or more,45878148,LA6113-0
 15530-9,Alternaria alternata vastane IgE seerumis/plasmas (immunoblot),Alternaria alternata IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964987,,6,45878254,LA10138-8
 15530-9,Alternaria alternata vastane IgE seerumis/plasmas (immunoblot),Alternaria alternata IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964987,,1,45878303,LA6112-2
 15530-9,Alternaria alternata vastane IgE seerumis/plasmas (immunoblot),Alternaria alternata IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964987,,4,45878304,LA6115-5
 15530-9,Alternaria alternata vastane IgE seerumis/plasmas (immunoblot),Alternaria alternata IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964987,,3,45878305,LA6114-8
 15530-9,Alternaria alternata vastane IgE seerumis/plasmas (immunoblot),Alternaria alternata IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964987,,5,45878730,LA10137-0
 15530-9,Alternaria alternata vastane IgE seerumis/plasmas (immunoblot),Alternaria alternata IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964987,,0,45880618,LA6111-4
-15539-0,Õunavastane IgE seerumis/plasmas (immunoblot),Apple IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965343,,2,45878148,LA6113-0
+15539-0,Õunavastane IgE seerumis/plasmas (immunoblot),Apple IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965343,,2 or more,45878148,LA6113-0
 15539-0,Õunavastane IgE seerumis/plasmas (immunoblot),Apple IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965343,,6,45878254,LA10138-8
 15539-0,Õunavastane IgE seerumis/plasmas (immunoblot),Apple IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965343,,1,45878303,LA6112-2
 15539-0,Õunavastane IgE seerumis/plasmas (immunoblot),Apple IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965343,,4,45878304,LA6115-5
 15539-0,Õunavastane IgE seerumis/plasmas (immunoblot),Apple IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965343,,3,45878305,LA6114-8
 15539-0,Õunavastane IgE seerumis/plasmas (immunoblot),Apple IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965343,,5,45878730,LA10137-0
 15539-0,Õunavastane IgE seerumis/plasmas (immunoblot),Apple IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965343,,0,45880618,LA6111-4
-15549-9,Aspergillus fumigatus vastane IgE seerumis/plasmas (immunoblot),Aspergillus fumigatus IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965467,,2,45878148,LA6113-0
+15549-9,Aspergillus fumigatus vastane IgE seerumis/plasmas (immunoblot),Aspergillus fumigatus IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965467,,2 or more,45878148,LA6113-0
 15549-9,Aspergillus fumigatus vastane IgE seerumis/plasmas (immunoblot),Aspergillus fumigatus IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965467,,6,45878254,LA10138-8
 15549-9,Aspergillus fumigatus vastane IgE seerumis/plasmas (immunoblot),Aspergillus fumigatus IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965467,,1,45878303,LA6112-2
 15549-9,Aspergillus fumigatus vastane IgE seerumis/plasmas (immunoblot),Aspergillus fumigatus IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965467,,4,45878304,LA6115-5
 15549-9,Aspergillus fumigatus vastane IgE seerumis/plasmas (immunoblot),Aspergillus fumigatus IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965467,,3,45878305,LA6114-8
 15549-9,Aspergillus fumigatus vastane IgE seerumis/plasmas (immunoblot),Aspergillus fumigatus IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965467,,5,45878730,LA10137-0
 15549-9,Aspergillus fumigatus vastane IgE seerumis/plasmas (immunoblot),Aspergillus fumigatus IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965467,,0,45880618,LA6111-4
-15568-9,Sojavastane IgE seerumis/plasmas (immunoblot),Soybean IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965307,,2,45878148,LA6113-0
+15568-9,Sojavastane IgE seerumis/plasmas (immunoblot),Soybean IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965307,,2 or more,45878148,LA6113-0
 15568-9,Sojavastane IgE seerumis/plasmas (immunoblot),Soybean IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965307,,6,45878254,LA10138-8
 15568-9,Sojavastane IgE seerumis/plasmas (immunoblot),Soybean IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965307,,1,45878303,LA6112-2
 15568-9,Sojavastane IgE seerumis/plasmas (immunoblot),Soybean IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965307,,4,45878304,LA6115-5
 15568-9,Sojavastane IgE seerumis/plasmas (immunoblot),Soybean IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965307,,3,45878305,LA6114-8
 15568-9,Sojavastane IgE seerumis/plasmas (immunoblot),Soybean IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965307,,5,45878730,LA10137-0
 15568-9,Sojavastane IgE seerumis/plasmas (immunoblot),Soybean IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965307,,0,45880618,LA6111-4
-15570-5,Mesilasmürgivastane IgE seerumis/plasmas (immunoblot),Honey bee IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966185,,2,45878148,LA6113-0
+15570-5,Mesilasmürgivastane IgE seerumis/plasmas (immunoblot),Honey bee IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966185,,2 or more,45878148,LA6113-0
 15570-5,Mesilasmürgivastane IgE seerumis/plasmas (immunoblot),Honey bee IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966185,,6,45878254,LA10138-8
 15570-5,Mesilasmürgivastane IgE seerumis/plasmas (immunoblot),Honey bee IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966185,,1,45878303,LA6112-2
 15570-5,Mesilasmürgivastane IgE seerumis/plasmas (immunoblot),Honey bee IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966185,,4,45878304,LA6115-5
 15570-5,Mesilasmürgivastane IgE seerumis/plasmas (immunoblot),Honey bee IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966185,,3,45878305,LA6114-8
 15570-5,Mesilasmürgivastane IgE seerumis/plasmas (immunoblot),Honey bee IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966185,,5,45878730,LA10137-0
 15570-5,Mesilasmürgivastane IgE seerumis/plasmas (immunoblot),Honey bee IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966185,,0,45880618,LA6111-4
-15577-0,Lehmapiima komponendi Bos d 5 (beetalaktoglobuliin) vastane IgE seerumis/plasmas (immunoblot),Beta lactoglobulin IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965203,,2,45878148,LA6113-0
+15577-0,Lehmapiima komponendi Bos d 5 (beetalaktoglobuliin) vastane IgE seerumis/plasmas (immunoblot),Beta lactoglobulin IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965203,,2 or more,45878148,LA6113-0
 15577-0,Lehmapiima komponendi Bos d 5 (beetalaktoglobuliin) vastane IgE seerumis/plasmas (immunoblot),Beta lactoglobulin IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965203,,6,45878254,LA10138-8
 15577-0,Lehmapiima komponendi Bos d 5 (beetalaktoglobuliin) vastane IgE seerumis/plasmas (immunoblot),Beta lactoglobulin IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965203,,1,45878303,LA6112-2
 15577-0,Lehmapiima komponendi Bos d 5 (beetalaktoglobuliin) vastane IgE seerumis/plasmas (immunoblot),Beta lactoglobulin IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965203,,4,45878304,LA6115-5
 15577-0,Lehmapiima komponendi Bos d 5 (beetalaktoglobuliin) vastane IgE seerumis/plasmas (immunoblot),Beta lactoglobulin IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965203,,3,45878305,LA6114-8
 15577-0,Lehmapiima komponendi Bos d 5 (beetalaktoglobuliin) vastane IgE seerumis/plasmas (immunoblot),Beta lactoglobulin IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965203,,5,45878730,LA10137-0
 15577-0,Lehmapiima komponendi Bos d 5 (beetalaktoglobuliin) vastane IgE seerumis/plasmas (immunoblot),Beta lactoglobulin IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965203,,0,45880618,LA6111-4
-15579-6,Arukase õietolmu vastane IgE seerumis/plasmas (immonoblot),Silver Birch IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965475,,2,45878148,LA6113-0
+15579-6,Arukase õietolmu vastane IgE seerumis/plasmas (immonoblot),Silver Birch IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965475,,2 or more,45878148,LA6113-0
 15579-6,Arukase õietolmu vastane IgE seerumis/plasmas (immonoblot),Silver Birch IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965475,,6,45878254,LA10138-8
 15579-6,Arukase õietolmu vastane IgE seerumis/plasmas (immonoblot),Silver Birch IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965475,,1,45878303,LA6112-2
 15579-6,Arukase õietolmu vastane IgE seerumis/plasmas (immonoblot),Silver Birch IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965475,,4,45878304,LA6115-5
 15579-6,Arukase õietolmu vastane IgE seerumis/plasmas (immonoblot),Silver Birch IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965475,,3,45878305,LA6114-8
 15579-6,Arukase õietolmu vastane IgE seerumis/plasmas (immonoblot),Silver Birch IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965475,,5,45878730,LA10137-0
 15579-6,Arukase õietolmu vastane IgE seerumis/plasmas (immonoblot),Silver Birch IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965475,,0,45880618,LA6111-4
-15590-3,Veise komponendi Bos d 6 (seerumi albumiin) vastane IgE seerumis/plasmas (immunoblot),Bovine serum albumin (BSA) IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965046,,2,45878148,LA6113-0
+15590-3,Veise komponendi Bos d 6 (seerumi albumiin) vastane IgE seerumis/plasmas (immunoblot),Bovine serum albumin (BSA) IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965046,,2 or more,45878148,LA6113-0
 15590-3,Veise komponendi Bos d 6 (seerumi albumiin) vastane IgE seerumis/plasmas (immunoblot),Bovine serum albumin (BSA) IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965046,,6,45878254,LA10138-8
 15590-3,Veise komponendi Bos d 6 (seerumi albumiin) vastane IgE seerumis/plasmas (immunoblot),Bovine serum albumin (BSA) IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965046,,1,45878303,LA6112-2
 15590-3,Veise komponendi Bos d 6 (seerumi albumiin) vastane IgE seerumis/plasmas (immunoblot),Bovine serum albumin (BSA) IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965046,,4,45878304,LA6115-5
 15590-3,Veise komponendi Bos d 6 (seerumi albumiin) vastane IgE seerumis/plasmas (immunoblot),Bovine serum albumin (BSA) IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965046,,3,45878305,LA6114-8
 15590-3,Veise komponendi Bos d 6 (seerumi albumiin) vastane IgE seerumis/plasmas (immunoblot),Bovine serum albumin (BSA) IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965046,,5,45878730,LA10137-0
 15590-3,Veise komponendi Bos d 6 (seerumi albumiin) vastane IgE seerumis/plasmas (immunoblot),Bovine serum albumin (BSA) IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965046,,0,45880618,LA6111-4
-15605-9,Porgandivastane IgE seerumis/plasmas (immunoblot),Carrot IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966246,,2,45878148,LA6113-0
+15605-9,Porgandivastane IgE seerumis/plasmas (immunoblot),Carrot IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966246,,2 or more,45878148,LA6113-0
 15605-9,Porgandivastane IgE seerumis/plasmas (immunoblot),Carrot IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966246,,6,45878254,LA10138-8
 15605-9,Porgandivastane IgE seerumis/plasmas (immunoblot),Carrot IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966246,,1,45878303,LA6112-2
 15605-9,Porgandivastane IgE seerumis/plasmas (immunoblot),Carrot IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966246,,4,45878304,LA6115-5
 15605-9,Porgandivastane IgE seerumis/plasmas (immunoblot),Carrot IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966246,,3,45878305,LA6114-8
 15605-9,Porgandivastane IgE seerumis/plasmas (immunoblot),Carrot IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966246,,5,45878730,LA10137-0
 15605-9,Porgandivastane IgE seerumis/plasmas (immunoblot),Carrot IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966246,,0,45880618,LA6111-4
-15606-7,Lehmapiima komponendi Bos d 8 (kaseiin) vastane (immunoblot),Casein IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964749,,2,45878148,LA6113-0
+15606-7,Lehmapiima komponendi Bos d 8 (kaseiin) vastane (immunoblot),Casein IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964749,,2 or more,45878148,LA6113-0
 15606-7,Lehmapiima komponendi Bos d 8 (kaseiin) vastane (immunoblot),Casein IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964749,,6,45878254,LA10138-8
 15606-7,Lehmapiima komponendi Bos d 8 (kaseiin) vastane (immunoblot),Casein IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964749,,1,45878303,LA6112-2
 15606-7,Lehmapiima komponendi Bos d 8 (kaseiin) vastane (immunoblot),Casein IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964749,,4,45878304,LA6115-5
 15606-7,Lehmapiima komponendi Bos d 8 (kaseiin) vastane (immunoblot),Casein IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964749,,3,45878305,LA6114-8
 15606-7,Lehmapiima komponendi Bos d 8 (kaseiin) vastane (immunoblot),Casein IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964749,,5,45878730,LA10137-0
 15606-7,Lehmapiima komponendi Bos d 8 (kaseiin) vastane (immunoblot),Casein IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964749,,0,45880618,LA6111-4
-15609-1,Kassi epiteeli ja kõõma vastane IgE seerumis/plasmas (immunoblot),Cat dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965661,,2,45878148,LA6113-0
+15609-1,Kassi epiteeli ja kõõma vastane IgE seerumis/plasmas (immunoblot),Cat dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965661,,2 or more,45878148,LA6113-0
 15609-1,Kassi epiteeli ja kõõma vastane IgE seerumis/plasmas (immunoblot),Cat dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965661,,6,45878254,LA10138-8
 15609-1,Kassi epiteeli ja kõõma vastane IgE seerumis/plasmas (immunoblot),Cat dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965661,,1,45878303,LA6112-2
 15609-1,Kassi epiteeli ja kõõma vastane IgE seerumis/plasmas (immunoblot),Cat dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965661,,4,45878304,LA6115-5
 15609-1,Kassi epiteeli ja kõõma vastane IgE seerumis/plasmas (immunoblot),Cat dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965661,,3,45878305,LA6114-8
 15609-1,Kassi epiteeli ja kõõma vastane IgE seerumis/plasmas (immunoblot),Cat dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965661,,5,45878730,LA10137-0
 15609-1,Kassi epiteeli ja kõõma vastane IgE seerumis/plasmas (immunoblot),Cat dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965661,,0,45880618,LA6111-4
-15618-2,Sellerivastane IgE seerumis/plasmas (immunoblot),Celery IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965969,,2,45878148,LA6113-0
+15618-2,Sellerivastane IgE seerumis/plasmas (immunoblot),Celery IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965969,,2 or more,45878148,LA6113-0
 15618-2,Sellerivastane IgE seerumis/plasmas (immunoblot),Celery IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965969,,6,45878254,LA10138-8
 15618-2,Sellerivastane IgE seerumis/plasmas (immunoblot),Celery IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965969,,1,45878303,LA6112-2
 15618-2,Sellerivastane IgE seerumis/plasmas (immunoblot),Celery IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965969,,4,45878304,LA6115-5
 15618-2,Sellerivastane IgE seerumis/plasmas (immunoblot),Celery IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965969,,3,45878305,LA6114-8
 15618-2,Sellerivastane IgE seerumis/plasmas (immunoblot),Celery IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965969,,5,45878730,LA10137-0
 15618-2,Sellerivastane IgE seerumis/plasmas (immunoblot),Celery IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965969,,0,45880618,LA6111-4
-15642-2,Cladosporium herbarum vastane IgE seerumis/plasmas (immunoblot),Cladosporium herbarum IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965635,,2,45878148,LA6113-0
+15642-2,Cladosporium herbarum vastane IgE seerumis/plasmas (immunoblot),Cladosporium herbarum IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965635,,2 or more,45878148,LA6113-0
 15642-2,Cladosporium herbarum vastane IgE seerumis/plasmas (immunoblot),Cladosporium herbarum IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965635,,6,45878254,LA10138-8
 15642-2,Cladosporium herbarum vastane IgE seerumis/plasmas (immunoblot),Cladosporium herbarum IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965635,,1,45878303,LA6112-2
 15642-2,Cladosporium herbarum vastane IgE seerumis/plasmas (immunoblot),Cladosporium herbarum IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965635,,4,45878304,LA6115-5
 15642-2,Cladosporium herbarum vastane IgE seerumis/plasmas (immunoblot),Cladosporium herbarum IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965635,,3,45878305,LA6114-8
 15642-2,Cladosporium herbarum vastane IgE seerumis/plasmas (immunoblot),Cladosporium herbarum IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965635,,5,45878730,LA10137-0
 15642-2,Cladosporium herbarum vastane IgE seerumis/plasmas (immunoblot),Cladosporium herbarum IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965635,,0,45880618,LA6111-4
-15650-5,Tursavastane IgE seerumis/plasmas (immunoblot),Codfish IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965957,,2,45878148,LA6113-0
+15650-5,Tursavastane IgE seerumis/plasmas (immunoblot),Codfish IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965957,,2 or more,45878148,LA6113-0
 15650-5,Tursavastane IgE seerumis/plasmas (immunoblot),Codfish IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965957,,6,45878254,LA10138-8
 15650-5,Tursavastane IgE seerumis/plasmas (immunoblot),Codfish IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965957,,1,45878303,LA6112-2
 15650-5,Tursavastane IgE seerumis/plasmas (immunoblot),Codfish IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965957,,4,45878304,LA6115-5
 15650-5,Tursavastane IgE seerumis/plasmas (immunoblot),Codfish IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965957,,3,45878305,LA6114-8
 15650-5,Tursavastane IgE seerumis/plasmas (immunoblot),Codfish IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965957,,5,45878730,LA10137-0
 15650-5,Tursavastane IgE seerumis/plasmas (immunoblot),Codfish IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965957,,0,45880618,LA6111-4
-15663-8,Krabivastane IgE seerumis/plasmas (immunoblot),Crab IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965835,,2,45878148,LA6113-0
+15663-8,Krabivastane IgE seerumis/plasmas (immunoblot),Crab IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965835,,2 or more,45878148,LA6113-0
 15663-8,Krabivastane IgE seerumis/plasmas (immunoblot),Crab IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965835,,6,45878254,LA10138-8
 15663-8,Krabivastane IgE seerumis/plasmas (immunoblot),Crab IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965835,,1,45878303,LA6112-2
 15663-8,Krabivastane IgE seerumis/plasmas (immunoblot),Crab IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965835,,4,45878304,LA6115-5
 15663-8,Krabivastane IgE seerumis/plasmas (immunoblot),Crab IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965835,,3,45878305,LA6114-8
 15663-8,Krabivastane IgE seerumis/plasmas (immunoblot),Crab IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965835,,5,45878730,LA10137-0
 15663-8,Krabivastane IgE seerumis/plasmas (immunoblot),Crab IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965835,,0,45880618,LA6111-4
-15680-2,Dermatophagoides farinae vastane IgE seerumis/plasmas (immunoblot),American house dust mite IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964879,,2,45878148,LA6113-0
+15680-2,Dermatophagoides farinae vastane IgE seerumis/plasmas (immunoblot),American house dust mite IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964879,,2 or more,45878148,LA6113-0
 15680-2,Dermatophagoides farinae vastane IgE seerumis/plasmas (immunoblot),American house dust mite IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964879,,6,45878254,LA10138-8
 15680-2,Dermatophagoides farinae vastane IgE seerumis/plasmas (immunoblot),American house dust mite IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964879,,1,45878303,LA6112-2
 15680-2,Dermatophagoides farinae vastane IgE seerumis/plasmas (immunoblot),American house dust mite IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964879,,4,45878304,LA6115-5
 15680-2,Dermatophagoides farinae vastane IgE seerumis/plasmas (immunoblot),American house dust mite IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964879,,3,45878305,LA6114-8
 15680-2,Dermatophagoides farinae vastane IgE seerumis/plasmas (immunoblot),American house dust mite IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964879,,5,45878730,LA10137-0
 15680-2,Dermatophagoides farinae vastane IgE seerumis/plasmas (immunoblot),American house dust mite IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964879,,0,45880618,LA6111-4
-15682-8,Dermatophagoides pteronyssinus vastane IgE seerumis/plasmas (immunoblot),European house dust mite IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964737,,2,45878148,LA6113-0
+15682-8,Dermatophagoides pteronyssinus vastane IgE seerumis/plasmas (immunoblot),European house dust mite IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964737,,2 or more,45878148,LA6113-0
 15682-8,Dermatophagoides pteronyssinus vastane IgE seerumis/plasmas (immunoblot),European house dust mite IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964737,,6,45878254,LA10138-8
 15682-8,Dermatophagoides pteronyssinus vastane IgE seerumis/plasmas (immunoblot),European house dust mite IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964737,,1,45878303,LA6112-2
 15682-8,Dermatophagoides pteronyssinus vastane IgE seerumis/plasmas (immunoblot),European house dust mite IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964737,,4,45878304,LA6115-5
 15682-8,Dermatophagoides pteronyssinus vastane IgE seerumis/plasmas (immunoblot),European house dust mite IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964737,,3,45878305,LA6114-8
 15682-8,Dermatophagoides pteronyssinus vastane IgE seerumis/plasmas (immunoblot),European house dust mite IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964737,,5,45878730,LA10137-0
 15682-8,Dermatophagoides pteronyssinus vastane IgE seerumis/plasmas (immunoblot),European house dust mite IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964737,,0,45880618,LA6111-4
-15685-1,Koera kõõma vastane IgE seerumis/plasmas (immunoblot),Dog dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965996,,2,45878148,LA6113-0
+15685-1,Koera kõõma vastane IgE seerumis/plasmas (immunoblot),Dog dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965996,,2 or more,45878148,LA6113-0
 15685-1,Koera kõõma vastane IgE seerumis/plasmas (immunoblot),Dog dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965996,,6,45878254,LA10138-8
 15685-1,Koera kõõma vastane IgE seerumis/plasmas (immunoblot),Dog dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965996,,1,45878303,LA6112-2
 15685-1,Koera kõõma vastane IgE seerumis/plasmas (immunoblot),Dog dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965996,,4,45878304,LA6115-5
 15685-1,Koera kõõma vastane IgE seerumis/plasmas (immunoblot),Dog dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965996,,3,45878305,LA6114-8
 15685-1,Koera kõõma vastane IgE seerumis/plasmas (immunoblot),Dog dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965996,,5,45878730,LA10137-0
 15685-1,Koera kõõma vastane IgE seerumis/plasmas (immunoblot),Dog dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965996,,0,45880618,LA6111-4
-15689-3,Munavalgevastane IgE seerumis/plasmas (immunoblot),Egg white IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964831,,2,45878148,LA6113-0
+15689-3,Munavalgevastane IgE seerumis/plasmas (immunoblot),Egg white IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964831,,2 or more,45878148,LA6113-0
 15689-3,Munavalgevastane IgE seerumis/plasmas (immunoblot),Egg white IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964831,,6,45878254,LA10138-8
 15689-3,Munavalgevastane IgE seerumis/plasmas (immunoblot),Egg white IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964831,,1,45878303,LA6112-2
 15689-3,Munavalgevastane IgE seerumis/plasmas (immunoblot),Egg white IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964831,,4,45878304,LA6115-5
 15689-3,Munavalgevastane IgE seerumis/plasmas (immunoblot),Egg white IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964831,,3,45878305,LA6114-8
 15689-3,Munavalgevastane IgE seerumis/plasmas (immunoblot),Egg white IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964831,,5,45878730,LA10137-0
 15689-3,Munavalgevastane IgE seerumis/plasmas (immunoblot),Egg white IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964831,,0,45880618,LA6111-4
-15691-9,Munakollasevastane IgE seerumis/plasmas (immunoblot),Egg yolk IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965646,,2,45878148,LA6113-0
+15691-9,Munakollasevastane IgE seerumis/plasmas (immunoblot),Egg yolk IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965646,,2 or more,45878148,LA6113-0
 15691-9,Munakollasevastane IgE seerumis/plasmas (immunoblot),Egg yolk IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965646,,6,45878254,LA10138-8
 15691-9,Munakollasevastane IgE seerumis/plasmas (immunoblot),Egg yolk IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965646,,1,45878303,LA6112-2
 15691-9,Munakollasevastane IgE seerumis/plasmas (immunoblot),Egg yolk IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965646,,4,45878304,LA6115-5
 15691-9,Munakollasevastane IgE seerumis/plasmas (immunoblot),Egg yolk IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965646,,3,45878305,LA6114-8
 15691-9,Munakollasevastane IgE seerumis/plasmas (immunoblot),Egg yolk IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965646,,5,45878730,LA10137-0
 15691-9,Munakollasevastane IgE seerumis/plasmas (immunoblot),Egg yolk IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965646,,0,45880618,LA6111-4
-15759-4,Merisea epiteeli vastane IgE seerumis/plasmas (immunoblot),Guinea pig epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965627,,2,45878148,LA6113-0
+15759-4,Merisea epiteeli vastane IgE seerumis/plasmas (immunoblot),Guinea pig epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965627,,2 or more,45878148,LA6113-0
 15759-4,Merisea epiteeli vastane IgE seerumis/plasmas (immunoblot),Guinea pig epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965627,,6,45878254,LA10138-8
 15759-4,Merisea epiteeli vastane IgE seerumis/plasmas (immunoblot),Guinea pig epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965627,,1,45878303,LA6112-2
 15759-4,Merisea epiteeli vastane IgE seerumis/plasmas (immunoblot),Guinea pig epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965627,,4,45878304,LA6115-5
 15759-4,Merisea epiteeli vastane IgE seerumis/plasmas (immunoblot),Guinea pig epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965627,,3,45878305,LA6114-8
 15759-4,Merisea epiteeli vastane IgE seerumis/plasmas (immunoblot),Guinea pig epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965627,,5,45878730,LA10137-0
 15759-4,Merisea epiteeli vastane IgE seerumis/plasmas (immunoblot),Guinea pig epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965627,,0,45880618,LA6111-4
-15765-1,Hamstri epiteeli vastane IgE seerumis/plasmas (immunoblot),Hamster epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966035,,2,45878148,LA6113-0
+15765-1,Hamstri epiteeli vastane IgE seerumis/plasmas (immunoblot),Hamster epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966035,,2 or more,45878148,LA6113-0
 15765-1,Hamstri epiteeli vastane IgE seerumis/plasmas (immunoblot),Hamster epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966035,,6,45878254,LA10138-8
 15765-1,Hamstri epiteeli vastane IgE seerumis/plasmas (immunoblot),Hamster epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966035,,1,45878303,LA6112-2
 15765-1,Hamstri epiteeli vastane IgE seerumis/plasmas (immunoblot),Hamster epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966035,,4,45878304,LA6115-5
 15765-1,Hamstri epiteeli vastane IgE seerumis/plasmas (immunoblot),Hamster epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966035,,3,45878305,LA6114-8
 15765-1,Hamstri epiteeli vastane IgE seerumis/plasmas (immunoblot),Hamster epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966035,,5,45878730,LA10137-0
 15765-1,Hamstri epiteeli vastane IgE seerumis/plasmas (immunoblot),Hamster epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966035,,0,45880618,LA6111-4
-15766-9,Sarapuupähklivastane IgE seerumis/plasmas (immunoblot),Hazelnut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966068,,2,45878148,LA6113-0
+15766-9,Sarapuupähklivastane IgE seerumis/plasmas (immunoblot),Hazelnut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966068,,2 or more,45878148,LA6113-0
 15766-9,Sarapuupähklivastane IgE seerumis/plasmas (immunoblot),Hazelnut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966068,,6,45878254,LA10138-8
 15766-9,Sarapuupähklivastane IgE seerumis/plasmas (immunoblot),Hazelnut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966068,,1,45878303,LA6112-2
 15766-9,Sarapuupähklivastane IgE seerumis/plasmas (immunoblot),Hazelnut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966068,,4,45878304,LA6115-5
 15766-9,Sarapuupähklivastane IgE seerumis/plasmas (immunoblot),Hazelnut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966068,,3,45878305,LA6114-8
 15766-9,Sarapuupähklivastane IgE seerumis/plasmas (immunoblot),Hazelnut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966068,,5,45878730,LA10137-0
 15766-9,Sarapuupähklivastane IgE seerumis/plasmas (immunoblot),Hazelnut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966068,,0,45880618,LA6111-4
-15767-7,Sarapuu õietolmu vastane IgE seerumis/plasmas (immunoblot),Hazelnut Pollen IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965766,,2,45878148,LA6113-0
+15767-7,Sarapuu õietolmu vastane IgE seerumis/plasmas (immunoblot),Hazelnut Pollen IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965766,,2 or more,45878148,LA6113-0
 15767-7,Sarapuu õietolmu vastane IgE seerumis/plasmas (immunoblot),Hazelnut Pollen IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965766,,6,45878254,LA10138-8
 15767-7,Sarapuu õietolmu vastane IgE seerumis/plasmas (immunoblot),Hazelnut Pollen IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965766,,1,45878303,LA6112-2
 15767-7,Sarapuu õietolmu vastane IgE seerumis/plasmas (immunoblot),Hazelnut Pollen IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965766,,4,45878304,LA6115-5
 15767-7,Sarapuu õietolmu vastane IgE seerumis/plasmas (immunoblot),Hazelnut Pollen IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965766,,3,45878305,LA6114-8
 15767-7,Sarapuu õietolmu vastane IgE seerumis/plasmas (immunoblot),Hazelnut Pollen IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965766,,5,45878730,LA10137-0
 15767-7,Sarapuu õietolmu vastane IgE seerumis/plasmas (immunoblot),Hazelnut Pollen IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965766,,0,45880618,LA6111-4
-15784-2,Hobuse kõõma vastane IgE seerumis/plasmas (immunoblot),Horse dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965180,,2,45878148,LA6113-0
+15784-2,Hobuse kõõma vastane IgE seerumis/plasmas (immunoblot),Horse dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965180,,2 or more,45878148,LA6113-0
 15784-2,Hobuse kõõma vastane IgE seerumis/plasmas (immunoblot),Horse dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965180,,6,45878254,LA10138-8
 15784-2,Hobuse kõõma vastane IgE seerumis/plasmas (immunoblot),Horse dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965180,,1,45878303,LA6112-2
 15784-2,Hobuse kõõma vastane IgE seerumis/plasmas (immunoblot),Horse dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965180,,4,45878304,LA6115-5
 15784-2,Hobuse kõõma vastane IgE seerumis/plasmas (immunoblot),Horse dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965180,,3,45878305,LA6114-8
 15784-2,Hobuse kõõma vastane IgE seerumis/plasmas (immunoblot),Horse dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965180,,5,45878730,LA10137-0
 15784-2,Hobuse kõõma vastane IgE seerumis/plasmas (immunoblot),Horse dander IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965180,,0,45880618,LA6111-4
-15863-4,Puju õietolmu vastane IgE seerumis/plasmas (immunoblot),Mugwort IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966767,,2,45878148,LA6113-0
+15863-4,Puju õietolmu vastane IgE seerumis/plasmas (immunoblot),Mugwort IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966767,,2 or more,45878148,LA6113-0
 15863-4,Puju õietolmu vastane IgE seerumis/plasmas (immunoblot),Mugwort IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966767,,6,45878254,LA10138-8
 15863-4,Puju õietolmu vastane IgE seerumis/plasmas (immunoblot),Mugwort IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966767,,1,45878303,LA6112-2
 15863-4,Puju õietolmu vastane IgE seerumis/plasmas (immunoblot),Mugwort IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966767,,4,45878304,LA6115-5
 15863-4,Puju õietolmu vastane IgE seerumis/plasmas (immunoblot),Mugwort IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966767,,3,45878305,LA6114-8
 15863-4,Puju õietolmu vastane IgE seerumis/plasmas (immunoblot),Mugwort IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966767,,5,45878730,LA10137-0
 15863-4,Puju õietolmu vastane IgE seerumis/plasmas (immunoblot),Mugwort IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966767,,0,45880618,LA6111-4
-15875-8,Tamme õietolmu vastane IgE seerumis/plasmas (immunoblot),White Oak IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965362,,2,45878148,LA6113-0
+15875-8,Tamme õietolmu vastane IgE seerumis/plasmas (immunoblot),White Oak IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965362,,2 or more,45878148,LA6113-0
 15875-8,Tamme õietolmu vastane IgE seerumis/plasmas (immunoblot),White Oak IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965362,,6,45878254,LA10138-8
 15875-8,Tamme õietolmu vastane IgE seerumis/plasmas (immunoblot),White Oak IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965362,,1,45878303,LA6112-2
 15875-8,Tamme õietolmu vastane IgE seerumis/plasmas (immunoblot),White Oak IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965362,,4,45878304,LA6115-5
 15875-8,Tamme õietolmu vastane IgE seerumis/plasmas (immunoblot),White Oak IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965362,,3,45878305,LA6114-8
 15875-8,Tamme õietolmu vastane IgE seerumis/plasmas (immunoblot),White Oak IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965362,,5,45878730,LA10137-0
 15875-8,Tamme õietolmu vastane IgE seerumis/plasmas (immunoblot),White Oak IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965362,,0,45880618,LA6111-4
-15894-9,Apelsinivastane IgE seerumis/plasmas (immunoblot),Orange IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965058,,2,45878148,LA6113-0
+15894-9,Apelsinivastane IgE seerumis/plasmas (immunoblot),Orange IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965058,,2 or more,45878148,LA6113-0
 15894-9,Apelsinivastane IgE seerumis/plasmas (immunoblot),Orange IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965058,,6,45878254,LA10138-8
 15894-9,Apelsinivastane IgE seerumis/plasmas (immunoblot),Orange IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965058,,1,45878303,LA6112-2
 15894-9,Apelsinivastane IgE seerumis/plasmas (immunoblot),Orange IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965058,,4,45878304,LA6115-5
 15894-9,Apelsinivastane IgE seerumis/plasmas (immunoblot),Orange IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965058,,3,45878305,LA6114-8
 15894-9,Apelsinivastane IgE seerumis/plasmas (immunoblot),Orange IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965058,,5,45878730,LA10137-0
 15894-9,Apelsinivastane IgE seerumis/plasmas (immunoblot),Orange IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965058,,0,45880618,LA6111-4
-15917-8,Maapähklivastane IgE seerumis/plasmas (immunoblot),Peanut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965920,,2,45878148,LA6113-0
+15917-8,Maapähklivastane IgE seerumis/plasmas (immunoblot),Peanut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965920,,2 or more,45878148,LA6113-0
 15917-8,Maapähklivastane IgE seerumis/plasmas (immunoblot),Peanut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965920,,6,45878254,LA10138-8
 15917-8,Maapähklivastane IgE seerumis/plasmas (immunoblot),Peanut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965920,,1,45878303,LA6112-2
 15917-8,Maapähklivastane IgE seerumis/plasmas (immunoblot),Peanut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965920,,4,45878304,LA6115-5
 15917-8,Maapähklivastane IgE seerumis/plasmas (immunoblot),Peanut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965920,,3,45878305,LA6114-8
 15917-8,Maapähklivastane IgE seerumis/plasmas (immunoblot),Peanut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965920,,5,45878730,LA10137-0
 15917-8,Maapähklivastane IgE seerumis/plasmas (immunoblot),Peanut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965920,,0,45880618,LA6111-4
-15924-4,Penicillium notatum vastane IgE seerumis/plasmas (immunoblot),Penicillium notatum IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965114,,2,45878148,LA6113-0
+15924-4,Penicillium notatum vastane IgE seerumis/plasmas (immunoblot),Penicillium notatum IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965114,,2 or more,45878148,LA6113-0
 15924-4,Penicillium notatum vastane IgE seerumis/plasmas (immunoblot),Penicillium notatum IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965114,,6,45878254,LA10138-8
 15924-4,Penicillium notatum vastane IgE seerumis/plasmas (immunoblot),Penicillium notatum IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965114,,1,45878303,LA6112-2
 15924-4,Penicillium notatum vastane IgE seerumis/plasmas (immunoblot),Penicillium notatum IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965114,,4,45878304,LA6115-5
 15924-4,Penicillium notatum vastane IgE seerumis/plasmas (immunoblot),Penicillium notatum IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965114,,3,45878305,LA6114-8
 15924-4,Penicillium notatum vastane IgE seerumis/plasmas (immunoblot),Penicillium notatum IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965114,,5,45878730,LA10137-0
 15924-4,Penicillium notatum vastane IgE seerumis/plasmas (immunoblot),Penicillium notatum IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965114,,0,45880618,LA6111-4
-15952-5,Teelehe õietolmu vastane IgE seerumis/plasmas (immunoblot),English plantain IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966592,,2,45878148,LA6113-0
+15952-5,Teelehe õietolmu vastane IgE seerumis/plasmas (immunoblot),English plantain IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966592,,2 or more,45878148,LA6113-0
 15952-5,Teelehe õietolmu vastane IgE seerumis/plasmas (immunoblot),English plantain IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966592,,6,45878254,LA10138-8
 15952-5,Teelehe õietolmu vastane IgE seerumis/plasmas (immunoblot),English plantain IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966592,,1,45878303,LA6112-2
 15952-5,Teelehe õietolmu vastane IgE seerumis/plasmas (immunoblot),English plantain IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966592,,4,45878304,LA6115-5
 15952-5,Teelehe õietolmu vastane IgE seerumis/plasmas (immunoblot),English plantain IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966592,,3,45878305,LA6114-8
 15952-5,Teelehe õietolmu vastane IgE seerumis/plasmas (immunoblot),English plantain IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966592,,5,45878730,LA10137-0
 15952-5,Teelehe õietolmu vastane IgE seerumis/plasmas (immunoblot),English plantain IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966592,,0,45880618,LA6111-4
-15957-4,Kartulivastane IgE seerumis/plasmas (immunoblot),Potato IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965140,,2,45878148,LA6113-0
+15957-4,Kartulivastane IgE seerumis/plasmas (immunoblot),Potato IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965140,,2 or more,45878148,LA6113-0
 15957-4,Kartulivastane IgE seerumis/plasmas (immunoblot),Potato IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965140,,6,45878254,LA10138-8
 15957-4,Kartulivastane IgE seerumis/plasmas (immunoblot),Potato IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965140,,1,45878303,LA6112-2
 15957-4,Kartulivastane IgE seerumis/plasmas (immunoblot),Potato IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965140,,4,45878304,LA6115-5
 15957-4,Kartulivastane IgE seerumis/plasmas (immunoblot),Potato IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965140,,3,45878305,LA6114-8
 15957-4,Kartulivastane IgE seerumis/plasmas (immunoblot),Potato IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965140,,5,45878730,LA10137-0
 15957-4,Kartulivastane IgE seerumis/plasmas (immunoblot),Potato IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965140,,0,45880618,LA6111-4
-15971-5,Küüliku epiteeli vastane IgE seerumis/plasmas (immunoblot),Rabbit epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965844,,2,45878148,LA6113-0
+15971-5,Küüliku epiteeli vastane IgE seerumis/plasmas (immunoblot),Rabbit epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965844,,2 or more,45878148,LA6113-0
 15971-5,Küüliku epiteeli vastane IgE seerumis/plasmas (immunoblot),Rabbit epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965844,,6,45878254,LA10138-8
 15971-5,Küüliku epiteeli vastane IgE seerumis/plasmas (immunoblot),Rabbit epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965844,,1,45878303,LA6112-2
 15971-5,Küüliku epiteeli vastane IgE seerumis/plasmas (immunoblot),Rabbit epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965844,,4,45878304,LA6115-5
 15971-5,Küüliku epiteeli vastane IgE seerumis/plasmas (immunoblot),Rabbit epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965844,,3,45878305,LA6114-8
 15971-5,Küüliku epiteeli vastane IgE seerumis/plasmas (immunoblot),Rabbit epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965844,,5,45878730,LA10137-0
 15971-5,Küüliku epiteeli vastane IgE seerumis/plasmas (immunoblot),Rabbit epithelium IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965844,,0,45880618,LA6111-4
-15997-0,Rukki õietolmu vastane IgE seerumis/plasmas (immunoblot),Cultivated Rye IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964744,,2,45878148,LA6113-0
+15997-0,Rukki õietolmu vastane IgE seerumis/plasmas (immunoblot),Cultivated Rye IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964744,,2 or more,45878148,LA6113-0
 15997-0,Rukki õietolmu vastane IgE seerumis/plasmas (immunoblot),Cultivated Rye IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964744,,6,45878254,LA10138-8
 15997-0,Rukki õietolmu vastane IgE seerumis/plasmas (immunoblot),Cultivated Rye IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964744,,1,45878303,LA6112-2
 15997-0,Rukki õietolmu vastane IgE seerumis/plasmas (immunoblot),Cultivated Rye IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964744,,4,45878304,LA6115-5
 15997-0,Rukki õietolmu vastane IgE seerumis/plasmas (immunoblot),Cultivated Rye IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964744,,3,45878305,LA6114-8
 15997-0,Rukki õietolmu vastane IgE seerumis/plasmas (immunoblot),Cultivated Rye IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964744,,5,45878730,LA10137-0
 15997-0,Rukki õietolmu vastane IgE seerumis/plasmas (immunoblot),Cultivated Rye IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964744,,0,45880618,LA6111-4
-15998-8,Rukkivastane IgE seerumis/plasmas (immunoblot),Rye IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966552,,2,45878148,LA6113-0
+15998-8,Rukkivastane IgE seerumis/plasmas (immunoblot),Rye IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966552,,2 or more,45878148,LA6113-0
 15998-8,Rukkivastane IgE seerumis/plasmas (immunoblot),Rye IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966552,,6,45878254,LA10138-8
 15998-8,Rukkivastane IgE seerumis/plasmas (immunoblot),Rye IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966552,,1,45878303,LA6112-2
 15998-8,Rukkivastane IgE seerumis/plasmas (immunoblot),Rye IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966552,,4,45878304,LA6115-5
 15998-8,Rukkivastane IgE seerumis/plasmas (immunoblot),Rye IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966552,,3,45878305,LA6114-8
 15998-8,Rukkivastane IgE seerumis/plasmas (immunoblot),Rye IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966552,,5,45878730,LA10137-0
 15998-8,Rukkivastane IgE seerumis/plasmas (immunoblot),Rye IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966552,,0,45880618,LA6111-4
-16014-3,Seesamiseemne vastane IgE seerumis/plasmas (immunoblot),Sesame Seed IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966554,,2,45878148,LA6113-0
+16014-3,Seesamiseemne vastane IgE seerumis/plasmas (immunoblot),Sesame Seed IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966554,,2 or more,45878148,LA6113-0
 16014-3,Seesamiseemne vastane IgE seerumis/plasmas (immunoblot),Sesame Seed IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966554,,6,45878254,LA10138-8
 16014-3,Seesamiseemne vastane IgE seerumis/plasmas (immunoblot),Sesame Seed IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966554,,1,45878303,LA6112-2
 16014-3,Seesamiseemne vastane IgE seerumis/plasmas (immunoblot),Sesame Seed IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966554,,4,45878304,LA6115-5
 16014-3,Seesamiseemne vastane IgE seerumis/plasmas (immunoblot),Sesame Seed IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966554,,3,45878305,LA6114-8
 16014-3,Seesamiseemne vastane IgE seerumis/plasmas (immunoblot),Sesame Seed IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966554,,5,45878730,LA10137-0
 16014-3,Seesamiseemne vastane IgE seerumis/plasmas (immunoblot),Sesame Seed IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966554,,0,45880618,LA6111-4
-16054-9,Timuti õietolmu vastane IgE seerumis/plasmas (immunoblot),Timothy IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964963,,2,45878148,LA6113-0
+16054-9,Timuti õietolmu vastane IgE seerumis/plasmas (immunoblot),Timothy IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964963,,2 or more,45878148,LA6113-0
 16054-9,Timuti õietolmu vastane IgE seerumis/plasmas (immunoblot),Timothy IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964963,,6,45878254,LA10138-8
 16054-9,Timuti õietolmu vastane IgE seerumis/plasmas (immunoblot),Timothy IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964963,,1,45878303,LA6112-2
 16054-9,Timuti õietolmu vastane IgE seerumis/plasmas (immunoblot),Timothy IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964963,,4,45878304,LA6115-5
 16054-9,Timuti õietolmu vastane IgE seerumis/plasmas (immunoblot),Timothy IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964963,,3,45878305,LA6114-8
 16054-9,Timuti õietolmu vastane IgE seerumis/plasmas (immunoblot),Timothy IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964963,,5,45878730,LA10137-0
 16054-9,Timuti õietolmu vastane IgE seerumis/plasmas (immunoblot),Timothy IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964963,,0,45880618,LA6111-4
-16057-2,Tomativastane IgE seerumis/plasmas (immunoblot),Tomato IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966272,,2,45878148,LA6113-0
+16057-2,Tomativastane IgE seerumis/plasmas (immunoblot),Tomato IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966272,,2 or more,45878148,LA6113-0
 16057-2,Tomativastane IgE seerumis/plasmas (immunoblot),Tomato IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966272,,6,45878254,LA10138-8
 16057-2,Tomativastane IgE seerumis/plasmas (immunoblot),Tomato IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966272,,1,45878303,LA6112-2
 16057-2,Tomativastane IgE seerumis/plasmas (immunoblot),Tomato IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966272,,4,45878304,LA6115-5
 16057-2,Tomativastane IgE seerumis/plasmas (immunoblot),Tomato IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966272,,3,45878305,LA6114-8
 16057-2,Tomativastane IgE seerumis/plasmas (immunoblot),Tomato IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966272,,5,45878730,LA10137-0
 16057-2,Tomativastane IgE seerumis/plasmas (immunoblot),Tomato IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966272,,0,45880618,LA6111-4
-16074-7,Kreeka pähkli vastane IgE seerumis/plasmas (immunoblot),Walnut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965857,,2,45878148,LA6113-0
+16074-7,Kreeka pähkli vastane IgE seerumis/plasmas (immunoblot),Walnut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965857,,2 or more,45878148,LA6113-0
 16074-7,Kreeka pähkli vastane IgE seerumis/plasmas (immunoblot),Walnut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965857,,6,45878254,LA10138-8
 16074-7,Kreeka pähkli vastane IgE seerumis/plasmas (immunoblot),Walnut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965857,,1,45878303,LA6112-2
 16074-7,Kreeka pähkli vastane IgE seerumis/plasmas (immunoblot),Walnut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965857,,4,45878304,LA6115-5
 16074-7,Kreeka pähkli vastane IgE seerumis/plasmas (immunoblot),Walnut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965857,,3,45878305,LA6114-8
 16074-7,Kreeka pähkli vastane IgE seerumis/plasmas (immunoblot),Walnut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965857,,5,45878730,LA10137-0
 16074-7,Kreeka pähkli vastane IgE seerumis/plasmas (immunoblot),Walnut IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965857,,0,45880618,LA6111-4
-16082-0,Herilasmürgivastane IgE seerumis/plasmas (immunoblot),Yellow Jacket IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965156,,2,45878148,LA6113-0
+16082-0,Herilasmürgivastane IgE seerumis/plasmas (immunoblot),Yellow Jacket IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965156,,2 or more,45878148,LA6113-0
 16082-0,Herilasmürgivastane IgE seerumis/plasmas (immunoblot),Yellow Jacket IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965156,,6,45878254,LA10138-8
 16082-0,Herilasmürgivastane IgE seerumis/plasmas (immunoblot),Yellow Jacket IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965156,,1,45878303,LA6112-2
 16082-0,Herilasmürgivastane IgE seerumis/plasmas (immunoblot),Yellow Jacket IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965156,,4,45878304,LA6115-5
 16082-0,Herilasmürgivastane IgE seerumis/plasmas (immunoblot),Yellow Jacket IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965156,,3,45878305,LA6114-8
 16082-0,Herilasmürgivastane IgE seerumis/plasmas (immunoblot),Yellow Jacket IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965156,,5,45878730,LA10137-0
 16082-0,Herilasmürgivastane IgE seerumis/plasmas (immunoblot),Yellow Jacket IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965156,,0,45880618,LA6111-4
-16085-3,Nisuvastane IgE seerumis/plasmas (immunoblot),Wheat IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966587,,2,45878148,LA6113-0
+16085-3,Nisuvastane IgE seerumis/plasmas (immunoblot),Wheat IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966587,,2 or more,45878148,LA6113-0
 16085-3,Nisuvastane IgE seerumis/plasmas (immunoblot),Wheat IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966587,,6,45878254,LA10138-8
 16085-3,Nisuvastane IgE seerumis/plasmas (immunoblot),Wheat IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966587,,1,45878303,LA6112-2
 16085-3,Nisuvastane IgE seerumis/plasmas (immunoblot),Wheat IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966587,,4,45878304,LA6115-5
@@ -376,7 +376,7 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 20966-8,Staphylococcus aureus külv,Staphylococcus sp identified in Specimen by Organism specific culture,3025722,,Staphylococcus aureus,36308185,LA19246-0
 20966-8,Staphylococcus aureus külv,Staphylococcus sp identified in Specimen by Organism specific culture,3025722,,Staphylococcus xylosus,36309817,LA19248-6
 20966-8,Staphylococcus aureus külv,Staphylococcus sp identified in Specimen by Organism specific culture,3025722,,Staphylococcus epidermidis,36310515,LA19247-8
-21060-9,Sanglepa õietolmu vastane IgE seerumis/plasmas (immunoblot),Grey Alder IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965417,,2,45878148,LA6113-0
+21060-9,Sanglepa õietolmu vastane IgE seerumis/plasmas (immunoblot),Grey Alder IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965417,,2 or more,45878148,LA6113-0
 21060-9,Sanglepa õietolmu vastane IgE seerumis/plasmas (immunoblot),Grey Alder IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965417,,6,45878254,LA10138-8
 21060-9,Sanglepa õietolmu vastane IgE seerumis/plasmas (immunoblot),Grey Alder IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965417,,1,45878303,LA6112-2
 21060-9,Sanglepa õietolmu vastane IgE seerumis/plasmas (immunoblot),Grey Alder IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965417,,4,45878304,LA6115-5
@@ -447,7 +447,7 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 25162-9,Hüaliinsilindrid (kvalitatiivne),Hyaline casts [Presence] in Urine sediment by Light microscopy,3033308,Negative,None,45878582,LA137-2
 25162-9,Hüaliinsilindrid (kvalitatiivne),Hyaline casts [Presence] in Urine sediment by Light microscopy,3033308,Rare,Rare,45880295,LA15679-6
 25162-9,Hüaliinsilindrid (kvalitatiivne),Hyaline casts [Presence] in Urine sediment by Light microscopy,3033308,Many,Many,45880913,LA15681-2
-25383-1,Lehmapiimavastane IgE seerumis/plasmas (immunoblot),Cow milk IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966508,,2,45878148,LA6113-0
+25383-1,Lehmapiimavastane IgE seerumis/plasmas (immunoblot),Cow milk IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966508,,2 or more,45878148,LA6113-0
 25383-1,Lehmapiimavastane IgE seerumis/plasmas (immunoblot),Cow milk IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966508,,6,45878254,LA10138-8
 25383-1,Lehmapiimavastane IgE seerumis/plasmas (immunoblot),Cow milk IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966508,,1,45878303,LA6112-2
 25383-1,Lehmapiimavastane IgE seerumis/plasmas (immunoblot),Cow milk IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966508,,4,45878304,LA6115-5
@@ -499,7 +499,7 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 30546-6,Polioviirus 1 vastased antikehad seerumis/plasmas,Polio virus 1 Ab [Presence] in Serum,3037755,,Positive,45884084,LA6576-8
 3206-0,VIII faktori inhibiitorid plasmas (tõlgendus),Coagulation factor VIII inhibitor [Presence] in Platelet poor plasma by Coagulation assay,3011699,Negative,Negative,45878583,LA6577-6
 3206-0,VIII faktori inhibiitorid plasmas (tõlgendus),Coagulation factor VIII inhibitor [Presence] in Platelet poor plasma by Coagulation assay,3011699,,Positive,45884084,LA6576-8
-32286-7,C-hepatiidi viiruse genotüüp seerumis/plasmas,Hepatitis C virus genotype [Identifier] in Serum or Plasma by NAA with probe detection,3002653,,2,45878148,LA6113-0
+32286-7,C-hepatiidi viiruse genotüüp seerumis/plasmas,Hepatitis C virus genotype [Identifier] in Serum or Plasma by NAA with probe detection,3002653,,2 or more,45878148,LA6113-0
 32286-7,C-hepatiidi viiruse genotüüp seerumis/plasmas,Hepatitis C virus genotype [Identifier] in Serum or Plasma by NAA with probe detection,3002653,,6,45878254,LA10138-8
 32286-7,C-hepatiidi viiruse genotüüp seerumis/plasmas,Hepatitis C virus genotype [Identifier] in Serum or Plasma by NAA with probe detection,3002653,,1,45878303,LA6112-2
 32286-7,C-hepatiidi viiruse genotüüp seerumis/plasmas,Hepatitis C virus genotype [Identifier] in Serum or Plasma by NAA with probe detection,3002653,,4,45878304,LA6115-5
@@ -710,49 +710,49 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 50956-2,HLA-B*57:01 alleel,HLA-B*57:01 [Presence],3029589,Positive,Positive,45884084,LA6576-8
 51539-5,Candida albicans vastane IgG seerumis/plasmas,Candida albicans IgG Ab [Presence] in Serum,3039051,,Negative,45878583,LA6577-6
 51539-5,Candida albicans vastane IgG seerumis/plasmas,Candida albicans IgG Ab [Presence] in Serum,3039051,,Positive,45884084,LA6576-8
-51555-1,Timuti komponendi Phl p 1 (heintaimede grupp 1) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966668,,2,45878148,LA6113-0
+51555-1,Timuti komponendi Phl p 1 (heintaimede grupp 1) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966668,,2 or more,45878148,LA6113-0
 51555-1,Timuti komponendi Phl p 1 (heintaimede grupp 1) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966668,,6,45878254,LA10138-8
 51555-1,Timuti komponendi Phl p 1 (heintaimede grupp 1) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966668,,1,45878303,LA6112-2
 51555-1,Timuti komponendi Phl p 1 (heintaimede grupp 1) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966668,,4,45878304,LA6115-5
 51555-1,Timuti komponendi Phl p 1 (heintaimede grupp 1) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966668,,3,45878305,LA6114-8
 51555-1,Timuti komponendi Phl p 1 (heintaimede grupp 1) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966668,,5,45878730,LA10137-0
 51555-1,Timuti komponendi Phl p 1 (heintaimede grupp 1) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966668,,0,45880618,LA6111-4
-51559-3,Timuti komponendi Phl p 7 (polkaltsiin) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 7 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965748,,2,45878148,LA6113-0
+51559-3,Timuti komponendi Phl p 7 (polkaltsiin) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 7 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965748,,2 or more,45878148,LA6113-0
 51559-3,Timuti komponendi Phl p 7 (polkaltsiin) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 7 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965748,,6,45878254,LA10138-8
 51559-3,Timuti komponendi Phl p 7 (polkaltsiin) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 7 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965748,,1,45878303,LA6112-2
 51559-3,Timuti komponendi Phl p 7 (polkaltsiin) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 7 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965748,,4,45878304,LA6115-5
 51559-3,Timuti komponendi Phl p 7 (polkaltsiin) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 7 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965748,,3,45878305,LA6114-8
 51559-3,Timuti komponendi Phl p 7 (polkaltsiin) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 7 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965748,,5,45878730,LA10137-0
 51559-3,Timuti komponendi Phl p 7 (polkaltsiin) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 7 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965748,,0,45880618,LA6111-4
-51561-9,Timuti õietolmu komponendi Phl p 12 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 12 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965361,,2,45878148,LA6113-0
+51561-9,Timuti õietolmu komponendi Phl p 12 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 12 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965361,,2 or more,45878148,LA6113-0
 51561-9,Timuti õietolmu komponendi Phl p 12 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 12 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965361,,6,45878254,LA10138-8
 51561-9,Timuti õietolmu komponendi Phl p 12 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 12 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965361,,1,45878303,LA6112-2
 51561-9,Timuti õietolmu komponendi Phl p 12 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 12 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965361,,4,45878304,LA6115-5
 51561-9,Timuti õietolmu komponendi Phl p 12 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 12 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965361,,3,45878305,LA6114-8
 51561-9,Timuti õietolmu komponendi Phl p 12 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 12 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965361,,5,45878730,LA10137-0
 51561-9,Timuti õietolmu komponendi Phl p 12 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 12 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965361,,0,45880618,LA6111-4
-51564-3,Timuti komponendi Phl p 5 (heintaimede grupp 5) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964762,,2,45878148,LA6113-0
+51564-3,Timuti komponendi Phl p 5 (heintaimede grupp 5) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964762,,2 or more,45878148,LA6113-0
 51564-3,Timuti komponendi Phl p 5 (heintaimede grupp 5) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964762,,6,45878254,LA10138-8
 51564-3,Timuti komponendi Phl p 5 (heintaimede grupp 5) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964762,,1,45878303,LA6112-2
 51564-3,Timuti komponendi Phl p 5 (heintaimede grupp 5) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964762,,4,45878304,LA6115-5
 51564-3,Timuti komponendi Phl p 5 (heintaimede grupp 5) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964762,,3,45878305,LA6114-8
 51564-3,Timuti komponendi Phl p 5 (heintaimede grupp 5) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964762,,5,45878730,LA10137-0
 51564-3,Timuti komponendi Phl p 5 (heintaimede grupp 5) vastane IgE seerumis/plasmas (immunoblot),Timothy recombinant (rPhl p) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964762,,0,45880618,LA6111-4
-51573-4,Kase õietolmu komponendi Bet v 1 (PR-10 valk) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966693,,2,45878148,LA6113-0
+51573-4,Kase õietolmu komponendi Bet v 1 (PR-10 valk) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966693,,2 or more,45878148,LA6113-0
 51573-4,Kase õietolmu komponendi Bet v 1 (PR-10 valk) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966693,,6,45878254,LA10138-8
 51573-4,Kase õietolmu komponendi Bet v 1 (PR-10 valk) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966693,,1,45878303,LA6112-2
 51573-4,Kase õietolmu komponendi Bet v 1 (PR-10 valk) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966693,,4,45878304,LA6115-5
 51573-4,Kase õietolmu komponendi Bet v 1 (PR-10 valk) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966693,,3,45878305,LA6114-8
 51573-4,Kase õietolmu komponendi Bet v 1 (PR-10 valk) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966693,,5,45878730,LA10137-0
 51573-4,Kase õietolmu komponendi Bet v 1 (PR-10 valk) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966693,,0,45880618,LA6111-4
-51574-2,Kase õietolmu komponendi Bet v 2 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965080,,2,45878148,LA6113-0
+51574-2,Kase õietolmu komponendi Bet v 2 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965080,,2 or more,45878148,LA6113-0
 51574-2,Kase õietolmu komponendi Bet v 2 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965080,,6,45878254,LA10138-8
 51574-2,Kase õietolmu komponendi Bet v 2 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965080,,1,45878303,LA6112-2
 51574-2,Kase õietolmu komponendi Bet v 2 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965080,,4,45878304,LA6115-5
 51574-2,Kase õietolmu komponendi Bet v 2 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965080,,3,45878305,LA6114-8
 51574-2,Kase õietolmu komponendi Bet v 2 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965080,,5,45878730,LA10137-0
 51574-2,Kase õietolmu komponendi Bet v 2 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965080,,0,45880618,LA6111-4
-51575-9,Kase õietolmu komponendi Bet v 4 (polkaltsiin) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 4 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966165,,2,45878148,LA6113-0
+51575-9,Kase õietolmu komponendi Bet v 4 (polkaltsiin) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 4 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966165,,2 or more,45878148,LA6113-0
 51575-9,Kase õietolmu komponendi Bet v 4 (polkaltsiin) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 4 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966165,,6,45878254,LA10138-8
 51575-9,Kase õietolmu komponendi Bet v 4 (polkaltsiin) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 4 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966165,,1,45878303,LA6112-2
 51575-9,Kase õietolmu komponendi Bet v 4 (polkaltsiin) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 4 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966165,,4,45878304,LA6115-5
@@ -773,11 +773,11 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 52750-7,Aktiveeritud proteiini C resistentsus plasmas (tõlgendus),Activated protein C resistance [Presence] in Platelet poor plasma by Coagulation assay,3040976,Negative,Negative,45878583,LA6577-6
 52750-7,Aktiveeritud proteiini C resistentsus plasmas (tõlgendus),Activated protein C resistance [Presence] in Platelet poor plasma by Coagulation assay,3040976,Positive,Positive,45884084,LA6576-8
 53013-9,BPI-vastane IgG seerumis/plasmas,Bactericidal permeability increasing protein Ab [Presence] in Serum,3041384,Negative,Negative,45878583,LA6577-6
-53013-9,BPI-vastane IgG seerumis/plasmas,Bactericidal permeability increasing protein Ab [Presence] in Serum,3041384,Weak positive,Positive,45884084,LA6576-8
 53013-9,BPI-vastane IgG seerumis/plasmas,Bactericidal permeability increasing protein Ab [Presence] in Serum,3041384,Positive,Positive,45884084,LA6576-8
+53013-9,BPI-vastane IgG seerumis/plasmas,Bactericidal permeability increasing protein Ab [Presence] in Serum,3041384,Weak positive,Positive,45884084,LA6576-8
 53016-2,Ro52-vastane IgG seerumis/plasmas (immunoblot),Sjogrens syndrome-A extractable nuclear 52kD Ab [Presence] in Serum,3039348,Negative,Negative,45878583,LA6577-6
-53016-2,Ro52-vastane IgG seerumis/plasmas (immunoblot),Sjogrens syndrome-A extractable nuclear 52kD Ab [Presence] in Serum,3039348,Weak positive,Positive,45884084,LA6576-8
 53016-2,Ro52-vastane IgG seerumis/plasmas (immunoblot),Sjogrens syndrome-A extractable nuclear 52kD Ab [Presence] in Serum,3039348,Positive,Positive,45884084,LA6576-8
+53016-2,Ro52-vastane IgG seerumis/plasmas (immunoblot),Sjogrens syndrome-A extractable nuclear 52kD Ab [Presence] in Serum,3039348,Weak positive,Positive,45884084,LA6576-8
 53024-6,"Saccharomyces cerevisiae vastased IgA, IgG seerumis/plasmas",Baker's yeast Ab [Presence] in Serum,3041672,Negative,Negative,45878583,LA6577-6
 53024-6,"Saccharomyces cerevisiae vastased IgA, IgG seerumis/plasmas",Baker's yeast Ab [Presence] in Serum,3041672,Positive,Positive,45884084,LA6576-8
 533-0,Mükobakterite külv verest,Mycobacterium sp identified in Blood by Organism specific culture,3015479,,Mycobacterium tuberculosis complex,36307631,LA16935-1
@@ -793,8 +793,8 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 53946-0,Escherichia coli toksiin,Escherichia coli shiga-like toxin identified in Specimen,3038617,,Shiga toxin 1+2,36308595,LA16139-0
 53946-0,Escherichia coli toksiin,Escherichia coli shiga-like toxin identified in Specimen,3038617,Negative,Negative,45878583,LA6577-6
 53981-7,Tsentromeer B vastane IgG seerumis/plasmas,Centromere protein B Ab [Presence] in Serum,3042239,Negative,Negative,45878583,LA6577-6
-53981-7,Tsentromeer B vastane IgG seerumis/plasmas,Centromere protein B Ab [Presence] in Serum,3042239,Positive,Positive,45884084,LA6576-8
 53981-7,Tsentromeer B vastane IgG seerumis/plasmas,Centromere protein B Ab [Presence] in Serum,3042239,Weak positive,Positive,45884084,LA6576-8
+53981-7,Tsentromeer B vastane IgG seerumis/plasmas,Centromere protein B Ab [Presence] in Serum,3042239,Positive,Positive,45884084,LA6576-8
 54016-1,Katepsiin G vastane IgG seerumis/plasmas,Cathepsin G Ab [Presence] in Serum,3039193,Negative,Negative,45878583,LA6577-6
 54016-1,Katepsiin G vastane IgG seerumis/plasmas,Cathepsin G Ab [Presence] in Serum,3039193,,Positive,45884084,LA6576-8
 54017-9,Neutrofiilide elastaasi vastane IgG seerumis/plasmas,Elastase Ab [Presence] in Serum,3039751,Negative,Negative,45878583,LA6577-6
@@ -827,15 +827,15 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 57182-8,Inimese immuunpuudulikkuse viiruse 1. tüübi tropism plasmas,HIV 1 RNA tropism [Identifier] in Plasma Narrative,40760301,,X4,46237501,LA19205-6
 57182-8,Inimese immuunpuudulikkuse viiruse 1. tüübi tropism plasmas,HIV 1 RNA tropism [Identifier] in Plasma Narrative,40760301,,R5,46237509,LA19204-9
 57182-8,Inimese immuunpuudulikkuse viiruse 1. tüübi tropism plasmas,HIV 1 RNA tropism [Identifier] in Plasma Narrative,40760301,,D/M,46237522,LA19206-4
-57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,A Neg,Group A,36308333,LA19710-5
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,Group A,Group A,36308333,LA19710-5
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,A Pos,Group A,36308333,LA19710-5
-57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,B Neg,Group B,36309587,LA19709-7
+57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,A Neg,Group A,36308333,LA19710-5
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,B Pos,Group B,36309587,LA19709-7
+57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,B Neg,Group B,36309587,LA19709-7
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,Group B,Group B,36309587,LA19709-7
+57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,Group 0,Group O,36309715,LA19708-9
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,0 Pos,Group O,36309715,LA19708-9
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,0 Neg,Group O,36309715,LA19708-9
-57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,Group 0,Group O,36309715,LA19708-9
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,AB Pos,Group AB,36311267,LA28449-9
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,AB Neg,Group AB,36311267,LA28449-9
 57743-7,ABO-veregrupp (kinnitav uuring),ABO group [Type] in Blood by Confirmatory method,40760853,Group AB,Group AB,36311267,LA28449-9
@@ -875,14 +875,14 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 59423-4,A-gripi viiruse tüpiseerimine hemaglutiniini geeni alusel ninakaapes,Influenza virus A hemagglutinin type RNA [Identifier] in Specimen by NAA with probe detection,40762514,,Influenza A (H3),36311283,LA13024-7
 59423-4,A-gripi viiruse tüpiseerimine hemaglutiniini geeni alusel ninakaapes,Influenza virus A hemagglutinin type RNA [Identifier] in Specimen by NAA with probe detection,40762514,,Influenza A (H5),36311284,LA13025-4
 59423-4,A-gripi viiruse tüpiseerimine hemaglutiniini geeni alusel ninakaapes,Influenza virus A hemagglutinin type RNA [Identifier] in Specimen by NAA with probe detection,40762514,,Influenza A virus,45878038,LA11919-0
-60239-1,Herilasmürgi komponendi Ves v 5 (antigeen 5) vastane IgE seerumis/plasmas (immunoblot),Common wasp recombinant (rVes v) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965741,,2,45878148,LA6113-0
+60239-1,Herilasmürgi komponendi Ves v 5 (antigeen 5) vastane IgE seerumis/plasmas (immunoblot),Common wasp recombinant (rVes v) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965741,,2 or more,45878148,LA6113-0
 60239-1,Herilasmürgi komponendi Ves v 5 (antigeen 5) vastane IgE seerumis/plasmas (immunoblot),Common wasp recombinant (rVes v) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965741,,6,45878254,LA10138-8
 60239-1,Herilasmürgi komponendi Ves v 5 (antigeen 5) vastane IgE seerumis/plasmas (immunoblot),Common wasp recombinant (rVes v) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965741,,1,45878303,LA6112-2
 60239-1,Herilasmürgi komponendi Ves v 5 (antigeen 5) vastane IgE seerumis/plasmas (immunoblot),Common wasp recombinant (rVes v) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965741,,4,45878304,LA6115-5
 60239-1,Herilasmürgi komponendi Ves v 5 (antigeen 5) vastane IgE seerumis/plasmas (immunoblot),Common wasp recombinant (rVes v) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965741,,3,45878305,LA6114-8
 60239-1,Herilasmürgi komponendi Ves v 5 (antigeen 5) vastane IgE seerumis/plasmas (immunoblot),Common wasp recombinant (rVes v) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965741,,5,45878730,LA10137-0
 60239-1,Herilasmürgi komponendi Ves v 5 (antigeen 5) vastane IgE seerumis/plasmas (immunoblot),Common wasp recombinant (rVes v) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965741,,0,45880618,LA6111-4
-60241-7,Mesilasmürgi komponendi Api m 1 (fosfolipaas A2) vastane IgE seerumis/plasmas (immunoblot),Honey bee phospholipase A2 recombinant (rApi m) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965346,,2,45878148,LA6113-0
+60241-7,Mesilasmürgi komponendi Api m 1 (fosfolipaas A2) vastane IgE seerumis/plasmas (immunoblot),Honey bee phospholipase A2 recombinant (rApi m) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965346,,2 or more,45878148,LA6113-0
 60241-7,Mesilasmürgi komponendi Api m 1 (fosfolipaas A2) vastane IgE seerumis/plasmas (immunoblot),Honey bee phospholipase A2 recombinant (rApi m) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965346,,6,45878254,LA10138-8
 60241-7,Mesilasmürgi komponendi Api m 1 (fosfolipaas A2) vastane IgE seerumis/plasmas (immunoblot),Honey bee phospholipase A2 recombinant (rApi m) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965346,,1,45878303,LA6112-2
 60241-7,Mesilasmürgi komponendi Api m 1 (fosfolipaas A2) vastane IgE seerumis/plasmas (immunoblot),Honey bee phospholipase A2 recombinant (rApi m) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965346,,4,45878304,LA6115-5
@@ -923,12 +923,12 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 61361-2,Klebsiella aerogenes DNA,Klebsiella aerogenes DNA [Presence] in Specimen by NAA with probe detection,40764122,Negative,Not detected,45880296,LA11883-8
 61362-0,Enterococcus faecalis DNA,Enterococcus faecalis DNA [Presence] in Specimen by NAA with probe detection,40764123,Positive,Detected,45877985,LA11882-0
 61362-0,Enterococcus faecalis DNA,Enterococcus faecalis DNA [Presence] in Specimen by NAA with probe detection,40764123,Negative,Not detected,45880296,LA11883-8
-61365-3,Paragripiviiruse RNA,Parainfluenza virus RNA [Presence] in Specimen by NAA with probe detection,40764126,Weak positive,Detected,45877985,LA11882-0
 61365-3,Paragripiviiruse RNA,Parainfluenza virus RNA [Presence] in Specimen by NAA with probe detection,40764126,Positive,Detected,45877985,LA11882-0
+61365-3,Paragripiviiruse RNA,Parainfluenza virus RNA [Presence] in Specimen by NAA with probe detection,40764126,Weak positive,Detected,45877985,LA11882-0
 61365-3,Paragripiviiruse RNA,Parainfluenza virus RNA [Presence] in Specimen by NAA with probe detection,40764126,Negative,Not detected,45880296,LA11883-8
+61366-1,Haemophilus influenzae DNA,Haemophilus influenzae DNA [Presence] in Specimen by NAA with probe detection,40764127,Strong positive,Detected,45877985,LA11882-0
 61366-1,Haemophilus influenzae DNA,Haemophilus influenzae DNA [Presence] in Specimen by NAA with probe detection,40764127,Weak positive,Detected,45877985,LA11882-0
 61366-1,Haemophilus influenzae DNA,Haemophilus influenzae DNA [Presence] in Specimen by NAA with probe detection,40764127,Positive,Detected,45877985,LA11882-0
-61366-1,Haemophilus influenzae DNA,Haemophilus influenzae DNA [Presence] in Specimen by NAA with probe detection,40764127,Strong positive,Detected,45877985,LA11882-0
 61366-1,Haemophilus influenzae DNA,Haemophilus influenzae DNA [Presence] in Specimen by NAA with probe detection,40764127,Negative,Not detected,45880296,LA11883-8
 61367-9,Clostridium difficile DNA ,Clostridioides difficile DNA [Presence] in Specimen by NAA with probe detection,40764128,Positive,Detected,45877985,LA11882-0
 61367-9,Clostridium difficile DNA ,Clostridioides difficile DNA [Presence] in Specimen by NAA with probe detection,40764128,Negative,Not detected,45880296,LA11883-8
@@ -956,8 +956,8 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 61401-6,Pseudomonas aeruginosa DNA,Pseudomonas aeruginosa DNA [Presence] in Specimen by NAA with probe detection,40764162,Negative,Not detected,45880296,LA11883-8
 61402-4,Serratia marcescens DNA,Serratia marcescens DNA [Presence] in Specimen by NAA with probe detection,40764163,,Detected,45877985,LA11882-0
 61402-4,Serratia marcescens DNA,Serratia marcescens DNA [Presence] in Specimen by NAA with probe detection,40764163,Negative,Not detected,45880296,LA11883-8
-61403-2,Stenotrophomonas maltophilia DNA,Stenotrophomonas maltophilia DNA [Presence] in Specimen by NAA with probe detection,40764164,Weak positive,Detected,45877985,LA11882-0
 61403-2,Stenotrophomonas maltophilia DNA,Stenotrophomonas maltophilia DNA [Presence] in Specimen by NAA with probe detection,40764164,Positive,Detected,45877985,LA11882-0
+61403-2,Stenotrophomonas maltophilia DNA,Stenotrophomonas maltophilia DNA [Presence] in Specimen by NAA with probe detection,40764164,Weak positive,Detected,45877985,LA11882-0
 61403-2,Stenotrophomonas maltophilia DNA,Stenotrophomonas maltophilia DNA [Presence] in Specimen by NAA with probe detection,40764164,Negative,Not detected,45880296,LA11883-8
 61404-0,Staphylococcus aureus DNA,Staphylococcus aureus DNA [Presence] in Specimen by NAA with probe detection,40764165,Weak positive,Detected,45877985,LA11882-0
 61404-0,Staphylococcus aureus DNA,Staphylococcus aureus DNA [Presence] in Specimen by NAA with probe detection,40764165,Positive,Detected,45877985,LA11882-0
@@ -990,8 +990,8 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 63368-5,Karbapeneemresistentsete enterobakterite DNA täpsustamata materjalis,Carbapenem resistance genes [Identifier] by NAA with probe detection,40766100,,Class B gene detected (IMP),36310870,LA14135-0
 63368-5,Karbapeneemresistentsete enterobakterite DNA täpsustamata materjalis,Carbapenem resistance genes [Identifier] by NAA with probe detection,40766100,,Class A gene detected (KPC),36311241,LA14134-3
 63379-2,DNA kaksikahela vastane IgG seerumis/plasmas,DNA double strand IgG Ab [Presence] in Serum,40766110,Negative,Negative,45878583,LA6577-6
-63379-2,DNA kaksikahela vastane IgG seerumis/plasmas,DNA double strand IgG Ab [Presence] in Serum,40766110,Positive,Positive,45884084,LA6576-8
 63379-2,DNA kaksikahela vastane IgG seerumis/plasmas,DNA double strand IgG Ab [Presence] in Serum,40766110,Weak positive,Positive,45884084,LA6576-8
+63379-2,DNA kaksikahela vastane IgG seerumis/plasmas,DNA double strand IgG Ab [Presence] in Serum,40766110,Positive,Positive,45884084,LA6576-8
 63421-2,JAK2 geeni mutatsioonid 12. eksonis (sekveneerimine),JAK2 gene exon 12 mutations tested for in Blood or Tissue by Molecular genetics method Nominal,40766152,,K539L,36308432,LA14143-4
 63421-2,JAK2 geeni mutatsioonid 12. eksonis (sekveneerimine),JAK2 gene exon 12 mutations tested for in Blood or Tissue by Molecular genetics method Nominal,40766152,,H538QK539L,36310051,LA14142-6
 63421-2,JAK2 geeni mutatsioonid 12. eksonis (sekveneerimine),JAK2 gene exon 12 mutations tested for in Blood or Tissue by Molecular genetics method Nominal,40766152,,F537-K539delinsL,36310489,LA14141-8
@@ -1025,7 +1025,7 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 6581-3,Vibrio sp külv täpsustamata materjalist,Vibrio sp identified in Specimen by Organism specific culture,3005988,,Vibrio cholerae,42531007,LA19260-1
 6581-3,Vibrio sp külv täpsustamata materjalist,Vibrio sp identified in Specimen by Organism specific culture,3005988,,Vibrio parahemolyticus,42531008,LA19263-5
 6581-3,Vibrio sp külv täpsustamata materjalist,Vibrio sp identified in Specimen by Organism specific culture,3005988,,Vibrio damsela,42531009,LA19262-7
-66715-4,Herilasmürgi komponendi Ves v 1 (fosfolipaas A1B) vastane IgE seerumis/plasmas (immunoblot),Common wasp recombinant (rVes v) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965033,,2,45878148,LA6113-0
+66715-4,Herilasmürgi komponendi Ves v 1 (fosfolipaas A1B) vastane IgE seerumis/plasmas (immunoblot),Common wasp recombinant (rVes v) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965033,,2 or more,45878148,LA6113-0
 66715-4,Herilasmürgi komponendi Ves v 1 (fosfolipaas A1B) vastane IgE seerumis/plasmas (immunoblot),Common wasp recombinant (rVes v) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965033,,6,45878254,LA10138-8
 66715-4,Herilasmürgi komponendi Ves v 1 (fosfolipaas A1B) vastane IgE seerumis/plasmas (immunoblot),Common wasp recombinant (rVes v) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965033,,1,45878303,LA6112-2
 66715-4,Herilasmürgi komponendi Ves v 1 (fosfolipaas A1B) vastane IgE seerumis/plasmas (immunoblot),Common wasp recombinant (rVes v) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965033,,4,45878304,LA6115-5
@@ -1059,8 +1059,8 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 68463-9,Inimese immuunpuudulikkuse viiruse 1. tüübi rilpiviriin-tundlikkus geneetiliste mutatsioonide alusel,Rilpivirine [Susceptibility] by Genotype method,40771050,,Resistance possible,45884177,LA17970-7
 68463-9,Inimese immuunpuudulikkuse viiruse 1. tüübi rilpiviriin-tundlikkus geneetiliste mutatsioonide alusel,Rilpivirine [Susceptibility] by Genotype method,40771050,Susceptible,Sensitive,45884178,LA16549-0
 68546-1,Mycoplasma hominis DNA,Mycoplasma hominis DNA [Presence] in Specimen by NAA with probe detection,42870504,Negative,Negative,45878583,LA6577-6
-68546-1,Mycoplasma hominis DNA,Mycoplasma hominis DNA [Presence] in Specimen by NAA with probe detection,42870504,Positive,Positive,45884084,LA6576-8
 68546-1,Mycoplasma hominis DNA,Mycoplasma hominis DNA [Presence] in Specimen by NAA with probe detection,42870504,Strong positive,Positive,45884084,LA6576-8
+68546-1,Mycoplasma hominis DNA,Mycoplasma hominis DNA [Presence] in Specimen by NAA with probe detection,42870504,Positive,Positive,45884084,LA6576-8
 68546-1,Mycoplasma hominis DNA,Mycoplasma hominis DNA [Presence] in Specimen by NAA with probe detection,42870504,Weak positive,Positive,45884084,LA6576-8
 687-4,Mycoplasma hominis ja Ureaplasma urealyticum külv,Mycoplasma sp and Ureaplasma sp [Identifier] in Specimen by Organism specific culture,3006478,Negative,Negative for Mycoplasma and Ureaplasma,45878181,LA18631-4
 687-4,Mycoplasma hominis ja Ureaplasma urealyticum külv,Mycoplasma sp and Ureaplasma sp [Identifier] in Specimen by Organism specific culture,3006478,,Ureaplasma urealyticum,45878587,LA18630-6
@@ -1119,21 +1119,21 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 69930-6,Tuulerõugeviiruse vastane IgM liikvoris,Varicella zoster virus IgM Ab [Presence] in Cerebral spinal fluid by Immunoassay,42868421,,Borderline,45880922,LA4259-3
 69930-6,Tuulerõugeviiruse vastane IgM liikvoris,Varicella zoster virus IgM Ab [Presence] in Cerebral spinal fluid by Immunoassay,42868421,,Positive,45884084,LA6576-8
 69933-0,Ureaplasma parvum DNA,Ureaplasma parvum DNA [Presence] in Specimen by NAA with probe detection,42868423,Negative,Negative,45878583,LA6577-6
-69933-0,Ureaplasma parvum DNA,Ureaplasma parvum DNA [Presence] in Specimen by NAA with probe detection,42868423,Positive,Positive,45884084,LA6576-8
 69933-0,Ureaplasma parvum DNA,Ureaplasma parvum DNA [Presence] in Specimen by NAA with probe detection,42868423,Weak positive,Positive,45884084,LA6576-8
 69933-0,Ureaplasma parvum DNA,Ureaplasma parvum DNA [Presence] in Specimen by NAA with probe detection,42868423,Strong positive,Positive,45884084,LA6576-8
+69933-0,Ureaplasma parvum DNA,Ureaplasma parvum DNA [Presence] in Specimen by NAA with probe detection,42868423,Positive,Positive,45884084,LA6576-8
 69934-8,Ureaplasma urealyticum/Ureaplasma parvum DNA,Ureaplasma urealyticum+Ureaplasma parvum DNA [Presence] in Specimen by NAA with probe detection,42868424,Negative,Negative,45878583,LA6577-6
 69934-8,Ureaplasma urealyticum/Ureaplasma parvum DNA,Ureaplasma urealyticum+Ureaplasma parvum DNA [Presence] in Specimen by NAA with probe detection,42868424,Positive,Positive,45884084,LA6576-8
 69935-5,Mycoplasma genitalium DNA/RNA,Mycoplasma genitalium DNA [Presence] in Specimen by NAA with probe detection,42868425,Negative,Negative,45878583,LA6577-6
 69935-5,Mycoplasma genitalium DNA/RNA,Mycoplasma genitalium DNA [Presence] in Specimen by NAA with probe detection,42868425,Positive,Positive,45884084,LA6576-8
 69935-5,Mycoplasma genitalium DNA/RNA,Mycoplasma genitalium DNA [Presence] in Specimen by NAA with probe detection,42868425,Weak positive,Positive,45884084,LA6576-8
 69936-3,Gardnerella vaginalis DNA,Gardnerella vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868426,Negative,Negative,45878583,LA6577-6
-69936-3,Gardnerella vaginalis DNA,Gardnerella vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868426,Weak positive,Positive,45884084,LA6576-8
 69936-3,Gardnerella vaginalis DNA,Gardnerella vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868426,Positive,Positive,45884084,LA6576-8
+69936-3,Gardnerella vaginalis DNA,Gardnerella vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868426,Weak positive,Positive,45884084,LA6576-8
 69936-3,Gardnerella vaginalis DNA,Gardnerella vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868426,Strong positive,Positive,45884084,LA6576-8
 69937-1,Trichomonas vaginalis DNA/RNA,Trichomonas vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868427,Negative,Negative,45878583,LA6577-6
-69937-1,Trichomonas vaginalis DNA/RNA,Trichomonas vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868427,Positive,Positive,45884084,LA6576-8
 69937-1,Trichomonas vaginalis DNA/RNA,Trichomonas vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868427,Strong positive,Positive,45884084,LA6576-8
+69937-1,Trichomonas vaginalis DNA/RNA,Trichomonas vaginalis DNA [Presence] in Specimen by NAA with probe detection,42868427,Positive,Positive,45884084,LA6576-8
 69938-9,Astroviiruse RNA,Astrovirus RNA [Presence] in Specimen by NAA with probe detection,42868428,Negative,Negative,45878583,LA6577-6
 69938-9,Astroviiruse RNA,Astrovirus RNA [Presence] in Specimen by NAA with probe detection,42868428,,Positive,45884084,LA6576-8
 69945-4,Insuliinisarnast kasvufaktorit siduv proteiin 1 tupekaapes,Insulin-like growth factor binding protein 1 [Presence] in Vaginal fluid,42868434,Negative,Negative,45878583,LA6577-6
@@ -1175,8 +1175,8 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 70014-6,Paragripiviiruse serotüüpide 1-4 vastane IgA seerumis/plasmas,Parainfluenza virus 1+2+3+4 IgA Ab [Presence] in Serum by Immunoassay,42868503,,Borderline,45880922,LA4259-3
 70014-6,Paragripiviiruse serotüüpide 1-4 vastane IgA seerumis/plasmas,Parainfluenza virus 1+2+3+4 IgA Ab [Presence] in Serum by Immunoassay,42868503,Positive,Positive,45884084,LA6576-8
 70015-3,Streptococcus DNA,Streptococcus sp DNA [Presence] in Blood by NAA with probe detection,42868504,Negative,Negative,45878583,LA6577-6
-70015-3,Streptococcus DNA,Streptococcus sp DNA [Presence] in Blood by NAA with probe detection,42868504,Positive,Positive,45884084,LA6576-8
 70015-3,Streptococcus DNA,Streptococcus sp DNA [Presence] in Blood by NAA with probe detection,42868504,Weak positive,Positive,45884084,LA6576-8
+70015-3,Streptococcus DNA,Streptococcus sp DNA [Presence] in Blood by NAA with probe detection,42868504,Positive,Positive,45884084,LA6576-8
 70016-1,Koagulaasnegatiivsete stafülokokkide DNA,Staphylococcus sp.coagulase negative DNA [Presence] in Blood by NAA with probe detection,42868505,Negative,Negative,45878583,LA6577-6
 70016-1,Koagulaasnegatiivsete stafülokokkide DNA,Staphylococcus sp.coagulase negative DNA [Presence] in Blood by NAA with probe detection,42868505,Positive,Positive,45884084,LA6576-8
 70017-9,Paragripiviiruse serotüüpide 1-4 vastane IgM seerumis/plasmas,Parainfluenza virus 1+2+3+4 IgM Ab [Presence] in Serum by Immunoassay,42868506,Negative,Negative,45878583,LA6577-6
@@ -1202,9 +1202,9 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 70041-9,Folliikuleid stimuleeriva hormooni beetaalaühiku (FSHB) c.-211G>T geenivariant,FSHB gene c.-211G>T [Presence] in Blood or Tissue by Molecular genetics method,42868527,Homozygous,Homozygous,45878253,LA6705-3
 70041-9,Folliikuleid stimuleeriva hormooni beetaalaühiku (FSHB) c.-211G>T geenivariant,FSHB gene c.-211G>T [Presence] in Blood or Tissue by Molecular genetics method,42868527,,Wild type,45880310,LA9658-1
 70041-9,Folliikuleid stimuleeriva hormooni beetaalaühiku (FSHB) c.-211G>T geenivariant,FSHB gene c.-211G>T [Presence] in Blood or Tissue by Molecular genetics method,42868527,Heterozygous,Heterozygous,45880311,LA6706-1
-70051-8,"Inhaleeritavate allergeenide (segu: Dermatophagoides pteronyssinus, kass, koer, Cynodon dactylon, timut, Penicillium notatum, Alternaria alternata, arukask, Cryptomeria japonica, Ambrosia elatior, teeleht, Parietaria officinalis) vastane IgE seerumis/plas",Multiple inhalant allergen IgE Ab [Presence] in Serum by Immunoassay,42868537,,Reactive,45881802,LA15255-5
-70051-8,"Inhaleeritavate allergeenide (segu: Dermatophagoides pteronyssinus, kass, koer, Cynodon dactylon, timut, Penicillium notatum, Alternaria alternata, arukask, Cryptomeria japonica, Ambrosia elatior, teeleht, Parietaria officinalis) vastane IgE seerumis/plas",Multiple inhalant allergen IgE Ab [Presence] in Serum by Immunoassay,42868537,,Indeterminate,45884091,LA11884-6
-70051-8,"Inhaleeritavate allergeenide (segu: Dermatophagoides pteronyssinus, kass, koer, Cynodon dactylon, timut, Penicillium notatum, Alternaria alternata, arukask, Cryptomeria japonica, Ambrosia elatior, teeleht, Parietaria officinalis) vastane IgE seerumis/plas",Multiple inhalant allergen IgE Ab [Presence] in Serum by Immunoassay,42868537,,Nonreactive,45884092,LA15256-3
+70051-8,"Inhaleeritavate allergeenide (segu: Dermatophagoides pteronyssinus, kass, koer, Cynodon dactylon, timut, Penicillium notatum, Alternaria alternata, arukask, Cryptomeria japonica, Ambrosia elatior, teeleht, Parietaria officinalis) vastane IgE seerumis/plasmas (AlaTOP)",Multiple inhalant allergen IgE Ab [Presence] in Serum by Immunoassay,42868537,,Reactive,45881802,LA15255-5
+70051-8,"Inhaleeritavate allergeenide (segu: Dermatophagoides pteronyssinus, kass, koer, Cynodon dactylon, timut, Penicillium notatum, Alternaria alternata, arukask, Cryptomeria japonica, Ambrosia elatior, teeleht, Parietaria officinalis) vastane IgE seerumis/plasmas (AlaTOP)",Multiple inhalant allergen IgE Ab [Presence] in Serum by Immunoassay,42868537,,Indeterminate,45884091,LA11884-6
+70051-8,"Inhaleeritavate allergeenide (segu: Dermatophagoides pteronyssinus, kass, koer, Cynodon dactylon, timut, Penicillium notatum, Alternaria alternata, arukask, Cryptomeria japonica, Ambrosia elatior, teeleht, Parietaria officinalis) vastane IgE seerumis/plasmas (AlaTOP)",Multiple inhalant allergen IgE Ab [Presence] in Serum by Immunoassay,42868537,,Nonreactive,45884092,LA15256-3
 70052-6,Hantaan viiruse vastane IgG seerumis/plasmas,Hantavirus hantaan IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868538,Negative,Negative,45878583,LA6577-6
 70052-6,Hantaan viiruse vastane IgG seerumis/plasmas,Hantavirus hantaan IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868538,,Borderline,45880922,LA4259-3
 70052-6,Hantaan viiruse vastane IgG seerumis/plasmas,Hantavirus hantaan IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868538,Positive,Positive,45884084,LA6576-8
@@ -1225,12 +1225,12 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 70057-5,Saaremaa viiruse vastane IgM seerumis/plasmas,Hantavirus saaremaa IgM Ab [Presence] in Serum or Plasma by Immunofluorescence,42868543,Positive,Positive,45884084,LA6576-8
 70058-3,Puumala viiruse vastane IgM seerumis/plasmas,Hantavirus puumala IgM Ab [Presence] in Serum or Plasma by Immunofluorescence,42868544,Negative,Negative,45878583,LA6577-6
 70058-3,Puumala viiruse vastane IgM seerumis/plasmas,Hantavirus puumala IgM Ab [Presence] in Serum or Plasma by Immunofluorescence,42868544,,Borderline,45880922,LA4259-3
-70058-3,Puumala viiruse vastane IgM seerumis/plasmas,Hantavirus puumala IgM Ab [Presence] in Serum or Plasma by Immunofluorescence,42868544,Positive,Positive,45884084,LA6576-8
 70058-3,Puumala viiruse vastane IgM seerumis/plasmas,Hantavirus puumala IgM Ab [Presence] in Serum or Plasma by Immunofluorescence,42868544,Weak positive,Positive,45884084,LA6576-8
+70058-3,Puumala viiruse vastane IgM seerumis/plasmas,Hantavirus puumala IgM Ab [Presence] in Serum or Plasma by Immunofluorescence,42868544,Positive,Positive,45884084,LA6576-8
 70059-1,Puumala viiruse vastane IgG seerumis/plasmas,Hantavirus puumala IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868545,Negative,Negative,45878583,LA6577-6
 70059-1,Puumala viiruse vastane IgG seerumis/plasmas,Hantavirus puumala IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868545,,Borderline,45880922,LA4259-3
-70059-1,Puumala viiruse vastane IgG seerumis/plasmas,Hantavirus puumala IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868545,Weak positive,Positive,45884084,LA6576-8
 70059-1,Puumala viiruse vastane IgG seerumis/plasmas,Hantavirus puumala IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868545,Positive,Positive,45884084,LA6576-8
+70059-1,Puumala viiruse vastane IgG seerumis/plasmas,Hantavirus puumala IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868545,Weak positive,Positive,45884084,LA6576-8
 70060-9,Seoul viiruse vastane IgG seerumis/plasmas,Hantavirus seoul IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868546,Negative,Negative,45878583,LA6577-6
 70060-9,Seoul viiruse vastane IgG seerumis/plasmas,Hantavirus seoul IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868546,,Borderline,45880922,LA4259-3
 70060-9,Seoul viiruse vastane IgG seerumis/plasmas,Hantavirus seoul IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,42868546,,Positive,45884084,LA6576-8
@@ -1303,9 +1303,9 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 71369-3,Neutrofiilide düsplaasia,Neutrophils.dysplastic [Presence] in Blood by Light microscopy,42870309,1+,1+,45878548,LA11841-6
 71369-3,Neutrofiilide düsplaasia,Neutrophils.dysplastic [Presence] in Blood by Light microscopy,42870309,,None,45878582,LA137-2
 71369-3,Neutrofiilide düsplaasia,Neutrophils.dysplastic [Presence] in Blood by Light microscopy,42870309,,2+,45881916,LA11842-4
-71377-6,Legionella spp. serotüüp,Legionella sp [Identifier] in Isolate by Agglutination,42870316,,Legionella drancourtii,36308810,LA18547-2
-71377-6,Legionella spp. serotüüp,Legionella sp [Identifier] in Isolate by Agglutination,42870316,,Legionella adelaidensis,36309031,LA18546-4
-71377-6,Legionella spp. serotüüp,Legionella sp [Identifier] in Isolate by Agglutination,42870316,,Legionella pneumophila,36310868,LA18548-0
+71377-6,Legionella spp. serotüüp,Legionella sp identified in Isolate by Agglutination,42870316,,Legionella drancourtii,36308810,LA18547-2
+71377-6,Legionella spp. serotüüp,Legionella sp identified in Isolate by Agglutination,42870316,,Legionella adelaidensis,36309031,LA18546-4
+71377-6,Legionella spp. serotüüp,Legionella sp identified in Isolate by Agglutination,42870316,,Legionella pneumophila,36310868,LA18548-0
 71431-1,"Inimese papilloomiviiruse kõrge riskiga (31,33,35,39,45,51,52,56,58,59,66,68) genotüüpide DNA",Human papilloma virus 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Presence] in Cervix by NAA with probe detection,42870370,Negative,Not present,45878588,LA14895-9
 71431-1,"Inimese papilloomiviiruse kõrge riskiga (31,33,35,39,45,51,52,56,58,59,66,68) genotüüpide DNA",Human papilloma virus 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Presence] in Cervix by NAA with probe detection,42870370,Positive,Present,45879438,LA9633-4
 71718-1,Enterococcus spp. DNA,Enterococcus sp DNA [Presence] in Specimen by NAA with probe detection,42869475,,Detected,45877985,LA11882-0
@@ -1599,35 +1599,35 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 81695-9,Mikrosatelliitide ebastabiilsus kasvajakoes,Microsatellite instability [Interpretation] in Cancer specimen Qualitative,21493972,,MSI-H,21499079,LA26203-2
 81695-9,Mikrosatelliitide ebastabiilsus kasvajakoes,Microsatellite instability [Interpretation] in Cancer specimen Qualitative,21493972,,Stable,45879403,LA14122-8
 81695-9,Mikrosatelliitide ebastabiilsus kasvajakoes,Microsatellite instability [Interpretation] in Cancer specimen Qualitative,21493972,,Indeterminate,45884091,LA11884-6
-81990-4,"Maapähkli komponendi Ara h 1 (säilitusvalk, 7S globuliin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966319,,2,45878148,LA6113-0
+81990-4,"Maapähkli komponendi Ara h 1 (säilitusvalk, 7S globuliin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966319,,2 or more,45878148,LA6113-0
 81990-4,"Maapähkli komponendi Ara h 1 (säilitusvalk, 7S globuliin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966319,,6,45878254,LA10138-8
 81990-4,"Maapähkli komponendi Ara h 1 (säilitusvalk, 7S globuliin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966319,,1,45878303,LA6112-2
 81990-4,"Maapähkli komponendi Ara h 1 (säilitusvalk, 7S globuliin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966319,,4,45878304,LA6115-5
 81990-4,"Maapähkli komponendi Ara h 1 (säilitusvalk, 7S globuliin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966319,,3,45878305,LA6114-8
 81990-4,"Maapähkli komponendi Ara h 1 (säilitusvalk, 7S globuliin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966319,,5,45878730,LA10137-0
 81990-4,"Maapähkli komponendi Ara h 1 (säilitusvalk, 7S globuliin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 1 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966319,,0,45880618,LA6111-4
-81991-2,"Maapähkli komponendi Ara h 2 (säilitusvalk, 2S albumiin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966620,,2,45878148,LA6113-0
+81991-2,"Maapähkli komponendi Ara h 2 (säilitusvalk, 2S albumiin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966620,,2 or more,45878148,LA6113-0
 81991-2,"Maapähkli komponendi Ara h 2 (säilitusvalk, 2S albumiin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966620,,6,45878254,LA10138-8
 81991-2,"Maapähkli komponendi Ara h 2 (säilitusvalk, 2S albumiin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966620,,1,45878303,LA6112-2
 81991-2,"Maapähkli komponendi Ara h 2 (säilitusvalk, 2S albumiin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966620,,4,45878304,LA6115-5
 81991-2,"Maapähkli komponendi Ara h 2 (säilitusvalk, 2S albumiin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966620,,3,45878305,LA6114-8
 81991-2,"Maapähkli komponendi Ara h 2 (säilitusvalk, 2S albumiin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966620,,5,45878730,LA10137-0
 81991-2,"Maapähkli komponendi Ara h 2 (säilitusvalk, 2S albumiin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966620,,0,45880618,LA6111-4
-81992-0,"Maapähkli komponendi Ara h 3 (säilitusvalk, 11S globuliin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 3 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964969,,2,45878148,LA6113-0
+81992-0,"Maapähkli komponendi Ara h 3 (säilitusvalk, 11S globuliin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 3 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964969,,2 or more,45878148,LA6113-0
 81992-0,"Maapähkli komponendi Ara h 3 (säilitusvalk, 11S globuliin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 3 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964969,,6,45878254,LA10138-8
 81992-0,"Maapähkli komponendi Ara h 3 (säilitusvalk, 11S globuliin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 3 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964969,,1,45878303,LA6112-2
 81992-0,"Maapähkli komponendi Ara h 3 (säilitusvalk, 11S globuliin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 3 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964969,,4,45878304,LA6115-5
 81992-0,"Maapähkli komponendi Ara h 3 (säilitusvalk, 11S globuliin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 3 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964969,,3,45878305,LA6114-8
 81992-0,"Maapähkli komponendi Ara h 3 (säilitusvalk, 11S globuliin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 3 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964969,,5,45878730,LA10137-0
 81992-0,"Maapähkli komponendi Ara h 3 (säilitusvalk, 11S globuliin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 3 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964969,,0,45880618,LA6111-4
-81994-6,Maapähkli komponendi Ara h 9 (nsLTP) vastane IgE seerumis/plasmas (immunoblot),Peanut recombinant (rAra h) 9 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966655,,2,45878148,LA6113-0
+81994-6,Maapähkli komponendi Ara h 9 (nsLTP) vastane IgE seerumis/plasmas (immunoblot),Peanut recombinant (rAra h) 9 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966655,,2 or more,45878148,LA6113-0
 81994-6,Maapähkli komponendi Ara h 9 (nsLTP) vastane IgE seerumis/plasmas (immunoblot),Peanut recombinant (rAra h) 9 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966655,,6,45878254,LA10138-8
 81994-6,Maapähkli komponendi Ara h 9 (nsLTP) vastane IgE seerumis/plasmas (immunoblot),Peanut recombinant (rAra h) 9 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966655,,1,45878303,LA6112-2
 81994-6,Maapähkli komponendi Ara h 9 (nsLTP) vastane IgE seerumis/plasmas (immunoblot),Peanut recombinant (rAra h) 9 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966655,,4,45878304,LA6115-5
 81994-6,Maapähkli komponendi Ara h 9 (nsLTP) vastane IgE seerumis/plasmas (immunoblot),Peanut recombinant (rAra h) 9 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966655,,3,45878305,LA6114-8
 81994-6,Maapähkli komponendi Ara h 9 (nsLTP) vastane IgE seerumis/plasmas (immunoblot),Peanut recombinant (rAra h) 9 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966655,,5,45878730,LA10137-0
 81994-6,Maapähkli komponendi Ara h 9 (nsLTP) vastane IgE seerumis/plasmas (immunoblot),Peanut recombinant (rAra h) 9 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966655,,0,45880618,LA6111-4
-82026-6,Ristreageerivate süsivesikdeterminantide vastane IgE seerumis/plasmas (immonoblot),Bromelin MUXF3 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965905,,2,45878148,LA6113-0
+82026-6,Ristreageerivate süsivesikdeterminantide vastane IgE seerumis/plasmas (immonoblot),Bromelin MUXF3 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965905,,2 or more,45878148,LA6113-0
 82026-6,Ristreageerivate süsivesikdeterminantide vastane IgE seerumis/plasmas (immonoblot),Bromelin MUXF3 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965905,,6,45878254,LA10138-8
 82026-6,Ristreageerivate süsivesikdeterminantide vastane IgE seerumis/plasmas (immonoblot),Bromelin MUXF3 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965905,,1,45878303,LA6112-2
 82026-6,Ristreageerivate süsivesikdeterminantide vastane IgE seerumis/plasmas (immonoblot),Bromelin MUXF3 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965905,,4,45878304,LA6115-5
@@ -1656,14 +1656,14 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 82521-6,C-hepatiidi viiruse paritapreviir-tundlikkus geneetiliste mutatsioonide alusel,Paritaprevir [Susceptibility] by Genotype method,42528666,,Resistance not predicted,42530828,LA26374-1
 82523-2,C-hepatiidi viiruse grasopreviir-tundlikkus geneetiliste mutatsioonide alusel,Grazoprevir [Susceptibility] by Genotype method,42528701,,Resistance predicted,42530827,LA26373-3
 82523-2,C-hepatiidi viiruse grasopreviir-tundlikkus geneetiliste mutatsioonide alusel,Grazoprevir [Susceptibility] by Genotype method,42528701,,Resistance not predicted,42530828,LA26374-1
-82573-7,Kase õietolmu komponendi Bet v 6 (isoflavooni reduktaas) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 6 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965944,,2,45878148,LA6113-0
+82573-7,Kase õietolmu komponendi Bet v 6 (isoflavooni reduktaas) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 6 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965944,,2 or more,45878148,LA6113-0
 82573-7,Kase õietolmu komponendi Bet v 6 (isoflavooni reduktaas) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 6 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965944,,6,45878254,LA10138-8
 82573-7,Kase õietolmu komponendi Bet v 6 (isoflavooni reduktaas) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 6 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965944,,1,45878303,LA6112-2
 82573-7,Kase õietolmu komponendi Bet v 6 (isoflavooni reduktaas) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 6 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965944,,4,45878304,LA6115-5
 82573-7,Kase õietolmu komponendi Bet v 6 (isoflavooni reduktaas) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 6 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965944,,3,45878305,LA6114-8
 82573-7,Kase õietolmu komponendi Bet v 6 (isoflavooni reduktaas) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 6 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965944,,5,45878730,LA10137-0
 82573-7,Kase õietolmu komponendi Bet v 6 (isoflavooni reduktaas) vastane IgE seerumis/plasmas (immunoblot),Silver Birch recombinant (rBet v) 6 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965944,,0,45880618,LA6111-4
-82614-9,Mesilasmürgi komponendi Api m 10 (ikarapiin) vastane IgE seerumis/plasmas (immunoblot),Honey bee recombinant (rApi m) 10 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965150,,2,45878148,LA6113-0
+82614-9,Mesilasmürgi komponendi Api m 10 (ikarapiin) vastane IgE seerumis/plasmas (immunoblot),Honey bee recombinant (rApi m) 10 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965150,,2 or more,45878148,LA6113-0
 82614-9,Mesilasmürgi komponendi Api m 10 (ikarapiin) vastane IgE seerumis/plasmas (immunoblot),Honey bee recombinant (rApi m) 10 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965150,,6,45878254,LA10138-8
 82614-9,Mesilasmürgi komponendi Api m 10 (ikarapiin) vastane IgE seerumis/plasmas (immunoblot),Honey bee recombinant (rApi m) 10 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965150,,1,45878303,LA6112-2
 82614-9,Mesilasmürgi komponendi Api m 10 (ikarapiin) vastane IgE seerumis/plasmas (immunoblot),Honey bee recombinant (rApi m) 10 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965150,,4,45878304,LA6115-5
@@ -1745,8 +1745,8 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 83002-6,Zic4-vastane IgG seerumis/plasmas,Zinc finger protein of the cerebellum 4 IgG Ab [Presence] in Serum or Plasma by Line blot,42529130,Negative,Negative,45878583,LA6577-6
 83002-6,Zic4-vastane IgG seerumis/plasmas,Zinc finger protein of the cerebellum 4 IgG Ab [Presence] in Serum or Plasma by Line blot,42529130,Positive,Positive,45884084,LA6576-8
 83003-4,Rekoveriinivastane IgG seerumis/plasmas,Recoverin IgG Ab [Presence] in Serum or Plasma by Line blot,42529131,Negative,Negative,45878583,LA6577-6
-83003-4,Rekoveriinivastane IgG seerumis/plasmas,Recoverin IgG Ab [Presence] in Serum or Plasma by Line blot,42529131,Positive,Positive,45884084,LA6576-8
 83003-4,Rekoveriinivastane IgG seerumis/plasmas,Recoverin IgG Ab [Presence] in Serum or Plasma by Line blot,42529131,Weak positive,Positive,45884084,LA6576-8
+83003-4,Rekoveriinivastane IgG seerumis/plasmas,Recoverin IgG Ab [Presence] in Serum or Plasma by Line blot,42529131,Positive,Positive,45884084,LA6576-8
 83004-2,GAD65 (glutamaadi dekarboksülaas 65) vastane IgG seerumis/plasmas,Glutamate decarboxylase 65 IgG Ab [Presence] in Serum or Plasma by Line blot,42529132,Negative,Negative,45878583,LA6577-6
 83004-2,GAD65 (glutamaadi dekarboksülaas 65) vastane IgG seerumis/plasmas,Glutamate decarboxylase 65 IgG Ab [Presence] in Serum or Plasma by Line blot,42529132,Positive,Positive,45884084,LA6576-8
 83128-9,E-hepatiidi viiruse vastane IgM seerumis/plasmas (immunoblot),Hepatitis E virus IgM Ab [Presence] in Serum or Plasma by Immunoassay,36304328,,Detected,45877985,LA11882-0
@@ -1798,21 +1798,21 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 86621-0,Metitsilliin-resistentsus mecC geeni alusel,Methicillin resistance mecC gene [Presence] by Molecular method,36203840,,Equivocal,45884087,LA11885-3
 87243-2,Mükobakterite mikroskoopia täpsustamata materjalis (auramiin),Microscopic observation [Presence] in Specimen by Auramine fluorochrome stain,36305572,,Negative,45878583,LA6577-6
 87243-2,Mükobakterite mikroskoopia täpsustamata materjalis (auramiin),Microscopic observation [Presence] in Specimen by Auramine fluorochrome stain,36305572,,Positive,45884084,LA6576-8
-87717-5,Mesilasmürgi komponendi Api m 2 (hüaluronidaas) vastane IgE seerumis/plasmas (immunoblot),Honey bee recombinant (rApi m) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965535,,2,45878148,LA6113-0
+87717-5,Mesilasmürgi komponendi Api m 2 (hüaluronidaas) vastane IgE seerumis/plasmas (immunoblot),Honey bee recombinant (rApi m) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965535,,2 or more,45878148,LA6113-0
 87717-5,Mesilasmürgi komponendi Api m 2 (hüaluronidaas) vastane IgE seerumis/plasmas (immunoblot),Honey bee recombinant (rApi m) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965535,,6,45878254,LA10138-8
 87717-5,Mesilasmürgi komponendi Api m 2 (hüaluronidaas) vastane IgE seerumis/plasmas (immunoblot),Honey bee recombinant (rApi m) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965535,,1,45878303,LA6112-2
 87717-5,Mesilasmürgi komponendi Api m 2 (hüaluronidaas) vastane IgE seerumis/plasmas (immunoblot),Honey bee recombinant (rApi m) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965535,,4,45878304,LA6115-5
 87717-5,Mesilasmürgi komponendi Api m 2 (hüaluronidaas) vastane IgE seerumis/plasmas (immunoblot),Honey bee recombinant (rApi m) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965535,,3,45878305,LA6114-8
 87717-5,Mesilasmürgi komponendi Api m 2 (hüaluronidaas) vastane IgE seerumis/plasmas (immunoblot),Honey bee recombinant (rApi m) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965535,,5,45878730,LA10137-0
 87717-5,Mesilasmürgi komponendi Api m 2 (hüaluronidaas) vastane IgE seerumis/plasmas (immunoblot),Honey bee recombinant (rApi m) 2 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3965535,,0,45880618,LA6111-4
-87718-3,"Maapähkli komponendi Ara h 6 (säilitusvalk, 2S albumiin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 6 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964974,,2,45878148,LA6113-0
+87718-3,"Maapähkli komponendi Ara h 6 (säilitusvalk, 2S albumiin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 6 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964974,,2 or more,45878148,LA6113-0
 87718-3,"Maapähkli komponendi Ara h 6 (säilitusvalk, 2S albumiin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 6 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964974,,6,45878254,LA10138-8
 87718-3,"Maapähkli komponendi Ara h 6 (säilitusvalk, 2S albumiin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 6 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964974,,1,45878303,LA6112-2
 87718-3,"Maapähkli komponendi Ara h 6 (säilitusvalk, 2S albumiin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 6 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964974,,4,45878304,LA6115-5
 87718-3,"Maapähkli komponendi Ara h 6 (säilitusvalk, 2S albumiin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 6 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964974,,3,45878305,LA6114-8
 87718-3,"Maapähkli komponendi Ara h 6 (säilitusvalk, 2S albumiin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 6 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964974,,5,45878730,LA10137-0
 87718-3,"Maapähkli komponendi Ara h 6 (säilitusvalk, 2S albumiin) vastane IgE seerumis/plasmas (immunoblot)",Peanut recombinant (rAra h) 6 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3964974,,0,45880618,LA6111-4
-87719-1,Maapähkli komponendi Ara h 5 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Peanut recombinant (rAra h) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966031,,2,45878148,LA6113-0
+87719-1,Maapähkli komponendi Ara h 5 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Peanut recombinant (rAra h) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966031,,2 or more,45878148,LA6113-0
 87719-1,Maapähkli komponendi Ara h 5 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Peanut recombinant (rAra h) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966031,,6,45878254,LA10138-8
 87719-1,Maapähkli komponendi Ara h 5 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Peanut recombinant (rAra h) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966031,,1,45878303,LA6112-2
 87719-1,Maapähkli komponendi Ara h 5 (profiliin) vastane IgE seerumis/plasmas (immunoblot),Peanut recombinant (rAra h) 5 IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),3966031,,4,45878304,LA6115-5
@@ -1829,18 +1829,18 @@ loinc_code,loinc_name_est,loinc_concept_name,loinc_concept_id,loinc_answer_stand
 88303-3,Monoklonaalsed immuunglobuliini lambdaahelad ööpäevases uriinis,Lambda light chains [Presence] in 24 hour Urine by Immunofixation,36305978,,Not detected,45880296,LA11883-8
 88304-1,Monoklonaalsed immuunglobuliini kapaahelad ööpäevases uriinis,Kappa light chains [Presence] in 24 hour Urine by Immunofixation,36304086,,Detected,45877985,LA11882-0
 88304-1,Monoklonaalsed immuunglobuliini kapaahelad ööpäevases uriinis,Kappa light chains [Presence] in 24 hour Urine by Immunofixation,36304086,,Not detected,45880296,LA11883-8
-883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,A Pos,Group A,36308333,LA19710-5
-883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,A Neg,Group A,36308333,LA19710-5
 883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,Group A,Group A,36308333,LA19710-5
+883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,A Neg,Group A,36308333,LA19710-5
+883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,A Pos,Group A,36308333,LA19710-5
 883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,B Neg,Group B,36309587,LA19709-7
 883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,B Pos,Group B,36309587,LA19709-7
 883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,Group B,Group B,36309587,LA19709-7
 883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,0 Neg,Group O,36309715,LA19708-9
 883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,0 Pos,Group O,36309715,LA19708-9
 883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,Group 0,Group O,36309715,LA19708-9
-883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,AB Pos,Group AB,36311267,LA28449-9
 883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,Group AB,Group AB,36311267,LA28449-9
 883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,AB Neg,Group AB,36311267,LA28449-9
+883-9,ABO-veregrupp (kontrolluuring),ABO group [Type] in Blood,3002529,AB Pos,Group AB,36311267,LA28449-9
 88509-5,Helicobacter pylori resistentsusmutatsioonid klaritromütsiini suhtes,Helicobacter pylori 23S rRNA clarithromycin resistance mutation [Identifier] by Molecular method,36306114,,T2182C,36307871,LA28575-1
 88509-5,Helicobacter pylori resistentsusmutatsioonid klaritromütsiini suhtes,Helicobacter pylori 23S rRNA clarithromycin resistance mutation [Identifier] by Molecular method,36306114,,A2142G,36307898,LA28472-1
 88509-5,Helicobacter pylori resistentsusmutatsioonid klaritromütsiini suhtes,Helicobacter pylori 23S rRNA clarithromycin resistance mutation [Identifier] by Molecular method,36306114,,A2142C,36308449,LA28471-3

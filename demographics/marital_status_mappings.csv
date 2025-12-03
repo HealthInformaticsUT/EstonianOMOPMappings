@@ -1,9 +1,9 @@
 source_code,source_concept_id,source_vocabulary_id,source_code_type,source_code_description,target_concept_name,target_concept_code,target_concept_id,target_vocabulary_id,target_domain,target_concept_class_id,updated_date,valid_end_date
-1,0,None,marital_status,vallaline,"Single, never married",125725006,4053854,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-2,0,None,marital_status,abielus,Married,87915002,4338692,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-3,0,None,marital_status,abielus dokumenteerimata,Married,87915002,4338692,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-4,0,None,marital_status,lahutatud,Divorced,20295000,4069297,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-5,0,None,marital_status,lahutatud dokumenteerimata,Divorced,20295000,4069297,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-6,0,None,marital_status,lesk,Widowed,33553000,4143188,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-7,0,None,marital_status,lesk dokumenteerimata,Widowed,33553000,4143188,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-99,0,None,marital_status,keeldus vastamast,,No matching concept,0,None,,,2024-06-04,2099-12-31
+1,0,None,marital_status,vallaline,"Single, never married",125725006,4053854,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+2,0,None,marital_status,abielus,Married,87915002,4338692,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+3,0,None,marital_status,abielus dokumenteerimata,Married,87915002,4338692,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+4,0,None,marital_status,lahutatud,Divorced,20295000,4069297,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+5,0,None,marital_status,lahutatud dokumenteerimata,Divorced,20295000,4069297,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+6,0,None,marital_status,lesk,Widowed,33553000,4143188,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+7,0,None,marital_status,lesk dokumenteerimata,Widowed,33553000,4143188,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+99,0,None,marital_status,keeldus vastamast,,No matching concept,0,None,,,2025-12-03,2099-12-31

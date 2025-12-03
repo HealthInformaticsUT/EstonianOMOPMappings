@@ -1,17 +1,17 @@
 # Demographics-Related Code Sets Translations to OMOP CDM Standard Concepts
 
 This directory contains translations of various demographics-related code sets to OMOP CDM standard concepts.  
-Below is a brief description of each code set and the corresponding CSV files located in this directory.
+Below is a brief description of each code set, along with the corresponding CSV files located in this directory.
 
 All mappings in these CSV files were created using the OHDSI tool [Usagi](https://ohdsi.github.io/Usagi/).
 
 ## Code Sets
 
 ### 1. Education Codes
-These codes represent the highest education acquired.
+These codes represent the highest level of education attained.
 Codes are taken from the [classifications portal](https://klassifikaatorid.stat.ee/) managed by Statistics Estonia, see [here](https://klassifikaatorid.stat.ee/item/stat.ee/1e38c151-38ae-4be3-ab46-a591c0096b99/5).
-The classification of acquired highest education is based on the International Standard Classification of Education ISCED-A 2011 and it contains only the possible levels of education acquired in Estonia. 
-The code contains the letter "A" plus a one- to two-digit number. 
+The classification of the highest acquired education is based on the International Standard Classification of Education ISCED-A 2011 and it contains only the possible levels of education acquired in Estonia. 
+The code consists of the letter "A" followed by a one- to two-digit number. 
 
 - **File:** [education_mappings](education_mappings.csv)
 - **Description:** This file contains a list of codes representing the highest education acquired, along with their mappings to OMOP CDM standard concepts.
@@ -28,7 +28,7 @@ Each language has been assigned a three-digit letter code.
 ### 3. Marital Status Codes
 These codes represent the classification of the actual marital status.
 Codes are taken from the [Publishing Centre](https://pub.e-tervis.ee/classifications) managed by Health and Welfare Information Systems Centre (TEHIK), see [here](https://pub.e-tervis.ee/classifications/Tegelik%20perekonnaseis).
-The description of the codes is slightly modified.
+The descriptions of the codes have been slightly modified.
 
 - **File:** [marital_status_mappings](marital_status_mappings.csv)
 - **Description:** This file contains local codes for actual marital status, along with their mappings to OMOP CDM standard concepts.
@@ -37,7 +37,7 @@ The description of the codes is slightly modified.
 ## The Structure of Mapping files
 Each CSV file contains the following columns:
 
-- **source_code:** The original code or concept from the respective code set. The source code being translated into a Standard Concept. 
+- **source_code:** The original code or concept from the respective code set. The source code is being translated into a Standard Concept. 
 - **source_concept_id:** A foreign key to the Source Concept (refers to OMOP CDM CONCEPT table) that is being translated into a Standard Concept. 
 - **source_vocabulary_id:** A foreign key to the OMOP CDM VOCABULARY table defining the vocabulary of the source code that is being translated to a Standard Concept. 
 - **source_code_type:** The type of the source code (e.g., education, language, marital_status).

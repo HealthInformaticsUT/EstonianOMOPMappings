@@ -1,6 +1,6 @@
 # Nomesco Classification of Surgical Procedures (NCSP) Translations to OMOP CDM Standard Concepts
 
-This directory contains translations of Nomesco Classification of Surgical Procedures (NCSP) used in Estonia to OMOP CDM standard concepts.  
+This directory contains translations of the Nomesco Classification of Surgical Procedures (NCSP) used in Estonia to OMOP CDM standard concepts.  
 Below is a brief description of this code set and the corresponding CSV file located in this directory.
 
 ## NSCP codes
@@ -22,9 +22,9 @@ We also considered mappings that other researchers have published:
 
 
 ## The Structure of Mapping files
-CSV file for NCSP codes mappings contain the following columns:
+The CSV file for NCSP codes mappings contains the following columns:
 
-- **source_code:** The original code from the respective code set. The source code being translated into a Standard Concept. 
+- **source_code:** The original code from the respective code set. The source code is being translated into a Standard Concept. 
 - **source_concept_id:** A foreign key to the Source Concept (refers to OMOP CDM CONCEPT table) that is being translated into a Standard Concept. For NCSP codes, we created custom concepts with concept IDs greater than 2 billion.
 - **source_vocabulary_id:** A foreign key to the OMOP CDM VOCABULARY table defining the vocabulary of the source code that is being translated to a Standard Concept. 
 - **source_code_type:** The type of the source code ('ncsp').

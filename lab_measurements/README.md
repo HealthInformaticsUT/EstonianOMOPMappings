@@ -1,7 +1,7 @@
 # Lab Measurements-Related Code Sets Translations to OMOP CDM Standard Concepts
 
 This directory contains translations of various lab measurements-related code sets to OMOP CDM standard concepts.  
-Below is a brief description of each code set and the corresponding CSV files located in this directory.
+Below is a brief description of each code set, along with the corresponding CSV files located in this directory.
 
 ## Code Sets
 
@@ -33,7 +33,7 @@ Codes and mappings are sourced from [Athena](https://athena.ohdsi.org/search-ter
 by OHDSI (Observational Health Data Sciences and Informatics). 
 
 - **File:** [loinc_answer_mappings](loinc_answer_mappings.csv)
-- **Description:** This file contains a list of LOINC codes, their possible answers, the standardized answers found in Estonian health data, and their mappings to OMOP CDM standard concepts.
+- **Description:** This file contains a list of LOINC codes, their possible answers, the standardised answers found in Estonian health data, and their mappings to OMOP CDM standard concepts.
 
 
 ### 3. Other measurements-related concepts
@@ -49,7 +49,7 @@ The mappings in this CSV file were created using the OHDSI tool [Usagi](https://
 ### LOINC Codes CSV File Structure
 CSV files for LOINC codes and other measurement-related mappings contain the following columns:
 
-- **source_code:** The original code or concept from the respective code set. The source code being translated into a Standard Concept. 
+- **source_code:** The original code or concept from the respective code set. The source code is being translated into a Standard Concept. 
 - **source_concept_id:** A foreign key to the Source Concept (refers to OMOP CDM CONCEPT table) that is being translated into a Standard Concept. 
 - **source_vocabulary_id:** A foreign key to the OMOP CDM VOCABULARY table defining the vocabulary of the source code that is being translated to a Standard Concept. 
 - **source_code_type:** The type of the source code (e.g., loinc, custom).
@@ -75,7 +75,7 @@ The CSV file for LOINC Answers contains the following columns:
 - **loinc_name_est:** The name in Estonian that corresponds to the LOINC code.
 - **loinc_concept_name:** The name that corresponds to the LOINC code in OMOP CDM.
 - **loinc_concept_id:** The unique identifier of the Concept related to the LOINC code.
-- **loinc_answer_standardised_est:** The standardized answer for the LOINC code found in Estonian health data.
+- **loinc_answer_standardised_est:** The standardised answer for the LOINC code found in Estonian health data.
 - **answer_concept_id_name:** Lists all available and allowed answers related to the LOINC code. If both attributes exist (`loinc_answer_standardised_est` and `answer_concept_id_name`), this column shows the mapping between `loinc_answer_standardised_est` and `answer_concept_id_name`.
 - **answer_concept_id:** The unique identifier of the target Concept to which the answer is being mapped.
 - **answer_concept_code:** The target Concept code to which the answer is being mapped.

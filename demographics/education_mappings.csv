@@ -1,15 +1,15 @@
 source_code,source_concept_id,source_vocabulary_id,source_code_type,source_code_description,source_name_eng,target_concept_name,target_concept_code,target_concept_id,target_vocabulary_id,target_domain,target_concept_class_id,updated_date,valid_end_date
-A0,0,None,education,"Hariduseta, alusharidus",Less than primary education,No formal education,224294005,4074913,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-A1,0,None,education,"Algharidus, praegune põhikooli 6 klassi, põhihariduse nõudeta kutseharidus",Primary education,Received elementary school education,473463000,43022063,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-A24,0,None,education,Põhiharidus,Lower secondary general education,Educated to junior high school level,603435002,43020414,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-A25,0,None,education,Kutseharidus koos põhihariduse omandamisega ja kutseharidus põhihariduse baasil,Lower secondary vocational education,Educated to junior high school level,603435002,43020414,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-A25,0,None,education,Kutseharidus koos põhihariduse omandamisega ja kutseharidus põhihariduse baasil,Lower secondary vocational education,Received vocational training,440586004,4260980,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-A34,0,None,education,Üldkeskharidus,Upper secondary general education,Educated to high school level,473461003,43021808,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-A35,0,None,education,Kutsekeskharidus,Upper secondary vocational education,Educated to high school level,473461003,43021808,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-A35,0,None,education,Kutsekeskharidus,Upper secondary vocational education,Received vocational training,440586004,4260980,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-A4,0,None,education,Kutseharidus keskhariduse baasil,Post-secondary non-tertiary vocational education,Received education at technical college,722465008,36716453,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-A5,0,None,education,Keskeriharidus keskhariduse baasil,Short-cycle tertiary education,Received education at technical college,722465008,36716453,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-A6,0,None,education,"Bakalaureus või sellega võrdsustatud, rakenduskõrgharidus",Bachelor's or equivalent level,Received graduate education,426769009,4141366,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-A7,0,None,education,Magister või sellega võrdsustatud,Master's or equivalent level,Received postgraduate education,440344006,4260255,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-A8,0,None,education,Doktor või sellega võrdsustatud,Doctoral or equivalent level,Received doctorate education,342251000000103,44792317,SNOMED,Observation,Clinical Finding,2024-06-04,2099-12-31
-A9,0,None,education,Mujal nimetama,Not elsewhere classified,,No matching concept,0,None,,,2024-06-04,2099-12-31
+A0,0,None,education,"Hariduseta, alusharidus",Less than primary education,No formal education,224294005,4074913,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+A1,0,None,education,"Algharidus, praegune põhikooli 6 klassi, põhihariduse nõudeta kutseharidus",Primary education,Received elementary school education,473463000,43022063,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+A24,0,None,education,Põhiharidus,Lower secondary general education,Educated to junior high school level,603435002,43020414,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+A25,0,None,education,Kutseharidus koos põhihariduse omandamisega ja kutseharidus põhihariduse baasil,Lower secondary vocational education,Educated to junior high school level,603435002,43020414,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+A25,0,None,education,Kutseharidus koos põhihariduse omandamisega ja kutseharidus põhihariduse baasil,Lower secondary vocational education,Received vocational training,440586004,4260980,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+A34,0,None,education,Üldkeskharidus,Upper secondary general education,Educated to high school level,473461003,43021808,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+A35,0,None,education,Kutsekeskharidus,Upper secondary vocational education,Educated to high school level,473461003,43021808,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+A35,0,None,education,Kutsekeskharidus,Upper secondary vocational education,Received vocational training,440586004,4260980,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+A4,0,None,education,Kutseharidus keskhariduse baasil,Post-secondary non-tertiary vocational education,Received education at technical college,722465008,36716453,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+A5,0,None,education,Keskeriharidus keskhariduse baasil,Short-cycle tertiary education,Received education at technical college,722465008,36716453,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+A6,0,None,education,"Bakalaureus või sellega võrdsustatud, rakenduskõrgharidus",Bachelor's or equivalent level,Received graduate education,426769009,4141366,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+A7,0,None,education,Magister või sellega võrdsustatud,Master's or equivalent level,Received postgraduate education,440344006,4260255,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+A8,0,None,education,Doktor või sellega võrdsustatud,Doctoral or equivalent level,Received doctorate education,342251000000103,44792317,SNOMED,Observation,Clinical Finding,2025-12-03,2099-12-31
+A9,0,None,education,Mujal nimetama,Not elsewhere classified,,No matching concept,0,None,,,2025-12-03,2099-12-31

@@ -2,7 +2,7 @@
 
 This directory contains translations of various death-related code sets to OMOP CDM standard concepts. 
 
-Below is a brief description of each code set and the corresponding CSV files located in this directory.
+Below is a brief description of each code set, along with the corresponding CSV files located in this directory.
 
 All mappings in these CSV files were created using the OHDSI tool [Usagi](https://ohdsi.github.io/Usagi/).
 
@@ -28,7 +28,7 @@ Codes are taken from the [Publishing Centre](https://pub.e-tervis.ee/classificat
 ## The Structure of Mapping files
 Each CSV file contains the following columns:
 
-- **source_code:** The original code or concept from the respective code set. The source code being translated into a Standard Concept. 
+- **source_code:** The original code or concept from the respective code set. The source code is being translated into a Standard Concept. 
 - **source_concept_id:** A foreign key to the Source Concept (refers to OMOP CDM CONCEPT table) that is being translated into a Standard Concept. 
 - **source_vocabulary_id:** A foreign key to the OMOP CDM VOCABULARY table defining the vocabulary of the source code that is being translated to a Standard Concept. 
 - **source_code_type:** The type of the source code (e.g., death_circumstances, death_location).

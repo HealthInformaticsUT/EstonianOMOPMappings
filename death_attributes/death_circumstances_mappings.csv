@@ -1,7 +1,7 @@
 source_code,source_concept_id,source_vocabulary_id,source_code_type,source_code_description,target_concept_name,target_concept_code,target_concept_id,target_vocabulary_id,target_domain,target_concept_class_id,updated_date,valid_end_date
-01,0,None,death_circumstances,haigus,Death,419620001,4306655,SNOMED,Observation,Event,2024-06-10,2099-12-31
-02,0,None,death_circumstances,õnnetusjuhtum,Accidental death,7878000,4302017,SNOMED,Observation,Event,2024-06-10,2099-12-31
-03,0,None,death_circumstances,enesetapp,Suicide,44301001,440925,SNOMED,Observation,Event,2024-06-10,2099-12-31
-04,0,None,death_circumstances,rünne,Death due to assault AND battery,36882002,4277188,SNOMED,Observation,Event,2024-06-10,2099-12-31
-05,0,None,death_circumstances,teadmata põhjus,Death of unknown cause,87309006,441413,SNOMED,Observation,Event,2024-06-10,2099-12-31
-99,0,None,death_circumstances,muu,Undetermined manner of death,65037004,4276823,SNOMED,Observation,Event,2024-06-10,2099-12-31
+01,0,None,death_circumstances,haigus,Death,419620001,4306655,SNOMED,Observation,Event,2025-12-03,2099-12-31
+02,0,None,death_circumstances,õnnetusjuhtum,Accidental death,7878000,4302017,SNOMED,Observation,Event,2025-12-03,2099-12-31
+03,0,None,death_circumstances,enesetapp,Suicide,44301001,440925,SNOMED,Observation,Event,2025-12-03,2099-12-31
+04,0,None,death_circumstances,rünne,Death due to assault AND battery,36882002,4277188,SNOMED,Observation,Event,2025-12-03,2099-12-31
+05,0,None,death_circumstances,teadmata põhjus,Death of unknown cause,87309006,441413,SNOMED,Observation,Event,2025-12-03,2099-12-31
+99,0,None,death_circumstances,muu,Undetermined manner of death,65037004,4276823,SNOMED,Observation,Event,2025-12-03,2099-12-31
